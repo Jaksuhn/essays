@@ -11,6 +11,7 @@
   * [Europe](#europe)
   * [Middle East](#middle-east)
   * [Oceania](#oceania)
+- [Statistics](#statistics)
   
 ## Regions
 
@@ -53,7 +54,7 @@
 ### Europe
 
 - **Greece**
-- **Italy**
+- **Italy:** 1948-1996, the CIA corrupts elections in Italy wherein the CIA broadcasts propaganda, buys votes, threatens and beats up the leaders of the opposition, and infilitrates their organisations.<sup>[1](https://en.wikipedia.org/wiki/CIA_activities_in_Italy)</sup><sup>[2](https://en.wikipedia.org/wiki/Italian_general_election,_1948#Superpower_influence)</sup>
 
 
 ### Middle East
