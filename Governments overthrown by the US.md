@@ -48,8 +48,8 @@
   <ins>Crimes of the dictator:</ins> thousands of killings, torture, forcing of 200,000 Chileans into exile, cruel and unusual punishment.  
   <ins>WTPLDE:</ins> yes  
   <ins>Reason:</ins> Fear of communism
-- **Colombia** 1928, US threatened to send troops to Colombia if they did not comply with the wishes of the United Fruit company. The Colombia army opened fire upon and killed estimates ranging from 80-3000. This is the only country on the list where the deaths were on the US's side.  
-  <ins>Reason:</ins> Communism
+- **Colombia** 1928, US threatened to send troops to Colombia if they did not comply with the wishes of the United Fruit company. The Colombia army opened fire upon and killed estimates ranging from 80-3000. This is the only country on the list where the deaths were on the US's side.<sup>[[1]](https://en.wikipedia.org/wiki/Banana_massacre)</sup>  
+  <ins>Reason:</ins> Workers' rights (socialism)
 - **Cuba** 1950s, CIA backed dictator Fulgencio Batista. From the 1960s onward, the CIA attempted approximately 638 assassination attempts on socialist leader Fidel Castro. The CIA attempted psychological warfare, propaganda, espeonage, sabotage, bombings and other destruction upon food and power facilities. This is the only country on the list where the US failed to kill the socialist leader.<sup>[[1]](https://en.wikipedia.org/wiki/Cuban_Project)[[2]](https://en.wikipedia.org/wiki/Psychological_warfare)[[3]](https://en.wikipedia.org/wiki/Assassination_attempts_on_Fidel_Castro)</sup>  
   <ins>Crimes of the dictator:</ins> systematic oppression, revoking of civil liberties/rights, censorship, torture, executions, killings up to 20,000 people.  
   <ins>WTPLDE:</ins> The leader backed by the CIA was not. The leader that came after that the CIA attempted to overthrow was.  
