@@ -1,7 +1,8 @@
-# List of countries where the the governments were overthrown by the US
+# List of countries where the governments were overthrown by the US
 
 * "Overthrown" includes direct intervention by the US government/military and the indirect intervention of funding/training terrorist groups to do the work for them
 * WTPLDE = "Was the previous leader democratically elected"
+* "Reason" under every country lists the reason for US intervention
 
 ## Contents
 
@@ -18,20 +19,36 @@
 
 ### Africa
 
-- **Chad** 1982, aided by arms and money provided by the CIA, Hissene Habre takes power in Chad. In 2016, Habre was found guilty of human-rights abuses such as the killing of 40,000 people, rape, and sexual slavery. His secret police often used methods of torture, ethnic cleansing and killed/arrest those who were perceived as a threat.<sup>[[1]](https://en.wikipedia.org/wiki/Hissène_Habré#Support_of_the_U.S._and_France)</sup>  
-   Crimes by the dictator: rape, sexual slavery, killings of 40,000 people.
+- **Chad** 1982, aided by arms and money provided by the CIA, Hissene Habre takes power in Chad.<sup>[[1]](https://en.wikipedia.org/wiki/Hissène_Habré#Support_of_the_U.S._and_France)</sup>  
+
+   Crimes by the dictator: rape, sexual slavery, killings of 40,000 people, ethnic cleansing, torture, political assassinations.  
+   WTPLDE: no  
+   Reason: Third International Theory - alternative to capitalism and socialism
 - **Democratic Republic of the Congo**
   *  1961, the CIA assists in the assassination of the democratically eleceted Patrice Lumumba.<sup>[[1]](https://en.wikipedia.org/wiki/Patrice_Lumumba#United_States_involvement)</sup>
   * 1965, the CIA backed a military coup and installed the dictator Moboutu Sese Seko.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_the_Democratic_Republic_of_the_Congo)[[2]](https://en.wikipedia.org/wiki/Mobutu_Sese_Seko#Coalition_government)</sup>
+  
+  Crimes of the dictator: embezzlement, political assassinations, torture  
+  WTPLDE: yes  
+  Reason: Fear of communism
 - **South Africa** 1980s, President Ronald Reagan maintained a close alliance with the South African government during apartheid. The Reagan administration demonized opponents of apartheid and funded those in favour to prevent communism from spreading.<sup>[[1]](https://www.salon.com/2011/02/05/ronald_reagan_apartheid_south_africa/)</sup>
+
+  WTPLDE: yes  
+  Reason: Fear of communism
 
 
 ### Americas
 
-- **Argentina**
-  *  1976, the CIA backed the overthrow of Isabel Martínez de Perón and installed dictator Jorge Rafael Videla.<sup>[[1]](https://en.wikipedia.org/wiki/Isabel_Martínez_de_Perón)</sup>  
-  Crimes by the dictator: forced disappearances, kidnappings, torture, concentration camps, kidnapping of babies, extrajudicial murder of opponents and their families.<sup>[[2]](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla)</sup>
-- **Bolivia**
+- **Argentina** 1976, the CIA backed the overthrow of Isabel Martínez de Perón and installed dictator Jorge Rafael Videla.<sup>[[1]](https://en.wikipedia.org/wiki/Isabel_Martínez_de_Perón)[[2]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>
+
+  Crimes by the dictator: forced disappearances, kidnappings, torture, concentration camps, kidnapping of babies, extrajudicial murder of opponents and their families.<sup>[[3]](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla)</sup>  
+  WTPLDE: yes  
+  Reason: Fear of communism
+- **Bolivia** 1971, CIA-backed coup overthrows leftist president Juan Jose Torres and installed dictator Hugo Banzer. He was kidnapped and murdered by CIA death squads.<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>
+
+  Crimes by the dictator: political assassinations, torture, kidnappings.<sup>[[1]](https://en.wikipedia.org/wiki/Hugo_Banzer)</sup>  
+  WTPLDE: yes  
+  Reason: Fear of communism
 - **Chile**
 - **Colombia**
 - **Cuba**
@@ -43,6 +60,8 @@
 - **Honduras**
 - **Nicaragua**
 - **Panama**
+- **Paraguay**
+- **Uruguay**
 
 
 ### Asia
