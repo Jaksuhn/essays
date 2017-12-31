@@ -23,31 +23,31 @@
 
 ### Americas
 
-- **Guatemala**
-- **Chile**
 - **Argentina**
-- **Panama**
-- **Dominican Republic**
+- **Bolivia**
+- **Chile**
+- **Colombia**
+- **Cuba**
 - **Dominica**
+- **Dominican Republic**
+- **Grenada**
+- **Guatemala**
+- **Haiti**
 - **Honduras**
 - **Nicaragua**
-- **Grenada**
-- **Bolivia**
-- **Haiti**
-- **Cuba**
-- **Colombia**
+- **Panama**
 
 
 ### Asia
 
 - **Afghanistan**
-- **Vietnam**
-- **Russia**
-- **West Pakistan**
 - **Cambodia**
 - **Indonesia**
-- **Philippines**
 - **Laos**
+- **Philippines**
+- **Russia**
+- **Vietnam**
+- **West Pakistan**
 
 
 ### Europe
@@ -58,12 +58,12 @@
 
 ### Middle East
 
-- **Iraq**
 - **Iran**
-- **Turkey**
+- **Iraq**
 - **Syria**
+- **Turkey**
 
 
 ### Oceania
 
-- **Australia
+- **Australia**
