@@ -20,21 +20,18 @@
 ### Africa
 
 - **Chad** 1982, aided by arms and money provided by the CIA, Hissene Habre takes power in Chad.<sup>[[1]](https://en.wikipedia.org/wiki/Hissène_Habré#Support_of_the_U.S._and_France)</sup>  
-
-   Crimes by the dictator: rape, sexual slavery, killings of 40,000 people, ethnic cleansing, torture, political assassinations.  
-   WTPLDE: no  
-   Reason: Third International Theory - alternative to capitalism and socialism
+   <ins>Crimes by the dictator:</ins> rape, sexual slavery, killings of 40,000 people, ethnic cleansing, torture, political assassinations.  
+   <ins>WTPLDE:</ins> no  
+   <ins>Reason:</ins> Third International Theory - alternative to capitalism and socialism
 - **Democratic Republic of the Congo**
   *  1961, the CIA assists in the assassination of the democratically eleceted Patrice Lumumba.<sup>[[1]](https://en.wikipedia.org/wiki/Patrice_Lumumba#United_States_involvement)</sup>
-  * 1965, the CIA backed a military coup and installed the dictator Moboutu Sese Seko.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_the_Democratic_Republic_of_the_Congo)[[2]](https://en.wikipedia.org/wiki/Mobutu_Sese_Seko#Coalition_government)</sup>
-  
-  Crimes of the dictator: embezzlement, political assassinations, torture  
-  WTPLDE: yes  
-  Reason: Fear of communism
-- **South Africa** 1980s, President Ronald Reagan maintained a close alliance with the South African government during apartheid. The Reagan administration demonized opponents of apartheid and funded those in favour to prevent communism from spreading.<sup>[[1]](https://www.salon.com/2011/02/05/ronald_reagan_apartheid_south_africa/)</sup>
-
-  WTPLDE: yes  
-  Reason: Fear of communism
+  * 1965, the CIA backed a military coup and installed the dictator Moboutu Sese Seko.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_the_Democratic_Republic_of_the_Congo)[[2]](https://en.wikipedia.org/wiki/Mobutu_Sese_Seko#Coalition_government)</sup>  
+  <ins>Crimes of the dictator:</ins> embezzlement, political assassinations, torture  
+  <ins>WTPLDE:</ins> yes  
+  <ins>Reason:</ins> Fear of communism
+- **South Africa** 1980s, President Ronald Reagan maintained a close alliance with the South African government during apartheid. The Reagan administration demonized opponents of apartheid and funded those in favour to prevent communism from spreading.<sup>[[1]](https://www.salon.com/2011/02/05/ronald_reagan_apartheid_south_africa/)</sup>  
+  <ins>WTPLDE:</ins> yes  
+  <ins>Reason:</ins> Fear of communism
 
 
 ### Americas
@@ -80,7 +77,8 @@
 
 - **Greece**
 - **Italy** 1948-1996, the CIA corrupts elections in Italy wherein the CIA broadcasts propaganda, buys votes, threatens and beats up the leaders of the opposition, and infilitrates their organisations.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_Italy)</sup><sup>[[2]](https://en.wikipedia.org/wiki/Italian_general_election,_1948#Superpower_influence)</sup>  
-   **WTPLDE:** yes
+   <ins>WTPLDE:</ins> yes  
+   <ins>Reason:</ins> Fear of communism
 
 
 ### Middle East
