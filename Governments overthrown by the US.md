@@ -66,7 +66,7 @@
   <ins>WTPLDE:</ins> yes  
   <ins>Reason:</ins> Corporate interest
   
-  1990, a few months after Haiti elected leftist priest [Jean-Bertrand Aristide](https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide), he was deposed in a CIA military coup and replaced by dictators. After the people of Haiti were demanded the return of Aristide, the CIA began progaganda campaigns to paint Aristide as mentally unstable.<sup>[[1]](https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27état)</sup>  
+  1990, a few months after Haiti elected leftist priest [Jean-Bertrand Aristide](https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide), he was deposed in a CIA military coup and replaced by dictators. After the people of Haiti were demanded the return of Aristide, the CIA began progaganda campaigns to paint Aristide as mentally unstable.<sup>[[1]](https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Raoul_Cédras)</sup>  
   <ins>Crimes of the dictactor:</ins> Deaths of more than 3,000 men, women and children.  
   <ins>WTPLDE:</ins> yes  
   <ins>Reason:</ins> Fear of socialism
