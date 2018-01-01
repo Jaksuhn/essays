@@ -135,7 +135,8 @@
 
 ### Europe
 
-- **Greece**
+- **Greece** 1947, in the Greek civil war and ensuing right wing military junta of 1967-74, Truman and the CIA provided money, 74,000 tons of military equipment, and advisors to support anti-communist Greek dictators with deplorable human rights records<sup>[[1]](https://en.wikipedia.org/wiki/Greek_Civil_War)[[2]](https://en.wikipedia.org/wiki/Greek_military_junta_of_1967%E2%80%9374)[[3]](https://en.wikipedia.org/wiki/Truman_Doctrine)</sup>  
+  <ins>WTPLDE:</ins> No, it was a kingdom.
 - **Italy** 1948-1996, the CIA corrupts elections in Italy wherein the CIA broadcasts propaganda, buys votes, threatens and beats up the leaders of the opposition, and infilitrates their organisations.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_Italy)</sup><sup>[[2]](https://en.wikipedia.org/wiki/Italian_general_election,_1948#Superpower_influence)</sup>  
    <ins>WTPLDE:</ins> Yes  
    <ins>Reason:</ins> Fear of communism
