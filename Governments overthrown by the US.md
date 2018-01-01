@@ -38,7 +38,10 @@
   <ins>Crimes of the dictator:</ins> forced disappearances, kidnappings, torture, concentration camps, kidnapping of babies, extrajudicial murder of opponents and their families.<sup>[[3]](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Brazil****
+- **Brazil**** 1964, CIA-backed coup overthrows [João Goulart](https://en.wikipedia.org/wiki/João_Goulart) annd replaces him with one of the most bloodthirsty dictators in history: [General Castelo Branco](https://en.wikipedia.org/wiki/Humberto_de_Alencar_Castelo_Branco).<sup>[[1]](https://en.wikipedia.org/wiki/João_Goulart)</sup>  
+  <ins>Crimes of the dictator:</ins> Hunting leftists, torture, extrajudicial killings  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Fear of communism
 - **Bolivia**** 1971, CIA-backed coup overthrows leftist president Juan Jose Torres and installed dictator [Hugo Banzer](https://en.wikipedia.org/wiki/Hugo_Banzer). He was kidnapped and murdered by CIA death squads.<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>  
   <ins>Crimes of the dictator:</ins> political assassinations, torture, kidnappings.<sup>[[2]](https://en.wikipedia.org/wiki/Hugo_Banzer)</sup>  
   <ins>WTPLDE:</ins> Yes  
@@ -56,7 +59,9 @@
 - **Dominican Republic*** 1902, 1904, 1914, and 1916-1924, the US occupied the Dominican Republic. 1930 onwards, the US supported dictator [Rafael Trujillo](https://en.wikipedia.org/wiki/Rafael_Trujillo) (responsibly for the deaths of more than 50,000 people. After the dictactor began to control approximately 60% of the economy and began competing with American businesses, the CIA assassinated him in 1961. 1965, the US intervened in the Dominican Civil War to support the loyalists and US interests, providing air and ground support.<sup>[[1]](https://en.wikipedia.org/wiki/Dominican_Civil_War)[[2]](https://en.wikipedia.org/wiki/Organization_of_American_States)[[3]](http://www.informationclearinghouse.info/article4068.htm)[[4]](https://en.wikipedia.org/wiki/Smedley_Butler#The_Banana_Wars)[[5]](https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic_(1916–24))</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Corporate interest (Banana Wars)
-- **Ecuador****
+- **Ecuador**** 1961, CIA-backed military overthrows the democratically elected President [José María Velasco Ibarra](https://en.wikipedia.org/wiki/José_María_Velasco_Ibarra)  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Political interest
 - **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
