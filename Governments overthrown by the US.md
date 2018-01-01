@@ -129,8 +129,19 @@
 - **Laos** 1957, in the wake of the US-backed [First Indochina War](https://en.wikipedia.org/wiki/First_Indochina_War), The CIA carries out approximately one coup per year trying to nullify Laos’ democratic elections, specifically targeting the [Pathet Lao](https://en.wikipedia.org/wiki/Pathet_Lao), a leftist group with enough popular support to be a member of any coalition government, and perpetuating the 20 year Laotian civil war. In the late 50s, the CIA even creates an "Armee Clandestine" of Asian mercenaries to attack the Pathet Lao. After the CIA’s army suffers numerous defeats, the U.S. drops more bombs on Laos than all the U.S. bombs dropped in World War II. A quarter of all Laotians will eventually become refugees, many living in caves.<sup>[[1]](https://en.wikipedia.org/wiki/Laotian_Civil_War)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Philippines**
-- **Russia**
+- **Philippines** 1899, after a popular revolution in the Philippines to oust the Spanish imperialists, the US invaded and began the Phillipine-American war. The US military committed countless atrocities, leaving 200,000 Filipinos dead.<sup>[[1]](https://en.wikipedia.org/wiki/Philippine_Revolution)[[2]](https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War)]]</sup>  
+  <ins>Reason:</ins> Political interest.
+  
+  1960s onward, the US backed the dictator [Ferdinand Marcos](https://en.wikipedia.org/wiki/Ferdinand_Marcos). After being the dictator for nearly two decades, Marcos fled to Hawaii.<sup>[[1]](http://www.gmanetwork.com/news/news/specialreports/556744/what-marcoses-brought-to-hawaii-after-fleeing-phl-in-86-717-m-in-cash-124-m-in-deposit-slips/story/)</sup>  
+  <ins>Crimes of the dictator:</ins> Executions and disappearances of over 100,000 people.  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Fear of communism
+- **Russia** 1918, the US took part in the allied intervention in the Russian civil war, sending 11,000 troops to the in the Arkhangelsk and Vladivostok regions to support the anti-bolshevik, monarchist, and largely anti-semitic White Forces.<sup>[[1]](https://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War)[[2]](https://en.wikipedia.org/wiki/White_movement)</sup>  
+  <ins>Reason:</ins> Fear of communism
+
+  1996, after receiving incredibly low approval ratings, the US helped elect Boris Yeltsin, an incompetent pro-capitalist independent, by giving him a $10 Billion dollar loan to finance a winning election.
+  <ins>WTPLDE:</ins> No  
+  <ins>Reason:</ins> Fear of communism
 - **South Vietnam**
 - **West Pakistan**
 
