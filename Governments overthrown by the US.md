@@ -139,11 +139,15 @@
 - **Russia** 1918, the US took part in the allied intervention in the Russian civil war, sending 11,000 troops to the in the Arkhangelsk and Vladivostok regions to support the anti-bolshevik, monarchist, and largely anti-semitic White Forces.<sup>[[1]](https://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War)[[2]](https://en.wikipedia.org/wiki/White_movement)</sup>  
   <ins>Reason:</ins> Fear of communism
 
-  1996, after receiving incredibly low approval ratings, the US helped elect Boris Yeltsin, an incompetent pro-capitalist independent, by giving him a $10 Billion dollar loan to finance a winning election.
+  1996, after receiving incredibly low approval ratings, the US helped elect Boris Yeltsin, an incompetent pro-capitalist independent, by giving him a $10 Billion dollar loan to finance a winning election.  
   <ins>WTPLDE:</ins> No  
   <ins>Reason:</ins> Fear of communism
-- **South Vietnam**
-- **West Pakistan**
+- **South Vietnam** 1955-1975, the US supported French colonialist interests in Vietnam, set up a puppet regime in Saigon to serve US interests, and later took part as a belligerent against North Vietnam in the Vietnam War. U.S. involvement escalated further following the 1964 Gulf of Tonkin incident, which was later found to be staged by Lyndon Johnson. The war exacted a huge human cost in terms of fatalities. Estimates of the number of Vietnamese soldiers and civilians killed vary from 966,000 to 3.8 million. Some 240,000–300,000 Cambodians, 20,000–62,000 Laotians, and 58,220 U.S. service members also died in the conflict, with a further 1,626 missing in action.<sup>[[1]](https://en.wikipedia.org/wiki/Vietnam_War)[[2]](https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident)[[3]](https://en.wikipedia.org/wiki/Vietnam_War_casualties)</sup>  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Fear of communism
+
+  This next part is not an overthrow but it is included anyway just to make it known. US Troops killed between 347 and 504 unarmed civilians, including women, children, and infants, in South Vietnam on March, 1968, in the My Lai Massacre. Some of the women were gang-raped and their bodies mutilated. Soldiers set fire to huts, waiting for civilians to come out so they could shoot them. For 30 years, the three US servicemen who tried to halt the massacre and rescue the hiding civilians were shunned and denounced as traitors, even by congressmen.<sup>[[1]](https://en.wikipedia.org/wiki/My_Lai_Massacre)</sup>
+- **West Pakistan** 1971 in Pakistan, an authoritarian state supported by the U.S., brutally invaded East Pakistan in the Indo-Pakistani war of 1971. Between 300,000 to 3 million civilians were killed, with 8-10 million refugees fleeing to India.<sup>[[1]](https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts)[[2]](https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971)</sup>
 
 
 ### Europe
