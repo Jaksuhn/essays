@@ -56,9 +56,9 @@
   <ins>Crimes of the dictator:</ins> Thousands of killings, torture, forcing of 200,000 Chileans into exile, cruel and unusual punishment.  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Colombia** 1928, US threatened to send troops to Colombia if they did not comply with the wishes of the United Fruit company. The Colombia army opened fire upon and killed estimates ranging from 80-3000. This is the only country on the list where the deaths were on the US's side.<sup>[[1]](https://en.wikipedia.org/wiki/Banana_massacre)</sup>  
+- **Colombia** 1928, US threatened to send troops to Colombia if they did not comply with the wishes of the United Fruit company. The Colombia army opened fire upon and killed estimates ranging from 80-3000. *This is the only country on the list where the deaths were on the US's side.*<sup>[[1]](https://en.wikipedia.org/wiki/Banana_massacre)</sup>  
   <ins>Reason:</ins> Corporate interest (Banana Wars), workers' rights (socialism)
-- **Cuba*** 1950s, CIA backed dictator [Fulgencio Batista](https://en.wikipedia.org/wiki/Fulgencio_Batista). From the 1960s onward, the CIA attempted approximately 638 assassination attempts on socialist leader [Fidel Castro](https://en.wikipedia.org/wiki/Fidel_Castro). The CIA attempted psychological warfare, propaganda, espeonage, sabotage, bombings and other destruction upon food and power facilities. This is the only country on the list where the US failed to kill the socialist leader.<sup>[[1]](https://en.wikipedia.org/wiki/Cuban_Project)[[2]](https://en.wikipedia.org/wiki/Psychological_warfare)[[3]](https://en.wikipedia.org/wiki/Assassination_attempts_on_Fidel_Castro)</sup>  
+- **Cuba*** 1950s, CIA backed dictator [Fulgencio Batista](https://en.wikipedia.org/wiki/Fulgencio_Batista). From the 1960s onward, the CIA attempted approximately 638 assassination attempts on socialist leader [Fidel Castro](https://en.wikipedia.org/wiki/Fidel_Castro). The CIA attempted psychological warfare, propaganda, espeonage, sabotage, bombings and other destruction upon food and power facilities. *This is the only country on the list where the US failed to kill the socialist leader.*<sup>[[1]](https://en.wikipedia.org/wiki/Cuban_Project)[[2]](https://en.wikipedia.org/wiki/Psychological_warfare)[[3]](https://en.wikipedia.org/wiki/Assassination_attempts_on_Fidel_Castro)</sup>  
   <ins>Crimes of the dictator:</ins> Systematic oppression, revoking of civil liberties/rights, censorship, torture, executions, killings up to 20,000 people.  
   <ins>WTPLDE:</ins> The leader backed by the CIA was not. The leader that came after that the CIA attempted to overthrow was.  
   <ins>Reason:</ins> Fear of communism
@@ -68,7 +68,9 @@
 - **Ecuador**** 1961, CIA-backed military overthrows the democratically elected President [José María Velasco Ibarra](https://en.wikipedia.org/wiki/José_María_Velasco_Ibarra)  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Political interest
-- **El Salvador**
+- **El Salvador** 1980s, during the civil war of El Salvador against a brutal oppressive government, the CIA that funded that goverment was responsible for killing at least 70,000 people with thousands more missing.<sup>[[1]](http://en.wikipedia.org/wiki/Salvadoran_Civil_War)[[2]](http://www.historyisaweapon.com/defcon1/nairnelsalvadorbtds.html)[[3]](http://en.wikipedia.org/wiki/Atlacatl_Battalion)[[4]](http://en.wikipedia.org/wiki/El_Mozote_massacre)</sup>
+  <ins>WTPLDE:</ins> No  
+  <ins>Reason:</ins> Fear of communism
 - **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
@@ -127,7 +129,7 @@
   <ins>WTPLDE:</ins> No, it was a kingdom.  
   <ins>Reason:</ins> Political interest
 
-  1975, CIA-backed opposition party [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge), displeased with the actions of Lon Nol, overthrew him. This party went on to cause the deaths of 2.5 million people through executions, assassinations, starvation and torture. This is the only country where the US supported a communist party.<sup>[[1]](https://en.wikipedia.org/wiki/Allegations_of_United_States_support_for_the_Khmer_Rouge)</sup>  
+  1975, CIA-backed opposition party [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge), displeased with the actions of Lon Nol, overthrew him. This party went on to cause the deaths of 2.5 million people through executions, assassinations, starvation and torture. *This is the only country where the US supported a communist party.*<sup>[[1]](https://en.wikipedia.org/wiki/Allegations_of_United_States_support_for_the_Khmer_Rouge)</sup>  
   <ins>Reason:</ins> Political interest
 - **Indonesia** 1965, CIA overthrew [President Sukarno](https://en.wikipedia.org/wiki/Sukarno) with a military coup. This was one of many attempts to overthrow Sukarno, beginning back in 1957. He was replaced by [General Suharto](https://en.wikipedia.org/wiki/Suharto) and was aided by the CIA to kill between 500,000 and 1 million civilians accused of being communist.<sup>[[1]](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966#Foreign_involvement)</sup>  
   <ins>Crimes of the dictator:</ins> Genocide  
@@ -149,7 +151,9 @@
   1996, after receiving incredibly low approval ratings, the US helped elect Boris Yeltsin, an incompetent pro-capitalist independent, by giving him a $10 Billion dollar loan to finance a winning election.  
   <ins>WTPLDE:</ins> No  
   <ins>Reason:</ins> Fear of communism
-- **South Korea**
+- **South Korea** 1945, in the aftermath of WWII the US military occupied South Korea and aided resistance groups that fought off the Japanese forces. Russian forces in the North recognised the Korean People's Republic leading to the division of the peninsula. The US installed [Syngman Rhee](http://en.wikipedia.org/wiki/Syngman_Rhee), a conservative Korean exile, as the President of South Korea. Rhee became a dictator on an anti-communist crusade, arresting and torturing suspected communists, brutally putting down rebellions, killing 100,000 people and vowing to take over North Korea. He was at least partly responsible for the outbreak of the [Korean War](https://en.wikipedia.org/wiki/Korean_War) and for the allied decision to invade North Korea once South Korea had been recaptured.<sup>[[1]](http://en.wikipedia.org/wiki/Division_of_Korea)[[2]](http://en.wikipedia.org/wiki/Jeju_Uprising)</sup>
+  <ins>WTPLDE:</ins> No  
+  <ins>Reason:</ins> Fear of communism
 - **South Vietnam** 1955-1975, the US supported French colonialist interests in Vietnam, set up a puppet regime in Saigon to serve US interests, and later took part as a belligerent against North Vietnam in the Vietnam War. U.S. involvement escalated further following the 1964 Gulf of Tonkin incident, which was later found to be staged by Lyndon Johnson. The war exacted a huge human cost in terms of fatalities. Estimates of the number of Vietnamese soldiers and civilians killed vary from 966,000 to 3.8 million. Some 240,000–300,000 Cambodians, 20,000–62,000 Laotians, and 58,220 U.S. service members also died in the conflict, with a further 1,626 missing in action. US Troops killed between 347 and 504 unarmed civilians, including women, children, and infants, in South Vietnam on March, 1968, in the My Lai Massacre. Some of the women were gang-raped and their bodies mutilated. Soldiers set fire to huts, waiting for civilians to come out so they could shoot them. For 30 years, the three US servicemen who tried to halt the massacre and rescue the hiding civilians were shunned and denounced as traitors, even by congressmen.<sup>[[1]](https://en.wikipedia.org/wiki/Vietnam_War)[[2]](https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident)[[3]](https://en.wikipedia.org/wiki/Vietnam_War_casualties)[[4]](https://en.wikipedia.org/wiki/My_Lai_Massacre)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
@@ -158,8 +162,10 @@
 
 ### Europe
 
-- **Albania**
-- **France**
+- **Albania** 1949-1953, the U.S. and U.K. overthrew the government of Albania. Exiles were recruited and trained to return to Albania to stir up dissent and plan an armed uprising. Many of the exiles involved in the plan were former collaborators with the Italian and German occupation during World War II. They included former Interior [Minister Xhafer Deva](https://en.wikipedia.org/wiki/Xhafer_Deva), who oversaw the deportations of "Jews, Communists, partisans and suspicious persons" to Auschwitz. Declassified U.S. documents have since revealed that Deva was one of 743 fascist war criminals recruited by the U.S. after the war. *This is the only country on the list where the plan failed, but it caused enough damage to be put on the list.*<sup>[[1]](https://en.wikipedia.org/wiki/Albanian_Subversion)</sup>
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Fear of communism
+- **France** 1940s, in Marseille, the CGT communist trade union controlled the docks that were critical to trade with the U.S. and the Marshall plan. The OSS had worked with the U.S.-Sicilian mafia and Corsican gangsters during the war. So after the OSS merged into the new CIA after the war, it used its contacts to restore Corsican gangsters to power in Marseille, to break dock strikes and CGT control of the docks. It protected the Corsicans as they set up heroin labs and began shipping heroin to New York, where the American-Sicilian mafia also flourished under CIA protection. *"Government" is stretched on this country but given the government at the time was provisional and the extent of control of the mafia, it was allowed on the list.*
 - **Greece** 1947, in the Greek civil war and ensuing right wing military junta of 1967-74, Truman and the CIA provided money, 74,000 tons of military equipment, and advisors to support anti-communist Greek dictators with deplorable human rights records<sup>[[1]](https://en.wikipedia.org/wiki/Greek_Civil_War)[[2]](https://en.wikipedia.org/wiki/Greek_military_junta_of_1967%E2%80%9374)[[3]](https://en.wikipedia.org/wiki/Truman_Doctrine)</sup>  
   <ins>WTPLDE:</ins> No, it was a kingdom.
 - **Italy** 1948-1996, the CIA corrupts elections in Italy wherein the CIA broadcasts propaganda, buys votes, threatens and beats up the leaders of the opposition, and infilitrates their organisations.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_Italy)</sup><sup>[[2]](https://en.wikipedia.org/wiki/Italian_general_election,_1948#Superpower_influence)</sup>  
