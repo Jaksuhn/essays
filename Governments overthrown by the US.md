@@ -115,12 +115,21 @@
 
 - **Afghanistan** 1979-1989, CIA begins supplying arms and money ($630 million per year by 1987) to factions fighting against the soviets in their invasion of Afghanistan, in what was known as [Operation Cyclone](https://en.wikipedia.org/wiki/Operation_Cyclone). The US government secretly provided weapons and funding for the [Mujahadin](https://en.wikipedia.org/wiki/Mujahideen) Islamic guerillas of Afghanistan fighting to overthrow the Afghan government and the Soviet military forces that supported it. Although Operation Cyclone officially ended in 1989 with the withdrawal of Soviet troops from Afghanistan, U.S. government funding for the Mujahadin continued through 1992.<sup>[[1]](https://en.wikipedia.org/wiki/Soviet–Afghan_War)</sup>  
   <ins>Reason:</ins> Fear of communism
-- **Cambodia**
-- **Indonesia**
-- **Laos**
+- **Cambodia** 1970, CIA overthrows [Prince Norodom Sihanouk](https://en.wikipedia.org/wiki/Norodom_Sihanouk), who was highly popular among Cambodians. The CIA installed puppet leader [Lon Nol](https://en.wikipedia.org/wiki/Lon_Nol). All demonstrations in favour of Sihanouk after Nol rose to power were supressed and resulted in several hundred deaths.  
+  <ins>Reason:</ins> Political interest
+
+  1975, CIA-backed opposition party [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge), displeased with the actions of Lon Nol overthrew him. This party went on to cause the deaths of 2.5 million people through executions, assassinations, starvation and torture.  
+  <ins>Reason:</ins> Political interest
+- **Indonesia** 1965, CIA overthrew [President Sukarno](https://en.wikipedia.org/wiki/Sukarno) with a military coup. This was one of many attempts to overthrow Sukarno, beginning back in 1957. He was replaced by [General Suharto](https://en.wikipedia.org/wiki/Suharto) and was aided by the CIA to kill between 500,000 and 1 million civilians accused of being communist.<sup>[[1]](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966#Foreign_involvement)</sup>  
+  <ins>Crimes of the dictator:</ins> Genocide  
+  <ins>WTPLDE</ins> Yes  
+  <ins>Reason:</ins> Fear of communism. Soviet expansion had not reached Indonesia at all. President Sukarno simply declared neutrality during the Cold War.
+- **Laos** 1957, in the wake of the US-backed [First Indochina War](https://en.wikipedia.org/wiki/First_Indochina_War), The CIA carries out approximately one coup per year trying to nullify Laos’ democratic elections, specifically targeting the [Pathet Lao](https://en.wikipedia.org/wiki/Pathet_Lao), a leftist group with enough popular support to be a member of any coalition government, and perpetuating the 20 year Laotian civil war. In the late 50s, the CIA even creates an "Armee Clandestine" of Asian mercenaries to attack the Pathet Lao. After the CIA’s army suffers numerous defeats, the U.S. drops more bombs on Laos than all the U.S. bombs dropped in World War II. A quarter of all Laotians will eventually become refugees, many living in caves.<sup>[[1]](https://en.wikipedia.org/wiki/Laotian_Civil_War)</sup>  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Fear of communism
 - **Philippines**
 - **Russia**
-- **Vietnam**
+- **South Vietnam**
 - **West Pakistan**
 
 
