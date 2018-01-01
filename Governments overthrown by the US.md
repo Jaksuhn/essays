@@ -52,12 +52,24 @@
   <ins>Crimes of the dictator:</ins> systematic oppression, revoking of civil liberties/rights, censorship, torture, executions, killings up to 20,000 people.  
   <ins>WTPLDE:</ins> The leader backed by the CIA was not. The leader that came after that the CIA attempted to overthrow was.  
   <ins>Reason:</ins> Fear of communism
-- **Dominican Republic*** 1902, 1904, 1914, and 1916-1924, the US occupied the Dominican Republic. 1930 onwards, the US supported dictator [Rafael Trujillo](https://en.wikipedia.org/wiki/Rafael_Trujillo) (responsibly for the deaths of more than 50,000 people. After the dictactor began to control approximately 60% of the economy and began competing with American businesses, the CIA assassinated him in 1961. 1965, the US intervened in the Dominican Civil War to support the loyalists and US interests, providing air and ground support.<sup>[[1]](https://en.wikipedia.org/wiki/Dominican_Civil_War)[[2]](https://en.wikipedia.org/wiki/Organization_of_American_States)[[3]](http://www.informationclearinghouse.info/article4068.htm)[[4]](https://en.wikipedia.org/wiki/Smedley_Butler#The_Banana_Wars)[[5]](https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic_(1916–24))</sup>
+- **Dominican Republic*** 1902, 1904, 1914, and 1916-1924, the US occupied the Dominican Republic. 1930 onwards, the US supported dictator [Rafael Trujillo](https://en.wikipedia.org/wiki/Rafael_Trujillo) (responsibly for the deaths of more than 50,000 people. After the dictactor began to control approximately 60% of the economy and began competing with American businesses, the CIA assassinated him in 1961. 1965, the US intervened in the Dominican Civil War to support the loyalists and US interests, providing air and ground support.<sup>[[1]](https://en.wikipedia.org/wiki/Dominican_Civil_War)[[2]](https://en.wikipedia.org/wiki/Organization_of_American_States)[[3]](http://www.informationclearinghouse.info/article4068.htm)[[4]](https://en.wikipedia.org/wiki/Smedley_Butler#The_Banana_Wars)[[5]](https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic_(1916–24))</sup>  
   <ins>WTPLDE:</ins> yes  
   <ins>Reason:</ins> Corporate interest (Banana Wars)
-- **Grenada**
-- **Guatemala***
-- **Haiti***
+- **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
+  <ins>WTPLDE:</ins> yes
+  <ins>Reason:</ins> Fear of communism
+- **Guatemala*** 1954, CIA overthrows [Jacobo Árbenz](https://en.wikipedia.org/wiki/Jacobo_Árbenz) with a military coup during [Operation PBSucess](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état#Operation_PBSUCCESS) and installed many dictators from 1954-1996. Árbenz threatened to nationalise the Rockefeller-owned United Fruit Company, in which CIA Director [Allen Dulles](https://en.wikipedia.org/wiki/Allen_Dulles) owns stock. Democracy never returned to Guatemala until 1996.<sup>[[1]](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état)</sup>  
+  <ins>Crimes of the dictator:</ins> Deaths of over 100,000 people, genocide, extrajudicial killings  
+  <ins>WTPLDE:</ins> yes  
+  <ins>Reason:</ins> Corporate interest
+- **Haiti*** 1915-1934, the US occupied Haiti, which led to the creation of the 1917 Haitian consititution that ended the previous ban on land ownership by non-Haitians and guaranteed American financial control. Death toll ranges around 15,000 people.<sup>[[1]](https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti)[[2]](http://www.nytimes.com/2012/01/01/books/review/haiti-the-aftershocks-of-history-by-laurent-dubois-book-review.html)[[3]](https://www.newyorker.com/news/news-desk/haiti-us-occupation-hundred-year-anniversary)</sup>  
+  <ins>WTPLDE:</ins> yes  
+  <ins>Reason:</ins> Corporate interest
+  
+  1990, a few months after Haiti elected leftist priest [Jean-Bertrand Aristide](https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide), he was deposed in a CIA military coup and replaced by dictators. After the people of Haiti were demanded the return of Aristide, the CIA began progaganda campaigns to paint Aristide as mentally unstable.<sup>[[1]](https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27état)</sup>  
+  <ins>Crimes of the dictactor:</ins> Deaths of more than 3,000 men, women and children.  
+  <ins>WTPLDE:</ins> yes  
+  <ins>Reason:</ins> Fear of socialism
 - **Honduras**
 - **Nicaragua***
 - **Panama***
