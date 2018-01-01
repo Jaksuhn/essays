@@ -173,4 +173,6 @@
 
 ### Oceania
 
-- **Australia**
+- **Australia** 1975, during the Australian Constitutional Crisis, the CIA helped topple the democratically elected, left-leaning government of Prime Minister Gough Whitlam, by telling Governor-General, John Kerr, a longtime CIA collaborator, to dissolve the Whitlam government.<sup>[[1]](https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis)[[2]](https://en.wikipedia.org/wiki/Gough_Whitlam)[[3]](https://en.wikipedia.org/wiki/John_Kerr_(governor-general))</sup>  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Fear of socialism
