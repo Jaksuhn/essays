@@ -4,7 +4,7 @@
 * WTPLDE = "Was the previous leader democratically elected"
 * "Reason" under every country lists the reason for US intervention
 
-[map]: /overthrown.png "Map"
+[map]: https://i.imgur.com/iHZSv6t.png "Map"
 
 ## Contents
 
