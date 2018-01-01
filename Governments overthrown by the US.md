@@ -105,14 +105,16 @@
 - **Paraguay****
 - **Peru****
 - **Uruguay****
-- **Multiple** \*1987, former CIA Station Chief (1976), [John Stockwell](https://en.wikipedia.org/wiki/John_Stockwell), testified to Congress of US involvement on behalf of business interests in Latin America. There were operations in Nicaragua, Panama, Guatemala, Cuba, Haiti, and the Dominican Republic. His testimony included bombings of water supplies and other essential infrastructure, multiple invasions, coups, and the deaths of 6,000,000 people. The CIA sued him into bankruptcy.<sup>[[1]](https://en.wikipedia.org/wiki/John_Stockwell#Writing_career)</sup>
+- **Multiple**  
+  \*1987, former CIA Station Chief (1976), [John Stockwell](https://en.wikipedia.org/wiki/John_Stockwell), testified to Congress of US involvement on behalf of business interests in Latin America. There were operations in Nicaragua, Panama, Guatemala, Cuba, Haiti, and the Dominican Republic. His testimony included bombings of water supplies and other essential infrastructure, multiple invasions, coups, and the deaths of 6,000,000 people. The CIA sued him into bankruptcy.<sup>[[1]](https://en.wikipedia.org/wiki/John_Stockwell#Writing_career)</sup>
 
   \**1970s, CIA backed rightist governments in Argentina, Brazil, Bolivia, Chile, Ecuador, Paraguay, Peru, and Uruguay, and began [Operation Condor](https://en.wikipedia.org/wiki/Operation_Condor), a campaign of political repression and state terror to "eliminate Marxist subversion." An estimated 30,000-80,000 leftists and sympathizers were killed.
 
 
 ### Asia
 
-- **Afghanistan**
+- **Afghanistan** 1979-1989, CIA begins supplying arms and money ($630 million per year by 1987) to factions fighting against the soviets in their invasion of Afghanistan, in what was known as [Operation Cyclone](https://en.wikipedia.org/wiki/Operation_Cyclone). The US government secretly provided weapons and funding for the [Mujahadin](https://en.wikipedia.org/wiki/Mujahideen) Islamic guerillas of Afghanistan fighting to overthrow the Afghan government and the Soviet military forces that supported it. Although Operation Cyclone officially ended in 1989 with the withdrawal of Soviet troops from Afghanistan, U.S. government funding for the Mujahadin continued through 1992.<sup>[[1]](https://en.wikipedia.org/wiki/Soviet–Afghan_War)</sup>  
+  <ins>Reason:</ins> Fear of communism
 - **Cambodia**
 - **Indonesia**
 - **Laos**
