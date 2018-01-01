@@ -19,8 +19,8 @@
 
 ### Africa
 
-- **Ghana** 1966, CIA overthrew socialist president [Kwame Nkrumah](https://en.wikipedia.org/wiki/Kwame_Nkrumah). Nkrumah was extremely anti-imperialist and authored a book in 1965 titled "Neo-Colonialism: The Last Stage of Imperialism".<sup>[[1]](https://en.wikipedia.org/wiki/History_of_Ghana_(1966–79))</sup>  
-  <ins>WTPLDE:</ins> No, under British rule then.
+- **Ghana** 1966, CIA overthrew socialist president [Kwame Nkrumah](https://en.wikipedia.org/wiki/Kwame_Nkrumah). Nkrumah was extremely anti-imperialist and authored a book in 1965 titled "Neo-Colonialism: The Last Stage of Imperialism".<sup>[[1]](https://en.wikipedia.org/wiki/History_of_Ghana_(1966–79))</sup>    
+  <ins>WTPLDE:</ins> No, under British rule then.  
   <ins>Reason:</ins> Fear of socialism
 - **Chad** 1982, aided by arms and money provided by the CIA, [Hissene Habre](https://en.wikipedia.org/wiki/Hissène_Habré) takes power in Chad.<sup>[[1]](https://en.wikipedia.org/wiki/Hissène_Habré#Support_of_the_U.S._and_France)</sup>  
    <ins>Crimes by the dictator:</ins> Rape, sexual slavery, killings of 40,000 people, ethnic cleansing, torture, political assassinations.  
@@ -111,9 +111,12 @@
   <ins>Crimes of the dictator:</ins> Racketeering, drug smuggling, money laundering, weapon smuggling, political assassinations  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Paraguay****
-- **Peru****
-- **Uruguay****
+- **Paraguay****  
+  <ins>Reason:</ins> Fear of communism.
+- **Peru****  
+  <ins>Reason:</ins> Fear of communism.
+- **Uruguay****  
+  <ins>Reason:</ins> Fear of communism.
 - **Multiple**  
   \*1987, former CIA Station Chief (1976), [John Stockwell](https://en.wikipedia.org/wiki/John_Stockwell), testified to Congress of US involvement on behalf of business interests in Latin America. There were operations in Nicaragua, Panama, Guatemala, Cuba, Haiti, and the Dominican Republic. His testimony included bombings of water supplies and other essential infrastructure, multiple invasions, coups, and the deaths of 6,000,000 people. The CIA sued him into bankruptcy.<sup>[[1]](https://en.wikipedia.org/wiki/John_Stockwell#Writing_career)</sup>
 
@@ -138,7 +141,7 @@
 - **Laos** 1957, in the wake of the US-backed [First Indochina War](https://en.wikipedia.org/wiki/First_Indochina_War), The CIA carries out approximately one coup per year trying to nullify Laos’ democratic elections, specifically targeting the [Pathet Lao](https://en.wikipedia.org/wiki/Pathet_Lao), a leftist group with enough popular support to be a member of any coalition government, and perpetuating the 20 year Laotian civil war. In the late 50s, the CIA even creates an "Armee Clandestine" of Asian mercenaries to attack the Pathet Lao. After the CIA’s army suffers numerous defeats, the U.S. drops more bombs on Laos than all the U.S. bombs dropped in World War II. A quarter of all Laotians will eventually become refugees, many living in caves.<sup>[[1]](https://en.wikipedia.org/wiki/Laotian_Civil_War)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Philippines** 1899, after a popular revolution in the Philippines to oust the Spanish imperialists, the US invaded and began the Phillipine-American war. The US military committed countless atrocities, leaving 200,000 Filipinos dead.<sup>[[1]](https://en.wikipedia.org/wiki/Philippine_Revolution)[[2]](https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War)]]</sup>  
+- **Philippines** 1899, after a popular revolution in the Philippines to oust the Spanish imperialists, the US invaded and began the Phillipine-American war. The US military committed countless atrocities, leaving 200,000 Filipinos dead.<sup>[[1]](https://en.wikipedia.org/wiki/Philippine_Revolution)[[2]](https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War)</sup>  
   <ins>Reason:</ins> Political interest.
   
   1960s onward, the US backed the dictator [Ferdinand Marcos](https://en.wikipedia.org/wiki/Ferdinand_Marcos). After being the dictator for nearly two decades, Marcos fled to Hawaii.<sup>[[1]](http://www.gmanetwork.com/news/news/specialreports/556744/what-marcoses-brought-to-hawaii-after-fleeing-phl-in-86-717-m-in-cash-124-m-in-deposit-slips/story/)</sup>  
@@ -157,7 +160,8 @@
 - **South Vietnam** 1955-1975, the US supported French colonialist interests in Vietnam, set up a puppet regime in Saigon to serve US interests, and later took part as a belligerent against North Vietnam in the Vietnam War. U.S. involvement escalated further following the 1964 Gulf of Tonkin incident, which was later found to be staged by Lyndon Johnson. The war exacted a huge human cost in terms of fatalities. Estimates of the number of Vietnamese soldiers and civilians killed vary from 966,000 to 3.8 million. Some 240,000–300,000 Cambodians, 20,000–62,000 Laotians, and 58,220 U.S. service members also died in the conflict, with a further 1,626 missing in action. US Troops killed between 347 and 504 unarmed civilians, including women, children, and infants, in South Vietnam on March, 1968, in the My Lai Massacre. Some of the women were gang-raped and their bodies mutilated. Soldiers set fire to huts, waiting for civilians to come out so they could shoot them. For 30 years, the three US servicemen who tried to halt the massacre and rescue the hiding civilians were shunned and denounced as traitors, even by congressmen.<sup>[[1]](https://en.wikipedia.org/wiki/Vietnam_War)[[2]](https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident)[[3]](https://en.wikipedia.org/wiki/Vietnam_War_casualties)[[4]](https://en.wikipedia.org/wiki/My_Lai_Massacre)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **West Pakistan** 1971 in Pakistan, an authoritarian state supported by the U.S., brutally invaded East Pakistan in the Indo-Pakistani war of 1971. Between 300,000 to 3 million civilians were killed, with 8-10 million refugees fleeing to India.<sup>[[1]](https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts)[[2]](https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971)</sup>
+- **West Pakistan** 1971 in Pakistan, an authoritarian state supported by the U.S., brutally invaded East Pakistan in the Indo-Pakistani war of 1971. Between 300,000 to 3 million civilians were killed, with 8-10 million refugees fleeing to India.<sup>[[1]](https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts)[[2]](https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971)</sup>  
+  <ins>Reason:</ins> Political interest
 
 
 ### Europe
@@ -165,9 +169,11 @@
 - **Albania** 1949-1953, the U.S. and U.K. overthrew the government of Albania. Exiles were recruited and trained to return to Albania to stir up dissent and plan an armed uprising. Many of the exiles involved in the plan were former collaborators with the Italian and German occupation during World War II. They included former Interior [Minister Xhafer Deva](https://en.wikipedia.org/wiki/Xhafer_Deva), who oversaw the deportations of "Jews, Communists, partisans and suspicious persons" to Auschwitz. Declassified U.S. documents have since revealed that Deva was one of 743 fascist war criminals recruited by the U.S. after the war. *This is the only country on the list where the plan failed, but it caused enough damage to be put on the list.*<sup>[[1]](https://en.wikipedia.org/wiki/Albanian_Subversion)</sup>
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **France** 1940s, in Marseille, the CGT communist trade union controlled the docks that were critical to trade with the U.S. and the Marshall plan. The Office of Strategic Services (OSS) had worked with the U.S.-Sicilian mafia and Corsican gangsters during the war. So after the OSS merged into the new CIA after the war, it used its contacts to restore Corsican gangsters to power in Marseille, to break dock strikes and CGT control of the docks. It protected the Corsicans as they set up heroin labs and began shipping heroin to New York, where the American-Sicilian mafia also flourished under CIA protection. *"Government" is stretched on this country but given the government at the time was provisional and the extent of control of the mafia, it was allowed on the list.*<sup>[[1]](https://fr.wikipedia.org/wiki/Confédération_générale_du_travail)[[2]](http://www.druglibrary.org/schaffer/heroin/McCoy2.htm)</sup>
+- **France** 1940s, in Marseille, the CGT communist trade union controlled the docks that were critical to trade with the U.S. and the Marshall plan. The Office of Strategic Services (OSS) had worked with the U.S.-Sicilian mafia and Corsican gangsters during the war. So after the OSS merged into the new CIA after the war, it used its contacts to restore Corsican gangsters to power in Marseille, to break dock strikes and CGT control of the docks. It protected the Corsicans as they set up heroin labs and began shipping heroin to New York, where the American-Sicilian mafia also flourished under CIA protection. *"Government" is stretched on this country but given the government at the time was provisional and the extent of control of the mafia, it was allowed on the list.*<sup>[[1]](https://fr.wikipedia.org/wiki/Confédération_générale_du_travail)[[2]](http://www.druglibrary.org/schaffer/heroin/McCoy2.htm)</sup>  
+  <ins>Reason:</ins> Fear of communism.
 - **Greece** 1947, in the Greek civil war and ensuing right wing military junta of 1967-74, Truman and the CIA provided money, 74,000 tons of military equipment, and advisors to support anti-communist Greek dictators with deplorable human rights records<sup>[[1]](https://en.wikipedia.org/wiki/Greek_Civil_War)[[2]](https://en.wikipedia.org/wiki/Greek_military_junta_of_1967%E2%80%9374)[[3]](https://en.wikipedia.org/wiki/Truman_Doctrine)</sup>  
-  <ins>WTPLDE:</ins> No, it was a kingdom.
+  <ins>WTPLDE:</ins> No, it was a kingdom.  
+  <ins>Reason:</ins> Fear of communism.
 - **Italy** 1948-1996, the CIA corrupts elections in Italy wherein the CIA broadcasts propaganda, buys votes, threatens and beats up the leaders of the opposition, and infilitrates their organisations.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_Italy)</sup><sup>[[2]](https://en.wikipedia.org/wiki/Italian_general_election,_1948#Superpower_influence)</sup>  
    <ins>WTPLDE:</ins> Yes  
    <ins>Reason:</ins> Fear of communism
@@ -201,4 +207,5 @@
 ## Statistics
 
 - The total amount of countries that have been overthrown by the US is **39**.  
-- Given that some countries have been overthrown more than once, the total amount of overthrowings is **55+**
+- Given that some countries have been overthrown more than once, the total amount of overthrowings is **55+**  
+- The amount of overthrowings relating to communism/socialism (plus TIT) is 32
