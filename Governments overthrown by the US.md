@@ -61,10 +61,10 @@
 - **Guatemala*** 1954, CIA overthrows [Jacobo Árbenz](https://en.wikipedia.org/wiki/Jacobo_Árbenz) with a military coup during [Operation PBSucess](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état#Operation_PBSUCCESS) and installed many dictators from 1954-1996. Árbenz threatened to nationalise the Rockefeller-owned United Fruit Company, in which CIA Director [Allen Dulles](https://en.wikipedia.org/wiki/Allen_Dulles) owns stock. Democracy never returned to Guatemala until 1996.<sup>[[1]](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état)</sup>  
   <ins>Crimes of the dictator:</ins> Deaths of over 100,000 people, genocide, extrajudicial killings  
   <ins>WTPLDE:</ins> yes  
-  <ins>Reason:</ins> Corporate interest
+  <ins>Reason:</ins> Corporate interest (Banana Wars)
 - **Haiti*** 1915-1934, the US occupied Haiti, which led to the creation of the 1917 Haitian consititution that ended the previous ban on land ownership by non-Haitians and guaranteed American financial control. Death toll ranges around 15,000 people.<sup>[[1]](https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti)[[2]](http://www.nytimes.com/2012/01/01/books/review/haiti-the-aftershocks-of-history-by-laurent-dubois-book-review.html)[[3]](https://www.newyorker.com/news/news-desk/haiti-us-occupation-hundred-year-anniversary)</sup>  
   <ins>WTPLDE:</ins> yes  
-  <ins>Reason:</ins> Corporate interest
+  <ins>Reason:</ins> Corporate interest (Banana Wars)
   
   1990, a few months after Haiti elected leftist priest [Jean-Bertrand Aristide](https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide), he was deposed in a CIA military coup and replaced by dictators. After the people of Haiti were demanded the return of Aristide, the CIA began progaganda campaigns to paint Aristide as mentally unstable.<sup>[[1]](https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Raoul_Cédras)</sup>  
   <ins>Crimes of the dictactor:</ins> Deaths of more than 3,000 men, women and children.  
