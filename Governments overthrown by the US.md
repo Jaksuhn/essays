@@ -70,7 +70,10 @@
   <ins>Crimes of the dictactor:</ins> Deaths of more than 3,000 men, women and children.  
   <ins>WTPLDE:</ins> yes  
   <ins>Reason:</ins> Fear of socialism
-- **Honduras**
+- **Honduras** 2009, a coup was carried out with alleged support by the US. US officials denied any role in the coup and avoided cutting off military aid that was required by US law. Two Wikileaks cables revealed that the U.S. Embassy, and Secretary of State Hillary Clinton, was the main power broker in managing the aftermath of the coup and forming a government that is now repressing and murdering its people. According to a [February 2017 investigation by The Guardian](https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier), court papers purport to show that three of the eight people arrested in connection with the assassination are linked to the US-trained elite troops. Two of them, Maj Mariano Díaz and Lt Douglas Giovanny Bustillo, received military training in the US.<sup>[[1]](https://en.wikipedia.org/wiki/2009_Honduran_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)</sup>  
+  <ins>Crimes of the dictator:</ins> Extrajudicial killings, torture, political assassination, activist killings  
+  <ins>WTPLDE:</ins> Yes
+  <ins>Reason:</ins> Unknown
 - **Nicaragua***
 - **Panama***
 - **Paraguay**
