@@ -19,6 +19,7 @@
 
 ### Africa
 
+- **Ghana**
 - **Chad** 1982, aided by arms and money provided by the CIA, [Hissene Habre](https://en.wikipedia.org/wiki/Hissène_Habré) takes power in Chad.<sup>[[1]](https://en.wikipedia.org/wiki/Hissène_Habré#Support_of_the_U.S._and_France)</sup>  
    <ins>Crimes by the dictator:</ins> Rape, sexual slavery, killings of 40,000 people, ethnic cleansing, torture, political assassinations.  
    <ins>WTPLDE:</ins> No  
@@ -27,6 +28,7 @@
   <ins>Crimes of the dictator:</ins> Embezzlement, political assassinations, torture  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
+- **Libya**
 - **South Africa** 1980s, President Ronald Reagan maintained a close alliance with the South African government during apartheid. The Reagan administration demonized opponents of apartheid and funded those in favour to prevent communism from spreading.<sup>[[1]](https://www.salon.com/2011/02/05/ronald_reagan_apartheid_south_africa/)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
@@ -62,6 +64,7 @@
 - **Ecuador**** 1961, CIA-backed military overthrows the democratically elected President [José María Velasco Ibarra](https://en.wikipedia.org/wiki/José_María_Velasco_Ibarra)  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Political interest
+- **El Salvador**
 - **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
@@ -142,6 +145,7 @@
   1996, after receiving incredibly low approval ratings, the US helped elect Boris Yeltsin, an incompetent pro-capitalist independent, by giving him a $10 Billion dollar loan to finance a winning election.  
   <ins>WTPLDE:</ins> No  
   <ins>Reason:</ins> Fear of communism
+- **South Korea**
 - **South Vietnam** 1955-1975, the US supported French colonialist interests in Vietnam, set up a puppet regime in Saigon to serve US interests, and later took part as a belligerent against North Vietnam in the Vietnam War. U.S. involvement escalated further following the 1964 Gulf of Tonkin incident, which was later found to be staged by Lyndon Johnson. The war exacted a huge human cost in terms of fatalities. Estimates of the number of Vietnamese soldiers and civilians killed vary from 966,000 to 3.8 million. Some 240,000–300,000 Cambodians, 20,000–62,000 Laotians, and 58,220 U.S. service members also died in the conflict, with a further 1,626 missing in action. US Troops killed between 347 and 504 unarmed civilians, including women, children, and infants, in South Vietnam on March, 1968, in the My Lai Massacre. Some of the women were gang-raped and their bodies mutilated. Soldiers set fire to huts, waiting for civilians to come out so they could shoot them. For 30 years, the three US servicemen who tried to halt the massacre and rescue the hiding civilians were shunned and denounced as traitors, even by congressmen.<sup>[[1]](https://en.wikipedia.org/wiki/Vietnam_War)[[2]](https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident)[[3]](https://en.wikipedia.org/wiki/Vietnam_War_casualties)[[4]](https://en.wikipedia.org/wiki/My_Lai_Massacre)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
@@ -150,6 +154,8 @@
 
 ### Europe
 
+- **Albania**
+- **France**
 - **Greece** 1947, in the Greek civil war and ensuing right wing military junta of 1967-74, Truman and the CIA provided money, 74,000 tons of military equipment, and advisors to support anti-communist Greek dictators with deplorable human rights records<sup>[[1]](https://en.wikipedia.org/wiki/Greek_Civil_War)[[2]](https://en.wikipedia.org/wiki/Greek_military_junta_of_1967%E2%80%9374)[[3]](https://en.wikipedia.org/wiki/Truman_Doctrine)</sup>  
   <ins>WTPLDE:</ins> No, it was a kingdom.
 - **Italy** 1948-1996, the CIA corrupts elections in Italy wherein the CIA broadcasts propaganda, buys votes, threatens and beats up the leaders of the opposition, and infilitrates their organisations.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_Italy)</sup><sup>[[2]](https://en.wikipedia.org/wiki/Italian_general_election,_1948#Superpower_influence)</sup>  
