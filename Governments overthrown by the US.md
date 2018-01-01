@@ -1,6 +1,6 @@
 # List of countries where the governments were overthrown by the US
 
-* "Overthrown" includes direct intervention by the US government/military and the indirect intervention of funding/training terrorist groups to do the work for them
+* "Overthrown" includes any change of government orchestrated by the US, whether directly or indirectly (funding terror groups to do the work for them) through military intervention or non-violent means.
 * WTPLDE = "Was the previous leader democratically elected"
 * "Reason" under every country lists the reason for US intervention
 
@@ -123,7 +123,7 @@
   <ins>WTPLDE:</ins> No, it was a kingdom.  
   <ins>Reason:</ins> Political interest
 
-  1975, CIA-backed opposition party [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge), displeased with the actions of Lon Nol overthrew him. This party went on to cause the deaths of 2.5 million people through executions, assassinations, starvation and torture. This is the only country where the US supported a communist party.<sup>[[1]](https://en.wikipedia.org/wiki/Allegations_of_United_States_support_for_the_Khmer_Rouge)</sup>  
+  1975, CIA-backed opposition party [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge), displeased with the actions of Lon Nol, overthrew him. This party went on to cause the deaths of 2.5 million people through executions, assassinations, starvation and torture. This is the only country where the US supported a communist party.<sup>[[1]](https://en.wikipedia.org/wiki/Allegations_of_United_States_support_for_the_Khmer_Rouge)</sup>  
   <ins>Reason:</ins> Political interest
 - **Indonesia** 1965, CIA overthrew [President Sukarno](https://en.wikipedia.org/wiki/Sukarno) with a military coup. This was one of many attempts to overthrow Sukarno, beginning back in 1957. He was replaced by [General Suharto](https://en.wikipedia.org/wiki/Suharto) and was aided by the CIA to kill between 500,000 and 1 million civilians accused of being communist.<sup>[[1]](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966#Foreign_involvement)</sup>  
   <ins>Crimes of the dictator:</ins> Genocide  
