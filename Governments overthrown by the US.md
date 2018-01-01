@@ -19,7 +19,9 @@
 
 ### Africa
 
-- **Ghana**
+- **Ghana** 1966, CIA overthrew socialist president [Kwame Nkrumah](https://en.wikipedia.org/wiki/Kwame_Nkrumah). Nkrumah was extremely anti-imperialist and authored a book in 1965 titled "Neo-Colonialism: The Last Stage of Imperialism".<sup>[[1]](https://en.wikipedia.org/wiki/History_of_Ghana_(1966–79))</sup>  
+  <ins>WTPLDE:</ins> No, under British rule then.
+  <ins>Reason:</ins> Fear of socialism
 - **Chad** 1982, aided by arms and money provided by the CIA, [Hissene Habre](https://en.wikipedia.org/wiki/Hissène_Habré) takes power in Chad.<sup>[[1]](https://en.wikipedia.org/wiki/Hissène_Habré#Support_of_the_U.S._and_France)</sup>  
    <ins>Crimes by the dictator:</ins> Rape, sexual slavery, killings of 40,000 people, ethnic cleansing, torture, political assassinations.  
    <ins>WTPLDE:</ins> No  
@@ -28,7 +30,9 @@
   <ins>Crimes of the dictator:</ins> Embezzlement, political assassinations, torture  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Libya**
+- **Libya** 2011, President Obama allied with NATO launched a bombing campaign justified with "an effort to protect civilians." NATO conducted 7,700 air strikes, 30,000 -100,000 people were killed, loyalist towns were bombed to rubble and ethnically cleansed, and the country is in chaos as Western-trained and -armed Islamist militias seize territory and oil facilities and vie for power.<sup>[[1]](http://www.army.mil/professionalWriting/volumes/volume2/april_2004/4_04_4.html)[[2]](http://www.nytimes.com/2011/12/18/world/africa/scores-of-unintended-casualties-in-nato-war-in-libya.html?pagewanted=all&_r=1&)[[3]](http://www.ibtimes.co.uk/libya-conflicting-death-toll-raises-questions-about-what-truly-happened-237895)[[4]](http://en.wikipedia.org/wiki/Post-civil_war_violence_in_Libya)</sup>  
+  <ins>WTPLDE:</ins> No  
+  <ins>Reason:</ins> Economic interest. Oil.
 - **South Africa** 1980s, President Ronald Reagan maintained a close alliance with the South African government during apartheid. The Reagan administration demonized opponents of apartheid and funded those in favour to prevent communism from spreading.<sup>[[1]](https://www.salon.com/2011/02/05/ronald_reagan_apartheid_south_africa/)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
