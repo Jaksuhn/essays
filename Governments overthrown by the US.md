@@ -34,15 +34,16 @@
 
 ### Americas
 
-- **Argentina** 1976, the CIA backed the overthrow of [Isabel Martínez de Perón](https://en.wikipedia.org/wiki/Isabel_Martínez_de_Perón) and installed dictator [Jorge Rafael Videla](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla).<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>  
+- **Argentina**** 1976, the CIA backed the overthrow of [Isabel Martínez de Perón](https://en.wikipedia.org/wiki/Isabel_Martínez_de_Perón) and installed dictator [Jorge Rafael Videla](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla).<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>  
   <ins>Crimes of the dictator:</ins> forced disappearances, kidnappings, torture, concentration camps, kidnapping of babies, extrajudicial murder of opponents and their families.<sup>[[3]](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Bolivia** 1971, CIA-backed coup overthrows leftist president Juan Jose Torres and installed dictator [Hugo Banzer](https://en.wikipedia.org/wiki/Hugo_Banzer). He was kidnapped and murdered by CIA death squads.<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>  
+- **Brazil****
+- **Bolivia**** 1971, CIA-backed coup overthrows leftist president Juan Jose Torres and installed dictator [Hugo Banzer](https://en.wikipedia.org/wiki/Hugo_Banzer). He was kidnapped and murdered by CIA death squads.<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>  
   <ins>Crimes of the dictator:</ins> political assassinations, torture, kidnappings.<sup>[[2]](https://en.wikipedia.org/wiki/Hugo_Banzer)</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **Chile** 1973, CIA-backed coup overthrows socialist president Salvador Allende and installed dictator [Augusto Pinochet](https://en.wikipedia.org/wiki/Augusto_Pinochet).<sup>[[1]](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Villa_Grimaldi)[[3]](https://en.wikipedia.org/wiki/Caravan_of_Death)</sup>  
+- **Chile**** 1973, CIA-backed coup overthrows socialist president Salvador Allende and installed dictator [Augusto Pinochet](https://en.wikipedia.org/wiki/Augusto_Pinochet).<sup>[[1]](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Villa_Grimaldi)[[3]](https://en.wikipedia.org/wiki/Caravan_of_Death)</sup>  
   <ins>Crimes of the dictator:</ins> thousands of killings, torture, forcing of 200,000 Chileans into exile, cruel and unusual punishment.  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
@@ -55,6 +56,7 @@
 - **Dominican Republic*** 1902, 1904, 1914, and 1916-1924, the US occupied the Dominican Republic. 1930 onwards, the US supported dictator [Rafael Trujillo](https://en.wikipedia.org/wiki/Rafael_Trujillo) (responsibly for the deaths of more than 50,000 people. After the dictactor began to control approximately 60% of the economy and began competing with American businesses, the CIA assassinated him in 1961. 1965, the US intervened in the Dominican Civil War to support the loyalists and US interests, providing air and ground support.<sup>[[1]](https://en.wikipedia.org/wiki/Dominican_Civil_War)[[2]](https://en.wikipedia.org/wiki/Organization_of_American_States)[[3]](http://www.informationclearinghouse.info/article4068.htm)[[4]](https://en.wikipedia.org/wiki/Smedley_Butler#The_Banana_Wars)[[5]](https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic_(1916–24))</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Corporate interest (Banana Wars)
+- **Ecuador****
 - **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
@@ -70,15 +72,37 @@
   <ins>Crimes of the dictactor:</ins> Deaths of more than 3,000 men, women and children.  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of socialism
-- **Honduras** 2009, a coup was carried out with alleged support by the US. US officials denied any role in the coup and avoided cutting off military aid that was required by US law. Two Wikileaks cables revealed that the U.S. Embassy, and Secretary of State Hillary Clinton, was the main power broker in managing the aftermath of the coup and forming a government that is now repressing and murdering its people. According to a [February 2017 investigation by The Guardian](https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier), court papers purport to show that three of the eight people arrested in connection with the assassination are linked to the US-trained elite troops. Two of them, Maj Mariano Díaz and Lt Douglas Giovanny Bustillo, received military training in the US.<sup>[[1]](https://en.wikipedia.org/wiki/2009_Honduran_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)</sup>  
+- **Honduras** 1980s, assassination/torture group [Battalion 316](https://en.wikipedia.org/wiki/Battalion_3-16_(Honduras)) was backed by the CIA to destabilise the country and assassinate political leaders. The group used methods of kidnapping, torture, shock and suffocation interrogations and murder.  
+  <ins>Reason:</ins> Political interest
+
+  2009, a coup was carried out with alleged support by the US. US officials denied any role in the coup and avoided cutting off military aid that was required by US law. Two Wikileaks cables revealed that the U.S. Embassy, and Secretary of State Hillary Clinton, was the main power broker in managing the aftermath of the coup and forming a government that is now repressing and murdering its people. According to a [February 2017 investigation by The Guardian](https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier), court papers purport to show that three of the eight people arrested in connection with the assassination are linked to the US-trained elite troops. Two of them, Maj Mariano Díaz and Lt Douglas Giovanny Bustillo, received military training in the US.<sup>[[1]](https://en.wikipedia.org/wiki/2009_Honduran_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)</sup>  
   <ins>Crimes of the dictator:</ins> Extrajudicial killings, torture, political assassination, activist killings  
   <ins>WTPLDE:</ins> Yes  
-  <ins>Reason:</ins> Unknown
-- **Nicaragua***
-- **Panama***
-- **Paraguay**
-- **Uruguay**
-- ***Multiple** 1987, former CIA Station Chief (1976), [John Stockwell](https://en.wikipedia.org/wiki/John_Stockwell), testified to Congress of US involvement on behalf of business interests in Latin America. There were operations in Nicaragua, Panama, Guatemala, Cuba, Haiti, and the Dominican Republic. His testimony included bombings of water supplies and other essential infrastructure, multiple invasions, coups, and the deaths of 6,000,000 people. The CIA sued him into bankruptcy.<sup>[[1]](https://en.wikipedia.org/wiki/John_Stockwell#Writing_career)</sup>
+  <ins>Reason:</ins> Political interest
+- **Nicaragua*** 1979, US backed the dictator [Anastasio Somoza Debayle](https://en.wikipedia.org/wiki/Anastasio_Somoza_Debayle). He was eventually overthrown during a socialist revolution.<sup>[[1]](https://en.wikipedia.org/wiki/Nicaraguan_Revolution)</sup>  
+  <ins>Crimes of the dictator:</ins> Embezzlement, forced collection of blood/plasma, extrajudicial killings  
+  <ins>Reason:</ins> Fear of socialism
+
+  1982-1989, the CIA funded and trained the terrorist group Contras in order to destabilise the government of Nicaragua due to the socialist revolution. Per CIA training, the Contras were taught and instructed on how to assassinate judges, create martyrs, blow up public buildings, blackmail citizens, kidnapping, torture, and execution. They were also found guilty of burning down civilian houses, siezing civilian property, rape, and indiscriminate killings.<sup>[[1]](https://en.wikipedia.org/wiki/Contras)[[2]](https://en.wikipedia.org/wiki/Eugene_Hasenfus)</sup>  
+  <ins>WTPLDE:</ins> No  
+  <ins>Reason:</ins> Fear of socialism
+- **Panama*** 1903, US backed Panama's secession from Colombia.<sup>[[1]](https://en.wikipedia.org/wiki/Separation_of_Panama_from_Colombia)[[2]](https://en.wikipedia.org/wiki/Panama_Canal)[[3]](https://en.wikipedia.org/wiki/Panama_Canal_Zone)</sup>  
+  <ins>Reason:</ins> Economic interest (Panama Canal)
+  
+  1941, US double agents within the Panama National Guard staged a coup against the government.<sup>[[1]](https://trove.nla.gov.au/newspaper/article/2587578)[[2]](https://en.wikipedia.org/wiki/Panama_during_World_War_II)[[3]](https://en.wikipedia.org/wiki/Arnulfo_Arias)</sup>  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Economic interest. The US requested that Panama allow it to  build over 130 military installtions inside and outside of the Panama Canal Zone. The government of Panama refused.
+
+  1989, US invades Panama to overthrow the very dictator they created, [Manuel Noriega](https://en.wikipedia.org/wiki/Manuel_Noriega), and supported for decades after Noriega had a growing independence movement.  
+  <ins>Crimes of the dictator:</ins> Racketeering, drug smuggling, money laundering, weapon smuggling, political assassinations  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Fear of communism
+- **Paraguay****
+- **Peru****
+- **Uruguay****
+- **Multiple** \*1987, former CIA Station Chief (1976), [John Stockwell](https://en.wikipedia.org/wiki/John_Stockwell), testified to Congress of US involvement on behalf of business interests in Latin America. There were operations in Nicaragua, Panama, Guatemala, Cuba, Haiti, and the Dominican Republic. His testimony included bombings of water supplies and other essential infrastructure, multiple invasions, coups, and the deaths of 6,000,000 people. The CIA sued him into bankruptcy.<sup>[[1]](https://en.wikipedia.org/wiki/John_Stockwell#Writing_career)</sup>
+
+  \**1970s, CIA backed rightist governments in Argentina, Brazil, Bolivia, Chile, Ecuador, Paraguay, Peru, and Uruguay, and began [Operation Condor](https://en.wikipedia.org/wiki/Operation_Condor), a campaign of political repression and state terror to "eliminate Marxist subversion." An estimated 30,000-80,000 leftists and sympathizers were killed.
 
 
 ### Asia
