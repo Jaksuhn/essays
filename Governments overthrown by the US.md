@@ -201,4 +201,4 @@
 ## Statistics
 
 - The total amount of countries that have been overthrown by the US is **39**.  
-- Given that some countries have been overthrown more than once, the total amount of overthrowings is 
+- Given that some countries have been overthrown more than once, the total amount of overthrowings is **55+**
