@@ -206,6 +206,8 @@
 
 ## Statistics
 
-- The total amount of countries that have been overthrown by the US is **39**.  
-- Given that some countries have been overthrown more than once, the total amount of overthrowings is **55+**  
-- The amount of overthrowings relating to communism/socialism (plus TIT) is 32
+- The total amount of countries that have been overthrown by the US is **39**  
+- Given that some countries have been overthrown more than once, the total amount of overthrowings is **49+**  
+- The amount of overthrowings relating to ideology is **32 (65%)**  
+- The amount of overthrowings relating to economic interest is **10 (20%)**  
+- The amount of overthrowings relating to political interest is **7 (14%)**
