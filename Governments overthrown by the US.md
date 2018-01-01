@@ -56,7 +56,7 @@
   <ins>WTPLDE:</ins> yes  
   <ins>Reason:</ins> Corporate interest (Banana Wars)
 - **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
-  <ins>WTPLDE:</ins> yes
+  <ins>WTPLDE:</ins> yes  
   <ins>Reason:</ins> Fear of communism
 - **Guatemala*** 1954, CIA overthrows [Jacobo Árbenz](https://en.wikipedia.org/wiki/Jacobo_Árbenz) with a military coup during [Operation PBSucess](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état#Operation_PBSUCCESS) and installed many dictators from 1954-1996. Árbenz threatened to nationalise the Rockefeller-owned United Fruit Company, in which CIA Director [Allen Dulles](https://en.wikipedia.org/wiki/Allen_Dulles) owns stock. Democracy never returned to Guatemala until 1996.<sup>[[1]](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état)</sup>  
   <ins>Crimes of the dictator:</ins> Deaths of over 100,000 people, genocide, extrajudicial killings  
