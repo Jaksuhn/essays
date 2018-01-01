@@ -165,7 +165,7 @@
 - **Albania** 1949-1953, the U.S. and U.K. overthrew the government of Albania. Exiles were recruited and trained to return to Albania to stir up dissent and plan an armed uprising. Many of the exiles involved in the plan were former collaborators with the Italian and German occupation during World War II. They included former Interior [Minister Xhafer Deva](https://en.wikipedia.org/wiki/Xhafer_Deva), who oversaw the deportations of "Jews, Communists, partisans and suspicious persons" to Auschwitz. Declassified U.S. documents have since revealed that Deva was one of 743 fascist war criminals recruited by the U.S. after the war. *This is the only country on the list where the plan failed, but it caused enough damage to be put on the list.*<sup>[[1]](https://en.wikipedia.org/wiki/Albanian_Subversion)</sup>
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
-- **France** 1940s, in Marseille, the CGT communist trade union controlled the docks that were critical to trade with the U.S. and the Marshall plan. The OSS had worked with the U.S.-Sicilian mafia and Corsican gangsters during the war. So after the OSS merged into the new CIA after the war, it used its contacts to restore Corsican gangsters to power in Marseille, to break dock strikes and CGT control of the docks. It protected the Corsicans as they set up heroin labs and began shipping heroin to New York, where the American-Sicilian mafia also flourished under CIA protection. *"Government" is stretched on this country but given the government at the time was provisional and the extent of control of the mafia, it was allowed on the list.*
+- **France** 1940s, in Marseille, the CGT communist trade union controlled the docks that were critical to trade with the U.S. and the Marshall plan. The Office of Strategic Services (OSS) had worked with the U.S.-Sicilian mafia and Corsican gangsters during the war. So after the OSS merged into the new CIA after the war, it used its contacts to restore Corsican gangsters to power in Marseille, to break dock strikes and CGT control of the docks. It protected the Corsicans as they set up heroin labs and began shipping heroin to New York, where the American-Sicilian mafia also flourished under CIA protection. *"Government" is stretched on this country but given the government at the time was provisional and the extent of control of the mafia, it was allowed on the list.*<sup>[[1]](https://fr.wikipedia.org/wiki/Confédération_générale_du_travail)[[2]](http://www.druglibrary.org/schaffer/heroin/McCoy2.htm)</sup>
 - **Greece** 1947, in the Greek civil war and ensuing right wing military junta of 1967-74, Truman and the CIA provided money, 74,000 tons of military equipment, and advisors to support anti-communist Greek dictators with deplorable human rights records<sup>[[1]](https://en.wikipedia.org/wiki/Greek_Civil_War)[[2]](https://en.wikipedia.org/wiki/Greek_military_junta_of_1967%E2%80%9374)[[3]](https://en.wikipedia.org/wiki/Truman_Doctrine)</sup>  
   <ins>WTPLDE:</ins> No, it was a kingdom.
 - **Italy** 1948-1996, the CIA corrupts elections in Italy wherein the CIA broadcasts propaganda, buys votes, threatens and beats up the leaders of the opposition, and infilitrates their organisations.<sup>[[1]](https://en.wikipedia.org/wiki/CIA_activities_in_Italy)</sup><sup>[[2]](https://en.wikipedia.org/wiki/Italian_general_election,_1948#Superpower_influence)</sup>  
@@ -182,13 +182,22 @@
   1980, Saddam Hussein, backed by the US invaded Iran. The CIA built up Hussein’s forces with sophisticated arms, intelligence, training and financial backing, cementing Hussein’s power at home, and allowing him to crush the many internal rebellions that erupted from time to time, sometimes with poison gas. Also in 1980, the US funded and sold weapons to both sides in the Iran-Iraq War, hoping to destabilise the region and create a puppet regime favourable to US interests. Over 500,000 people died in the conflict.<sup>[[1]](https://en.wikipedia.org/wiki/Gulf_War)[[2]](https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War)</sup>  
   <ins>WTPLDE:</ins> No, supreme leadership.  
   <ins>Reason:</ins> Economic interest. Oil.
-- **Iraq**
-- **Syria**
-- **Turkey**
-
+- **Syria** 1949, US aided the Syrian coup d'état overthrowing [Shukri al-Quwatli](https://en.wikipedia.org/wiki/Shukri_al-Quwatli) and installed [Husni al-Za'im](https://en.wikipedia.org/wiki/Husni_al-Za%27im).<sup>[[1]](https://en.wikipedia.org/wiki/March_1949_Syrian_coup_d%27%C3%A9tat)</sup>  
+  <ins>WTPLDE:</ins> Yes  
+  <ins>Reason:</ins> Economic interest. Oil.
+  
+  Since 2013, The US has intervened militarily in the ongoing [Syrian Civil War](https://en.wikipedia.org/wiki/Syrian_Civil_War#Western_coalition), with airstrikes, naval bombardments, and funding and training Syrian Islamic and secular insurgents fighting to topple the Syrian government. Many have labeled the struggle as a proxy war between US and Russian interests in the middle east, in a highly unstable region. Between 500-700 civilians have been killed by coalition airstrikes, and over 50,000 ISIL militants and pro-bashad fighters have been killed.<sup>[[1]](https://en.wikipedia.org/wiki/American-led_intervention_in_Syria#cite_note-airwars.org-328)[[2]](https://en.wikipedia.org/wiki/American-led_intervention_in_Syria)</sup>  
+  <ins>WTPLDE:</ins> No  
+  <ins>Reason:</ins> Fear of communism. Proxy war between Russia and the US.
+  
 
 ### Oceania
 
 - **Australia** 1975, during the Australian Constitutional Crisis, the CIA helped topple the democratically elected, left-leaning government of Prime Minister Gough Whitlam, by telling Governor-General, John Kerr, a longtime CIA collaborator, to dissolve the Whitlam government.<sup>[[1]](https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis)[[2]](https://en.wikipedia.org/wiki/Gough_Whitlam)[[3]](https://en.wikipedia.org/wiki/John_Kerr_(governor-general))</sup>  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of socialism
+
+
+## Statistics
+
+-
