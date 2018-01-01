@@ -21,14 +21,14 @@
 
 - **Chad** 1982, aided by arms and money provided by the CIA, [Hissene Habre](https://en.wikipedia.org/wiki/Hissène_Habré) takes power in Chad.<sup>[[1]](https://en.wikipedia.org/wiki/Hissène_Habré#Support_of_the_U.S._and_France)</sup>  
    <ins>Crimes by the dictator:</ins> rape, sexual slavery, killings of 40,000 people, ethnic cleansing, torture, political assassinations.  
-   <ins>WTPLDE:</ins> no  
+   <ins>WTPLDE:</ins> No  
    <ins>Reason:</ins> Third International Theory - alternative to capitalism and socialism
 - **Democratic Republic of the Congo** 1961, the CIA assists in the assassination of the democratically eleceted [Patrice Lumumba](https://en.wikipedia.org/wiki/Patrice_Lumumba). 1965, the CIA backed a military coup and installed the dictator [Moboutu Sese Seko](https://en.wikipedia.org/wiki/Mobutu_Sese_Seko).<sup>[[1]](https://en.wikipedia.org/wiki/Patrice_Lumumba#United_States_involvement)[[2]](https://en.wikipedia.org/wiki/CIA_activities_in_the_Democratic_Republic_of_the_Congo)[[3]](https://en.wikipedia.org/wiki/Mobutu_Sese_Seko#Coalition_government)</sup>  
   <ins>Crimes of the dictator:</ins> embezzlement, political assassinations, torture  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
 - **South Africa** 1980s, President Ronald Reagan maintained a close alliance with the South African government during apartheid. The Reagan administration demonized opponents of apartheid and funded those in favour to prevent communism from spreading.<sup>[[1]](https://www.salon.com/2011/02/05/ronald_reagan_apartheid_south_africa/)</sup>  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
 
 
@@ -36,15 +36,15 @@
 
 - **Argentina** 1976, the CIA backed the overthrow of [Isabel Martínez de Perón](https://en.wikipedia.org/wiki/Isabel_Martínez_de_Perón) and installed dictator [Jorge Rafael Videla](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla).<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>  
   <ins>Crimes of the dictator:</ins> forced disappearances, kidnappings, torture, concentration camps, kidnapping of babies, extrajudicial murder of opponents and their families.<sup>[[3]](https://en.wikipedia.org/wiki/Jorge_Rafael_Videla)</sup>  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
 - **Bolivia** 1971, CIA-backed coup overthrows leftist president Juan Jose Torres and installed dictator [Hugo Banzer](https://en.wikipedia.org/wiki/Hugo_Banzer). He was kidnapped and murdered by CIA death squads.<sup>[[1]](https://en.wikipedia.org/wiki/Operation_Condor#Antecedents:_The_1970s)</sup>  
   <ins>Crimes of the dictator:</ins> political assassinations, torture, kidnappings.<sup>[[2]](https://en.wikipedia.org/wiki/Hugo_Banzer)</sup>  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
 - **Chile** 1973, CIA-backed coup overthrows socialist president Salvador Allende and installed dictator [Augusto Pinochet](https://en.wikipedia.org/wiki/Augusto_Pinochet).<sup>[[1]](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Villa_Grimaldi)[[3]](https://en.wikipedia.org/wiki/Caravan_of_Death)</sup>  
   <ins>Crimes of the dictator:</ins> thousands of killings, torture, forcing of 200,000 Chileans into exile, cruel and unusual punishment.  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
 - **Colombia** 1928, US threatened to send troops to Colombia if they did not comply with the wishes of the United Fruit company. The Colombia army opened fire upon and killed estimates ranging from 80-3000. This is the only country on the list where the deaths were on the US's side.<sup>[[1]](https://en.wikipedia.org/wiki/Banana_massacre)</sup>  
   <ins>Reason:</ins> Corporate interest (Banana Wars), workers' rights (socialism)
@@ -53,26 +53,26 @@
   <ins>WTPLDE:</ins> The leader backed by the CIA was not. The leader that came after that the CIA attempted to overthrow was.  
   <ins>Reason:</ins> Fear of communism
 - **Dominican Republic*** 1902, 1904, 1914, and 1916-1924, the US occupied the Dominican Republic. 1930 onwards, the US supported dictator [Rafael Trujillo](https://en.wikipedia.org/wiki/Rafael_Trujillo) (responsibly for the deaths of more than 50,000 people. After the dictactor began to control approximately 60% of the economy and began competing with American businesses, the CIA assassinated him in 1961. 1965, the US intervened in the Dominican Civil War to support the loyalists and US interests, providing air and ground support.<sup>[[1]](https://en.wikipedia.org/wiki/Dominican_Civil_War)[[2]](https://en.wikipedia.org/wiki/Organization_of_American_States)[[3]](http://www.informationclearinghouse.info/article4068.htm)[[4]](https://en.wikipedia.org/wiki/Smedley_Butler#The_Banana_Wars)[[5]](https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic_(1916–24))</sup>  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Corporate interest (Banana Wars)
 - **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
 - **Guatemala*** 1954, CIA overthrows [Jacobo Árbenz](https://en.wikipedia.org/wiki/Jacobo_Árbenz) with a military coup during [Operation PBSucess](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état#Operation_PBSUCCESS) and installed many dictators from 1954-1996. Árbenz threatened to nationalise the Rockefeller-owned United Fruit Company, in which CIA Director [Allen Dulles](https://en.wikipedia.org/wiki/Allen_Dulles) owns stock. Democracy never returned to Guatemala until 1996.<sup>[[1]](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état)</sup>  
   <ins>Crimes of the dictator:</ins> Deaths of over 100,000 people, genocide, extrajudicial killings  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Corporate interest (Banana Wars)
 - **Haiti*** 1915-1934, the US occupied Haiti, which led to the creation of the 1917 Haitian consititution that ended the previous ban on land ownership by non-Haitians and guaranteed American financial control. Death toll ranges around 15,000 people.<sup>[[1]](https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti)[[2]](http://www.nytimes.com/2012/01/01/books/review/haiti-the-aftershocks-of-history-by-laurent-dubois-book-review.html)[[3]](https://www.newyorker.com/news/news-desk/haiti-us-occupation-hundred-year-anniversary)</sup>  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Corporate interest (Banana Wars)
   
   1990, a few months after Haiti elected leftist priest [Jean-Bertrand Aristide](https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide), he was deposed in a CIA military coup and replaced by dictators. After the people of Haiti were demanded the return of Aristide, the CIA began progaganda campaigns to paint Aristide as mentally unstable.<sup>[[1]](https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Raoul_Cédras)</sup>  
   <ins>Crimes of the dictactor:</ins> Deaths of more than 3,000 men, women and children.  
-  <ins>WTPLDE:</ins> yes  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of socialism
 - **Honduras** 2009, a coup was carried out with alleged support by the US. US officials denied any role in the coup and avoided cutting off military aid that was required by US law. Two Wikileaks cables revealed that the U.S. Embassy, and Secretary of State Hillary Clinton, was the main power broker in managing the aftermath of the coup and forming a government that is now repressing and murdering its people. According to a [February 2017 investigation by The Guardian](https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier), court papers purport to show that three of the eight people arrested in connection with the assassination are linked to the US-trained elite troops. Two of them, Maj Mariano Díaz and Lt Douglas Giovanny Bustillo, received military training in the US.<sup>[[1]](https://en.wikipedia.org/wiki/2009_Honduran_coup_d%27état)[[2]](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)</sup>  
   <ins>Crimes of the dictator:</ins> Extrajudicial killings, torture, political assassination, activist killings  
-  <ins>WTPLDE:</ins> Yes
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Unknown
 - **Nicaragua***
 - **Panama***
