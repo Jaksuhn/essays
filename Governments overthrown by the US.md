@@ -114,8 +114,10 @@
 ### Asia
 
 - **Afghanistan** 1979-1989, CIA begins supplying arms and money ($630 million per year by 1987) to factions fighting against the soviets in their invasion of Afghanistan, in what was known as [Operation Cyclone](https://en.wikipedia.org/wiki/Operation_Cyclone). The US government secretly provided weapons and funding for the [Mujahadin](https://en.wikipedia.org/wiki/Mujahideen) Islamic guerillas of Afghanistan fighting to overthrow the Afghan government and the Soviet military forces that supported it. Although Operation Cyclone officially ended in 1989 with the withdrawal of Soviet troops from Afghanistan, U.S. government funding for the Mujahadin continued through 1992.<sup>[[1]](https://en.wikipedia.org/wiki/Soviet–Afghan_War)</sup>  
+  <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Fear of communism
 - **Cambodia** 1970, CIA overthrows [Prince Norodom Sihanouk](https://en.wikipedia.org/wiki/Norodom_Sihanouk), who was highly popular among Cambodians. The CIA installed puppet leader [Lon Nol](https://en.wikipedia.org/wiki/Lon_Nol). All demonstrations in favour of Sihanouk after Nol rose to power were supressed and resulted in several hundred deaths.  
+  <ins>WTPLDE:</ins> No, it was a kingdom.  
   <ins>Reason:</ins> Political interest
 
   1975, CIA-backed opposition party [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge), displeased with the actions of Lon Nol overthrew him. This party went on to cause the deaths of 2.5 million people through executions, assassinations, starvation and torture. This is the only country where the US supported a communist party.<sup>[[1]](https://en.wikipedia.org/wiki/Allegations_of_United_States_support_for_the_Khmer_Rouge)</sup>  
