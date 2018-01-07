@@ -1,14 +1,14 @@
 # Essays
 
-### Completed Essays
+### Complete
 
 * Governments overthrown by the US
 
-### Incomplete Essays
+### Incomplete
 
 * Common arguments against socialism
 
-### Upcoming Essays
+### Upcoming
 
 * Fascist Rhetoric (and the rise in the first world)
 * Failures of capitalism
