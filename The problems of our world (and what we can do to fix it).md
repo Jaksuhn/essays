@@ -26,7 +26,7 @@
 
 ## Prologue
 
-We, the people, humans, together, form societies. We help each other. We live by each other's happiness - not by each other's misery. We do not hate, do not despise, do not hurt one another. Together, humanity lives on this vast Earth. Earth is rich with enough resources to provide for every one that lives on it. We have the capabilities of living free and filling lives, but have lost our way.
+Humans, together, form societies. We help each other. We live by each other's happiness - not by each other's misery. We do not hate, do not despise, do not hurt one another. Together, humanity lives on this vast Earth. Earth is rich with enough resources to provide for every one that lives on it. We have the capabilities of living free and filling lives, but have lost our way.
 
 The soul of man has been tainted, has barraged the world with hate, has caused great misery and bloodshed. Humanity has developed. Created advances, tools, machines - machines that give abundance. But that was not enough. Greed has overcome humanity and left us with an unfillable void of want. We think too much and feel too little. We have created great machines but we have not created a great humanity. We have become smarter and more clever, but we have not become more kind. Without kindness, caring, honestly, loyalty, trust and wiseness, life is devoid of all that is good and left with a violent evil. What good is that world?
 
