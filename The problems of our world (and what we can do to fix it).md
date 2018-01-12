@@ -38,7 +38,7 @@ You, the people, have the power - the power to create not just machines, but hap
 
 ## Capitalism
 
-Capitalism is the current economic system of the world. It is an economic system by which the means of production, the country's trade and industry, is controlled by private individuals or private corporations instead of either the state or the people. Has this system been working for humanity? 
+Capitalism is the current economic system of the world. It is an economic system by which the means of production, the country's trade and industry, is controlled by private individuals or private corporations instead of either the state or the people. Why is capitalism being framed as **the** issue of the world? The system that we live in is as deep as you can go when you are digging for problems. Inequality is a problem, yes, but what causes that divide? Why is capitalism being framed as the problem and not some other system? Currently capitalism is the system used by the every country in the world. An argument can be made for Cuba, the only country in the world with >50% public industry control, however even that country has caused debates among socialists as to whether it truly can be considered socialists, or at the very least not-capitalist. Has capitalism been working for humanity? 
   * 150 million people in the world are homeless.<sup>[[1]](https://yaleglobal.yale.edu/content/cities-grow-worldwide-so-do-numbers-homeless)</sup>
   * 550,000 people in the United States are homeless.<sup>[[2]](https://ourworldindata.org/homelessness)</sup>
   * There have been 49 crises, recessions and economic depressions since the turn of the 20th century.<sup>[[3]](https://en.wikipedia.org/wiki/List_of_economic_crises#20th_century)</sup>
