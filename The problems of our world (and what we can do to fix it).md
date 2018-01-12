@@ -2,10 +2,19 @@
 
 ## Contents
 * [The System](#the-system)
+  * [Fundamentals](#Fundamentals)
+    * (remove this line when written) Concentration of wealth, growth, efficiency, markets
+  * [Class Struggle](#class-struggle)
+    * (remove this line when written) racial tension, "outsider" tension
+  * [Exploitation](#exploitation)
+  * [False Scarcity](#false-scarcity)
+  * [Individualism](#individualism)
+  * [Resource Allocation](#resource-allocation)
+  * [Profit](#profit)
+  * [Social Damage](#social-damage)
+  
 * [The Solution](#the-solution)
-* [test](test)
 
-**test**
 
 ## Prologue
 
