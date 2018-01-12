@@ -1,6 +1,7 @@
 # The Problems of Our World
 
 ## Contents
+* [Prologue](#prologue)
 * [The System](#the-system)
   * [Fundamentals](#Fundamentals)
     * (remove this line when written) Concentration of wealth, growth, efficiency, markets
