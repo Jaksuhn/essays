@@ -39,8 +39,8 @@ You, the people, have the power - the power to create not just machines, but hap
 ## Capitalism
 
 Capitalism is the current economic system of the world. It is an economic system by which the means of production, the country's trade and industry, is controlled by private individuals or private corporations instead of either the state or the people. Has this system been working for humanity? 
-  * 150 million people in the world are homeless<sup>[[1]](https://yaleglobal.yale.edu/content/cities-grow-worldwide-so-do-numbers-homeless)</sup>
-  * 550,000 people in the United States are homeless<sup>[[2]](https://ourworldindata.org/homelessness)</sup>
-  * There have been 49 crises, recessions and economic depressions since the turn of the 20th century<sup>[[3]](https://en.wikipedia.org/wiki/List_of_economic_crises#20th_century)</sup>
+  * 150 million people in the world are homeless.<sup>[[1]](https://yaleglobal.yale.edu/content/cities-grow-worldwide-so-do-numbers-homeless)</sup>
+  * 550,000 people in the United States are homeless.<sup>[[2]](https://ourworldindata.org/homelessness)</sup>
+  * There have been 49 crises, recessions and economic depressions since the turn of the 20th century.<sup>[[3]](https://en.wikipedia.org/wiki/List_of_economic_crises#20th_century)</sup>
   * 1/3 of the food produced in the world, every year, is wasted.<sup>[[3]](http://www.fao.org/save-food/resources/keyfindings/en/)[[4]](https://www.nytimes.com/2017/12/12/climate/food-waste-emissions.html)</sup> This is in a world where we produce enough food to feed 10 billion people.<sup>[[5]](https://www.huffingtonpost.com/eric-holt-gimenez/world-hunger_b_1463429.html)</sup> Despite that, 815 million people in the world are affected by undernourishment (number increased from 777 million the previous year), and 9 million die of hunger annually.<sup>[[6]](http://www.fao.org/state-of-food-security-nutrition/en/)[[7]](https://www.unicef.org/publications/files/State_of_Food_Security_and_Nutrition_in_the_World_2017.pdf)[[8]](https://borgenproject.org/15-world-hunger-statistics/)</sup>
   * 27 million people lack safe water.<sup>[[9]](https://www.oxfam.org/en/emergencies/famine-and-hunger-crisis)</sup>
