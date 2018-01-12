@@ -7,6 +7,7 @@
 ### Incomplete
 
 * Common arguments against socialism
+* The problems of our world
 
 ### Upcoming
 
@@ -14,5 +15,4 @@
 * Failures of capitalism
 * Corruption in America
 * Lies and contradictions of no. 45
-* Problems with America (and what we can do)
 * The ideal and scalable budget
