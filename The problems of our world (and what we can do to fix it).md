@@ -21,7 +21,7 @@
   * [Unity](#unity)
   * [The Political Spectrum](#the-political-spectrum)
   * [What is Socialism?](#what-is-socialism?)
-  * [Types of Socialism](#types of socialism)
+  * [Types of Socialism](#types-of-socialism)
   * [Socialism FAQ](#socialism-faq)
   * [Reform or Revolution](#reform-or-revolution)
 
