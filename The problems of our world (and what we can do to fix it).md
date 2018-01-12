@@ -19,9 +19,9 @@
   
 * [The Solution](#the-solution)
   * [Unity](#unity)
+  * [What is Socialism?](#what-is-socialism?)
+  * [Socialism FAQ](#socialism-faq)
   * [Reform or Revolution](#reform-or-revolution)
-* [The Unity Party](#the-unity-party)
-  * [Policies](#policies)
 
 
 ## Prologue
