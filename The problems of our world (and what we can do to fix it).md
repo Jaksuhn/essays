@@ -2,8 +2,8 @@
 
 ## Contents
 * [Prologue](#prologue)
-* [The System](#the-system)
-  * [Fundamentals](#Fundamentals)
+* [Capitalism](#capitalism)
+  * [Fundamentals](#fundamentals)
     * (remove this line when written) Concentration of wealth, growth, efficiency, markets
   * [Class Struggle](#class-struggle)
     * (remove this line when written) racial tension, "outsider" tension
@@ -14,6 +14,8 @@
   * [Resource Allocation](#resource-allocation)
   * [Profit](#profit)
   * [Social Damage](#social-damage)
+  * [Race to the Bottom](#race-to-the-bottom)
+  * [Cronyism](#cronyism)
   
 * [The Solution](#the-solution)
   * [Unity](#unity)
@@ -34,4 +36,11 @@ The misery that plagues us is not the way of the world. It is but another form o
 
 You, the people, have the power - the power to create not just machines, but happiness. You have the abilities to make this life free and filling, wonderful and beautiful. That power must be used. Let us use that power together - to unite. In the name of democracy, we shall fight for a new world - one where we all prosper, where we are secure in our lives, where every one has a chance, has an opportunity, where the right to live is not decided by ones who do not care. Tyrants say these things to us and use it to rise to power. They lie to each and every one of us. They do not fufill that promise, nor did they ever intend to. Tyrants use those promises to free themselves, not the people that helped them. We must fight to fufill that promise. We must free the world of the oppression - to rid the world of separation, of greed, of hate, of intolerance. We must fight for a world of reason and prosperity, a world where advancement leads to the happiness of all people. People of all nations, of all lands, unite!
 
-## The System
+## Capitalism
+
+Capitalism is the current economic system of the world. It is an economic system by which the means of production, the country's trade and industry, is controlled by private individuals or private corporations instead of either the state or the people. Has this system been working for humanity? 
+  * 150 million people in the world are homeless<sup>[[1]](https://yaleglobal.yale.edu/content/cities-grow-worldwide-so-do-numbers-homeless)</sup>
+  * 550,000 people in the United States are homeless<sup>[[2]](https://ourworldindata.org/homelessness)</sup>
+  * There have been 49 crises, recessions and economic depressions since the turn of the 20th century<sup>[[3]](https://en.wikipedia.org/wiki/List_of_economic_crises#20th_century)</sup>
+  * 1/3 of the food produced in the world, every year, is wasted.<sup>[[3]](http://www.fao.org/save-food/resources/keyfindings/en/)[[4]](https://www.nytimes.com/2017/12/12/climate/food-waste-emissions.html)</sup> This is in a world where we produce enough food to feed 10 billion people.<sup>[[5]](https://www.huffingtonpost.com/eric-holt-gimenez/world-hunger_b_1463429.html)</sup> Despite that, 815 million people in the world are affected by undernourishment (number increased from 777 million the previous year), and 9 million die of hunger annually.<sup>[[6]](http://www.fao.org/state-of-food-security-nutrition/en/)[[7]](https://www.unicef.org/publications/files/State_of_Food_Security_and_Nutrition_in_the_World_2017.pdf)[[8]](https://borgenproject.org/15-world-hunger-statistics/)</sup>
+  * 27 million people lack safe water.<sup>[[9]](https://www.oxfam.org/en/emergencies/famine-and-hunger-crisis)</sup>
