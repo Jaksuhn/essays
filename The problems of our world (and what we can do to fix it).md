@@ -16,6 +16,10 @@
   * [Social Damage](#social-damage)
   
 * [The Solution](#the-solution)
+  * [Unity](#unity)
+  * [Reform or Revolution](#reform-or-revolution)
+* [The Unity Party](#the-unity-party)
+  * [Policies](#policies)
 
 
 ## Prologue
