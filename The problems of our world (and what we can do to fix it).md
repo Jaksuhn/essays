@@ -72,18 +72,6 @@ The exact statistics on **poor resource allocation** for basics such as homes, f
  
 A quote about jobs and work allocation:
 > If you are unemployed, it's not because there isn't any work. Just look around: housing shortages, crime, pollution; we need better schools and parks. Whatever our needs, they all require work, and as long as we have unsatisfied needs, there's work to be done. So ask yourself, what kind of world has work but not jobs? It's a world where work is not related to satisfying our needs, a world where work is only related to satisfying the profit needs of our businesses. This country was not built by the huge corporations or government bureaucracies. It was built by the people who work, and it is the people who should control the work to be done. Yet as long as employment is tied to somebody else's profits, the work won't get done.
- 
-Businesses often participate in **unethical business practices** in order to satisfy the fundamental need of capitalism for infinite growth and proit. These include:
- * Predatory pricing: the practice of, often large businessness, pricing products at a loss just to eliminate competition.<sup>[[5.1]](https://en.wikipedia.org/wiki/Predatory_pricing)</sup>
- * Price gouging, often a product of capitalism due to its nature of being controlled by a few, is the practice of drastically raising the price of necessities, especially during times of duress such as natural disasters. By default, this was a legal practice in much of the world until regulations were enacted to prohibit that. Currently within the United States, 17 states still have no laws against such practice.<sup>[[5.2]](http://consumer.findlaw.com/consumer-transactions/price-gouging-laws-by-state.html)
- * "Private prison threatens to close unless state or federal officials fill up 300 more beds."<sup>[[5.3]](http://www.santafenewmexican.com/news/local_news/company-plans-to-close-private-estancia-prison-lay-off/article_1ecd4d0e-caa1-5a05-bab2-1a7270729271.html)</sup>
- * Workers are often threatened to work off the clock so that the employer does not have to pay.<sup>[[5.4]](http://www.nytimes.com/2004/11/19/us/forced-to-work-off-the-clock-some-fight-back.html)</sup>
- * 54 towns and cities within Britain have banned begging.<sup>[[5.5]](https://www.buzzfeed.com/emilydugan/exclusive-there-are-now-54-towns-and-cities-in-britain-that)</sup>
- * Two headlines 24 hours apart:  
-  "Ohio coroner's office running out of room because of overdose deaths"<sup>[[5.6]](http://www.cnn.com/2017/02/01/health/ohio-coroner-overdose-deaths-trnd/index.html)</sup>  
-  "As opioid deaths rise, pharma firm hikes price of antidote more than six-fold"<sup>[[5.7]](http://www.philly.com/philly/health/Pharma-firm--Opioid-Overdose-Antidote-Then-Raising-The-Price.html)</sup>
- * Incentivisation of cars over public transportation, foreign jobs instead of domestic, have led to carbon footprint levels the world hasn't seen in 650,000 years.<sup>[citation needed]</sup>
-
 
 **In conclusion**, the list of fundamental flaws of capitalism are as follows:
  * Accumulation of capital that leads to inefficiency, concentration of power, and wealth inequality.
@@ -94,3 +82,46 @@ Businesses often participate in **unethical business practices** in order to sat
  * Overabundance of product that is wasted.
  * Markets hindering the field of academia due to results and fields not being desirable, i.e. profitable.
  * Unethical practices in order to satisfy the need for infinite growth and profit.
+
+### Class Struggle
+
+### Exploitation
+
+### Imperialism
+
+### False Scarcity
+
+### Individualism
+
+### Profit
+
+Businesses often participate in **unethical business practices** in order to satisfy the fundamental need of capitalism for infinite growth and proit. These include:
+ * Predatory pricing: the practice of, often large businessness, pricing products at a loss just to eliminate competition.<sup>[[]](https://en.wikipedia.org/wiki/Predatory_pricing)</sup>
+ * Price gouging, often a product of capitalism due to its nature of being controlled by a few, is the practice of drastically raising the price of necessities, especially during times of duress such as natural disasters. By default, this was a legal practice in much of the world until regulations were enacted to prohibit that. Currently within the United States, 17 states still have no laws against such practice.<sup>[[]](http://consumer.findlaw.com/consumer-transactions/price-gouging-laws-by-state.html)
+ * "Private prison threatens to close unless state or federal officials fill up 300 more beds."<sup>[[]](http://www.santafenewmexican.com/news/local_news/company-plans-to-close-private-estancia-prison-lay-off/article_1ecd4d0e-caa1-5a05-bab2-1a7270729271.html)</sup>
+ * Workers are often threatened to work off the clock so that the employer does not have to pay.<sup>[[]](http://www.nytimes.com/2004/11/19/us/forced-to-work-off-the-clock-some-fight-back.html)</sup>
+ * 54 towns and cities within Britain have banned begging.<sup>[[]](https://www.buzzfeed.com/emilydugan/exclusive-there-are-now-54-towns-and-cities-in-britain-that)</sup>
+ * Two headlines 24 hours apart:  
+  "Ohio coroner's office running out of room because of overdose deaths"<sup>[[]](http://www.cnn.com/2017/02/01/health/ohio-coroner-overdose-deaths-trnd/index.html)</sup>  
+  "As opioid deaths rise, pharma firm hikes price of antidote more than six-fold"<sup>[[]](http://www.philly.com/philly/health/Pharma-firm--Opioid-Overdose-Antidote-Then-Raising-The-Price.html)</sup>
+ * Incentivisation of cars over public transportation, foreign jobs instead of domestic, have led to carbon footprint levels the world hasn't seen in 650,000 years.<sup>[citation needed]</sup>
+
+### Social Damage
+
+### Race to the Bottom
+
+### Cronyism
+
+## The Solution
+
+### Unity
+
+### The Political Spectrum
+
+### What is Socialism?
+
+### Types of Socialism
+
+### Socialism FAQ
+
+### Reform or Revolution
