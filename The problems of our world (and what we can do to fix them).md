@@ -1,4 +1,4 @@
-# The Problems of Our World
+# The Problems of Our World (and what we can do to fix them)
 
 ## Contents
 * [Prologue](#prologue)
