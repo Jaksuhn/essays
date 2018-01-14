@@ -21,6 +21,7 @@
   * [Unity](#unity)
   * [The Political Spectrum](#the-political-spectrum)
   * [What is Socialism?](#what-is-socialism?)
+  * [Why Socialism?](#why-socialism?)
   * [Types of Socialism](#types-of-socialism)
   * [Socialism FAQ](#socialism-faq)
   * [Reform or Revolution](#reform-or-revolution)
@@ -119,6 +120,8 @@ Businesses often participate in **unethical business practices** in order to sat
 ### The Political Spectrum
 
 ### What is Socialism?
+
+### Why Socialism?
 
 ### Types of Socialism
 
