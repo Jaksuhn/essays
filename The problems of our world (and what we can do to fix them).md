@@ -19,8 +19,6 @@
   
 * [The Solution](#the-solution)
   * [Political History](#political-history)
-    * [History of Capitalism](#history-of-capitalism]
-    * [History of Socialism](#history-of-socialism]
   * [Unity](#unity)
   * [The Political Spectrum](#the-political-spectrum)
   * [What is Socialism?](#what-is-socialism)
@@ -132,10 +130,6 @@ Businesses often participate in **unethical business practices** in order to sat
 ## The Solution
 
 ### Political History
-
-#### History of Capitalism
-
-#### History of Socialism
 
 ### Unity
 
