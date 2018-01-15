@@ -4,7 +4,6 @@
 * [Prologue](#prologue)
 * [Capitalism](#capitalism)
   * [Fundamentals](#fundamentals)
-    * (remove this line when written) Concentration of wealth, growth, efficiency, markets
   * [Class Struggle](#class-struggle)
     * (remove this line when written) racial tension, "outsider" tension
   * [Exploitation](#exploitation)
@@ -19,6 +18,9 @@
   * [Cronyism](#cronyism)
   
 * [The Solution](#the-solution)
+  * [Political History](#political-history)
+    * [History of Capitalism](#history-of-capitalism]
+    * [History of Socialism](#history-of-socialism]
   * [Unity](#unity)
   * [The Political Spectrum](#the-political-spectrum)
   * [What is Socialism?](#what-is-socialism)
@@ -71,6 +73,7 @@ The exact statistics on **poor resource allocation** for basics such as homes, f
  * "One island, a poor socialist state with infrastructure in grave need of modernisation, has slowly emerged out of the chaos caused by a hurricane’s [Irma] wrath, while the other, a territory of the richest country in the world, cannot see the light at the end of the tunnel."<sup>[[4.6]](http://www.frontline.in/world-affairs/a-tale-of-two-islands/article9892265.ece?homepage=true)</sup>
  * "Almost 90% of edible tomatoes thrown away based on appearance"<sup>[[4.7]](https://www.theguardian.com/environment/2017/oct/13/you-say-tomato-retailers-say-waste-research-finds-produce-problem)</sup>
  * "Republican senator calls health care, food, and shelter a ‘privilege’"<sup>[[4.8]](https://thinkprogress.org/ron-johnson-health-care-a-privilege-1d9fe371b55a/)</sup>
+ * In the United States, victims of the Las Vegas shooting in 2017 are required to pay for their own treatments. Many are struggling and going into debt.<sup>[[4.9]](http://money.cnn.com/2017/10/25/pf/insurance/las-vegas-shooting-health-care/index.html)</sup>
  
 A quote about jobs and work allocation:
 > If you are unemployed, it's not because there isn't any work. Just look around: housing shortages, crime, pollution; we need better schools and parks. Whatever our needs, they all require work, and as long as we have unsatisfied needs, there's work to be done. So ask yourself, what kind of world has work but not jobs? It's a world where work is not related to satisfying our needs, a world where work is only related to satisfying the profit needs of our businesses. This country was not built by the huge corporations or government bureaucracies. It was built by the people who work, and it is the people who should control the work to be done. Yet as long as employment is tied to somebody else's profits, the work won't get done.
@@ -93,6 +96,10 @@ A quote about jobs and work allocation:
 
 ### Military-Industrial Complex
 
+> Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed. This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children. The cost of one modern heavy bomber is this: a modern brick school in more than 30 cities. It is two electric power plants, each serving a town of 60,000 population. It is two fine, fully equipped hospitals. It is some fifty miles of concrete pavement. We pay for a single fighter with a half-million bushels of wheat. We pay for a single destroyer with new homes that could have housed more than 8,000 people. . . . This is not a way of life at all, in any true sense. Under the cloud of threatening war, it is humanity hanging from a cross of iron.
+
+\- President Dwight D. Eisenhower, 1953-04-16
+
 ### False Scarcity
 
 ### Individualism
@@ -109,6 +116,12 @@ Businesses often participate in **unethical business practices** in order to sat
   "Ohio coroner's office running out of room because of overdose deaths"<sup>[[]](http://www.cnn.com/2017/02/01/health/ohio-coroner-overdose-deaths-trnd/index.html)</sup>  
   "As opioid deaths rise, pharma firm hikes price of antidote more than six-fold"<sup>[[]](http://www.philly.com/philly/health/Pharma-firm--Opioid-Overdose-Antidote-Then-Raising-The-Price.html)</sup>
  * Incentivisation of cars over public transportation, foreign jobs instead of domestic, have led to carbon footprint levels the world hasn't seen in 650,000 years.<sup>[citation needed]</sup>
+ * More than 110,000 travelers are stranded around Europe and the Middle East after the UK's Monarch Airlines declared bankruptcy. An estimated 860,000 people have lost future travel bookings.<sup>[[]](http://www.businessinsider.com/british-airline-goes-bankrupt-leaving-travelers-stranded-2017-10) A last ditch effot to scrape as much money as the corporation could before dissolving entirely at the expense of the consumer.
+ * Equifax, a credit reporting agency, was hacked in September 2017. The personal and sensitive information was released on 143 million people, including residents from the United States, Canada and the United Kingdom.<sup>[[]](https://techcrunch.com/2017/09/07/equifax-data-leak-could-involve-143-million-consumers/)</sup> Equifax were made aware of the problem in March of that year, and they learned of the actual breach in July.<sup>[[]](http://money.cnn.com/2017/09/16/technology/equifax-breach-security-hole/index.html)
+ * In 2013, the company Yahoo had an attack that affected all three billion of its accounts, releasing names, birth dates, passwords and email. In 2014, it had a second attack affecting 500 million people.<sup>[[]](https://www.nytimes.com/2017/10/03/technology/yahoo-hack-3-billion-users.html)</sup>
+ * Ethicon, a subsidiary of Johnson & Johnson (pharmaceutical company), re-released a vaginal mesh implant (to get consumers to use a newer version despite minimal changes) without clinical trials. They were brought to court after a woman was "left with a mangled urethra, bladder spasms and continual pelvic pain after an unsuccessful procedure that led to three revision surgeries to remove mesh that had cut into her urethra and migrated to her bladder."<sup>[[]](https://www.theguardian.com/society/2017/sep/29/revealed-johnson-johnsons-irresponsible-actions-over-vaginal-mesh-implant)</sup>
+ * UK company 2 Sisters Food Group was ousted in 2017 after an undercover video surfaced showing workers putting chicken that fell on the floor back onto the production line and altering of chicken's kill dates in order to sell more chicken that otherwise could not have been sold.<sup>[[]](https://www.theguardian.com/business/2017/nov/03/chicken-safety-scandal-2-sisters-factory-to-resume-production)</sup>
+ * Perdue Pharma advertised and convinced doctors and the public that its oxycotin drugs had a low-risk of addiction. They also compiled databases of all prescriptions handed out by doctors and stores and did nothing about sudden and suspicious influxes of prescriptions given out.<sup>[[]](https://www.reuters.com/article/us-washington-opioids/washington-state-sues-oxycontin-maker-purdue-pharma-idUSKCN1C32LM)[[]](http://theweek.com/articles/541564/how-american-opiate-epidemic-started-by-pharmaceutical-company). In 2016 alone, 64,070 people died from opioid overdoses in the United States - since 2000, millions.<sup>[[]](https://www.cbsnews.com/news/opioids-drug-overdose-killed-more-americans-last-year-than-the-vietnam-war/)[[]](https://www.nytimes.com/interactive/2017/09/02/upshot/fentanyl-drug-overdose-deaths.html)</sup>
 
 ### Social Damage
 
@@ -117,6 +130,12 @@ Businesses often participate in **unethical business practices** in order to sat
 ### Cronyism
 
 ## The Solution
+
+### Political History
+
+#### History of Capitalism
+
+#### History of Socialism
 
 ### Unity
 
