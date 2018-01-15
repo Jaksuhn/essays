@@ -9,6 +9,7 @@
     * (remove this line when written) racial tension, "outsider" tension
   * [Exploitation](#exploitation)
   * [Imperialism](#imperialism)
+  * [Military-Industrial Complex](#military-industrial-complex)
   * [False Scarcity](#false-scarcity)
   * [Individualism](#individualism)
   * [Resource Allocation](#resource-allocation)
@@ -89,6 +90,8 @@ A quote about jobs and work allocation:
 ### Exploitation
 
 ### Imperialism
+
+### Military-Industrial Complex
 
 ### False Scarcity
 
