@@ -232,6 +232,7 @@ The systems in this category are either: not socialist at all, but confused with
 * Maoism:
 * Trotskyism:
 * Titoism:
+* Kautskyism:
 * Left Communism:
 * Luxemburgism:
 * Autonomism:
