@@ -2,17 +2,16 @@
 
 ## Contents
 * [Prologue](#prologue)
-* [Capitalism](#capitalism)
-  * [Fundamentals](#fundamentals)
+* [Capitalism*](#capitalism)
+  * [Fundamentals*](#fundamentals)
   * [Class Struggle](#class-struggle)
-    * (remove this line when written) racial tension, "outsider" tension
   * [Exploitation](#exploitation)
   * [Imperialism](#imperialism)
   * [Military-Industrial Complex](#military-industrial-complex)
   * [False Scarcity](#false-scarcity)
   * [Individualism](#individualism)
   * [Resource Allocation](#resource-allocation)
-  * [Profit](#profit)
+  * [Profit*](#profit)
   * [Social Damage](#social-damage)
   * [Race to the Bottom](#race-to-the-bottom)
   * [Cronyism](#cronyism)
