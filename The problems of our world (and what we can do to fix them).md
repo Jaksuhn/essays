@@ -203,7 +203,49 @@ In May 1949, a brief article written by Albert Einstein was published in the jou
 > Nevertheless, it is necessary to remember that a planned economy is not yet socialism. A planned economy as such may be accompanied by the complete enslavement of the individual. The achievement of socialism requires the solution of some extremely difficult socio-political problems: how is it possible, in view of the far-reaching centralization of political and economic power, to prevent bureaucracy from becoming all-powerful and overweening? How can the rights of the individual be protected and therewith a democratic counterweight to the power of bureaucracy be assured?
 
 > Clarity about the aims and problems of socialism is of greatest significance in our age of transition. Since, under present circumstances, free and unhindered discussion of these problems has come under a powerful taboo, I consider the foundation of this magazine to be an important public service.
+
 ### Types of Socialism
+
+*This section will essentially be a simplification of the wikipedia article [Types of socialism](https://en.wikipedia.org/wiki/Types_of_socialism) with little additions of historical context. For a more in-depth understanding, please refer to the wiki.*
+
+Defining socialism is very often a difficult topic that ends up with much argument between socialists and even outsiders. Nonetheless, every form of socialism is based off the idea that workers must control the [means of production](https://en.wikipedia.org/wiki/Means_of_production). On its own, socialism is purely an economic system - it does not dictate how a state, if it exists, should operate. Some flavours of socialism do address this within their ideology.
+
+**The Debated and/or Non-Socialisms**  
+The systems in this category are either: not socialist at all, but confused with socialism; considered to be socialism among some but not among others; support a partial socialist implementation but ultimately retain parts of capitalism.  
+* Social Democracy
+* Democratic Socialism
+* Market Socialism:
+* Liberal Socialism:
+
+**Socialisms**
+* Socialism:
+* Planned Economy Socialsm:
+* Libertarian Socialism
+* Religious Socialism:
+* Statism/State Socialism:
+
+**Communisms**
+* Communism:
+* Marxism:
+* Leninism:
+* Stalinism:
+* Maoism:
+* Trotskyism:
+* Titoism:
+* Left Communism:
+* Luxemburgism:
+* Autonomism:
+
+**Anarchisms**
+* Anarchism:
+* Mutualism:
+* Collectivist Anarchism:
+* Anarcho-Communism:
+* Anarcho-Syndicalism:
+* Green Anarchism:
+
+**Syndicalisms**
+* Syndicalism/DeLeonism:
 
 ### Socialism FAQ
 
