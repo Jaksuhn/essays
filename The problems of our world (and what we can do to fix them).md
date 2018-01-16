@@ -76,16 +76,20 @@ The exact statistics on **poor resource allocation** for basics such as homes, f
 A quote about jobs and work allocation:
 > If you are unemployed, it's not because there isn't any work. Just look around: housing shortages, crime, pollution; we need better schools and parks. Whatever our needs, they all require work, and as long as we have unsatisfied needs, there's work to be done. So ask yourself, what kind of world has work but not jobs? It's a world where work is not related to satisfying our needs, a world where work is only related to satisfying the profit needs of our businesses. This country was not built by the huge corporations or government bureaucracies. It was built by the people who work, and it is the people who should control the work to be done. Yet as long as employment is tied to somebody else's profits, the work won't get done.
 
+Capitalism fundamentally **concentrates wealth** to the hands of fewer and fewer people at the top, and given that wealth directly correlates to power, class divide and inequality is guaranteed.<sup>[[4.10]](http://evonomics.com/perfect-markets-concentrate-wealth-strangle-growth-prosperity/)</sup> Those who hold wealth have the means to invest in newly created sources and structures of wealth, or to otherwise leverage the accumulation of wealth, and are thus the beneficiaries of even greater wealth. Corporations with enough capital have direct power of those below them and are able to become even larger by out-competing smaller businesses by changing laws, industry control, and/or predatory pricing, as mentioned earlier.<sup>[[4.11]](https://en.wikipedia.org/wiki/Capital_accumulation)[[4.12]](https://en.wikipedia.org/wiki/Wealth_concentration)[[4.13]](http://www.economictheories.org/2008/07/karl-marx-concentration-and.html)</sup>
+
+**Academic capitalism**, or capitalism involvement in academia, has a wide variety of issues that will be addressed here. Firstly, the role of education changes. Instead of focusing on providing knowledge to society in order to further it, the focus has shifted towards profit. This has lead to astronomical administration costs at the expense of teacher pay and benefits<sup>[[5.1]](https://stateimpact.npr.org/florida/maps/mapping-florida-school-district-administrative-costs/)[[5.2]](https://stateimpact.npr.org/florida/2012/05/02/what-administrative-costs-say-about-school-district-spending/)[[5.3]](http://www.news-journalonline.com/news/20130601/schools-try-to-hold-the-line-on-school-administrative-costs)</sup>, abuse of tax-exemptions<sup>[[5.4]](http://www.newhavenindependent.org/index.php/archives/entry/tax_yale/)</sup>, reduction of scientific progress and an increase in unethical practices.<sup>[[5.5]](http://online.liebertpub.com/doi/10.1089/ees.2016.0223)[[5.6]](http://www.nature.com/news/corporate-culture-has-no-place-in-academia-1.20724)</sup>
+
 **In conclusion**, the list of fundamental flaws of capitalism are as follows:
  * Accumulation of capital that leads to inefficiency, concentration of power, and wealth inequality.
  * Lack of efficiency that hinders innovation.
  * Constant growth that is unsustainable, causes economic crashes, cut corners and encourages the "race to the bottom".
  * Resource allocation within capitalism does not allocate the basics needed to live either at all or sufficiently.
  * Concentration of power that leads to corruption in every level of life, and competition for individual interests instead of societies.
- * Overabundance of product that is wasted.
+ * Overabundance of product that is wasted. See **Resource allocation** and [Capitalism](#capitalism) sections.
  * Markets hindering the field of academia due to results and fields not being desirable, i.e. profitable.
- * Unethical practices in order to satisfy the need for infinite growth and profit.
-
+ * Unethical practices in order to satisfy the need for infinite growth and profit. See [Profit](#profit).
+ 
 ### Class Struggle
 
 ### Exploitation
