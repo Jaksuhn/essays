@@ -208,12 +208,14 @@ In May 1949, a brief article written by Albert Einstein titled "[Why Socialism?]
 
 ### Types of Socialism
 
-*This section will essentially be a simplification of the wikipedia article [Types of socialism](https://en.wikipedia.org/wiki/Types_of_socialism) with little additions of historical context. For a more in-depth understanding, please refer to the wiki.*
+*This section will essentially be a simplification of the wikipedia article "[Types of socialism]"(https://en.wikipedia.org/wiki/Types_of_socialism) with little additions of historical context. For a more in-depth understanding, please refer to the wiki.*
 
 Defining socialism is very often a difficult topic that ends up with much argument between socialists and even outsiders. Nonetheless, every form of socialism is based off the idea that workers must control the [means of production](https://en.wikipedia.org/wiki/Means_of_production). On its own, socialism is purely an economic system - it does not dictate how a state, if it exists, should operate. Some flavours of socialism do address this within their ideology.
 
-**The Debated and/or Non-Socialisms**  
-The systems in this category are either: not socialist at all, but confused with socialism; considered to be socialism among some but not among others; support a partial socialist implementation but ultimately retain parts of capitalism.  
+**The Debated and/or Non-Socialisms**
+
+The systems in this category are either: not socialist at all, but confused with socialism; considered to be socialism among some but not among others; support a partial socialist implementation but ultimately retain parts of capitalism.
+
 * Social Democracy
 * Democratic Socialism
 * Market Socialism:
