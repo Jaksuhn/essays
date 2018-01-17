@@ -160,7 +160,7 @@ Businesses often participate in **unethical business practices** in order to sat
 
 ### Why Socialism?
 
-In May 1949, a brief article written by Albert Einstein was published in the journal *Monthly Review*. It reads as follows.
+In May 1949, a brief article written by Albert Einstein titled "Why Socialism?" was published in the journal *[Monthly Review](https://monthlyreview.org/2009/05/01/why-socialism/)*. It reads as follows.
 
 > Is it advisable for one who is not an expert on economic and social issues to express views on the subject of socialism? I believe for a number of reasons that it is.
 
