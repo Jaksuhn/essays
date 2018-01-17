@@ -97,6 +97,8 @@ Other forms of class struggles within capitalism would be the struggle between r
 
 ### Exploitation
 
+Exploitation of labour is the act of treating ones workers unfairly for ones own benefit. It is a social relationship based on a fundamental asymmetry in a power relationship between workers and their employers. To understand its relation to capitalism, you must think of profit. What is profit? Profit is the difference between what you pay your workers, infrastructure and materials and the money you get by selling that which was made with the workers and materials you bought.<sup>[[]](http://www.dictionary.com/browse/profit)</sup> In a capitalist society, those that attain the greatest profits are the ones that survive. Because it is safe to assume that the costs of materials and infrastructure are covered in the price of a commodity, profit is labour that is not paid to the worker.
+
 ### Imperialism
 
 ### Military-Industrial Complex
