@@ -2,8 +2,8 @@
 
 ## Contents
 * [Prologue](#prologue)
-* [Capitalism*](#capitalism)
-  * [Fundamentals*](#fundamentals)
+* [Capitalism](#capitalism)
+  * [Fundamentals](#fundamentals)
   * [Class Struggle](#class-struggle)
   * [Exploitation](#exploitation)
   * [Imperialism](#imperialism)
@@ -11,7 +11,7 @@
   * [False Scarcity](#false-scarcity)
   * [Individualism](#individualism)
   * [Resource Allocation](#resource-allocation)
-  * [Profit*](#profit)
+  * [Profit](#profit)
   * [Social Damage](#social-damage)
   * [Race to the Bottom](#race-to-the-bottom)
   * [Cronyism](#cronyism)
@@ -97,7 +97,9 @@ Other forms of class struggles within capitalism would be the struggle between r
 
 ### Exploitation
 
-Exploitation of labour is the act of treating ones workers unfairly for ones own benefit. It is a social relationship based on a fundamental asymmetry in a power relationship between workers and their employers. To understand its relation to capitalism, you must think of profit. What is profit? Profit is the difference between what you pay your workers, infrastructure and materials and the money you get by selling that which was made with the workers and materials you bought.<sup>[[9.1]](http://www.dictionary.com/browse/profit)</sup> In a capitalist society, those that attain the greatest profits are the ones that survive. Because it is safe to assume that the costs of materials and infrastructure are covered in the price of a commodity, profit is labour that is not paid to the worker.
+Exploitation of labour is the act of treating ones workers unfairly for ones own benefit. It is a social relationship based on a fundamental asymmetry in a power relationship between workers and their employers. To understand its relation to capitalism, you must think of profit. What is profit? Profit is the difference between what you pay your workers, infrastructure and materials and the money you get by selling that which was made with the workers and materials you bought.<sup>[[9.1]](http://www.dictionary.com/browse/profit)</sup> In a capitalist society, those that attain the greatest profits are the ones that survive. Because it is safe to assume that the costs of materials and infrastructure are covered in the price of a commodity, profit is labour that is not paid to the worker. So, all of that being said, by nature of the system itself, capitalism exploits those who are without capital and required to sell their own labour to live, for they do not get all of the fruits of their labour.
+
+"From each according to his ability, to each according to his needs" is a phrase popularised (though not invented) by Karl Marx, meaning that each person works for society to the best of their ability, and that everyone is to have no unsatisfied needs.<sup>[[9.2]](https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm)</sup> A similar phrase, "to each according to his contribution", was also popularised by the socialist and labour movements.<sup>[[9.3]](https://en.wikipedia.org/wiki/To_each_according_to_his_contribution) Both of these slogans were integral parts of labour movements from the 19<sup>th</sup> century onward.
 
 ### Imperialism
 
