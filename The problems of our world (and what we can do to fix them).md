@@ -102,7 +102,7 @@ Exploitation of labour is the act of treating ones workers unfairly for ones own
 
 ### Imperialism
 
-Capitalism is inherently imperialistic because it must expand. Surplus production leads to the pursuit of new markets to maintain profits as the old markets become saturated, or if labor in the current market becomes too expensive, or if there are no longer any natural resources available in the current market. Eventually this leads to a global market.<sup>[[]](https://www.thoughtco.com/globalization-of-capitalism-3026076)</sup>
+Capitalism is inherently imperialistic because it must expand. Surplus production leads to the pursuit of new markets to maintain profits as the old markets become saturated, or if labour in the current market becomes too expensive, or if there are no longer any natural resources available in the current market. Eventually this leads to a global market.<sup>[[]](https://www.thoughtco.com/globalization-of-capitalism-3026076)</sup>
 
 ### Military-Industrial Complex
 
