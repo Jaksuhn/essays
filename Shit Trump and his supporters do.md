@@ -1,4 +1,4 @@
-# Terrible atrocities committed by Trump and his supporters
+# Shit Trump and his supporters do
 
 ## Trump
 
@@ -88,12 +88,43 @@
 * Froze implementation of new overtime pay rules.<sup>[[84.1]](https://www.bna.com/trump-freezes-overtime-n73014450151/)</sup>
 * Vowed to “destroy the Johnson Amendment” which prohibits churches from engaging in politics at the risk of losing their tax exempt status, blurring the line between church and state.<sup>[[85.1]](https://www.nytimes.com/2017/02/02/us/politics/trump-johnson-amendment-political-activity-churches.html?smid=fb-share)</sup>
 * Threatened to cut federal funding to UC Berkley after student protests.<sup>[[86.1]](http://abcnews.go.com/Politics/stake-berkeley-trump-warns-university-canceled-speech/story?id=45227163)</sup>
-* Rolled back financial regulations implemented under the Dodd-Frank Act which prevent financial institutions from investing retirement savings into risky products for their own benefit, without disclosing the information to the investors. This move is expected to cost retirees $17 billion a year<sup></sup>
-* Repealed the “blacklisting rule”, which requires companies bidding for federal contracts to disclose labor law violations.<sup></sup>
-* Repealed the Extraction Payment Disclosure rule, which requires oil, gas, mining, and other extraction companies to disclose their payments to foreign governments<sup></sup>
-* Repealed the Stream Protection Rule, which prevents coal companies from dumping their waste products into rivers and other effluence<sup></sup>
-* Repealed a rule which limits the ability of people with mental illnesses to purchase guns<sup></sup>
-* Proposed new rules to make special enrollments under Obamacare more difficult<sup></sup>
+* Rolled back financial regulations implemented under the Dodd-Frank Act which prevent financial institutions from investing retirement savings into risky products for their own benefit, without disclosing the information to the investors. This move is expected to cost retirees $17 billion a year.<sup>[[87.1]](http://www.nbcnews.com/news/us-news/trump-signs-executive-orders-watering-down-dodd-frank-financial-regulations-n716481)[[87.2]](http://www.huffingtonpost.com/entry/donald-trump-wall-street_us_5894ca9ee4b0c1284f25ce8d?d6b94vs8bnl7q4cxr&)</sup>
+* Repealed the “blacklisting rule”, which requires companies bidding for federal contracts to disclose labor law violations.<sup>[[88.1]](http://thehill.com/regulation/legislation/317638-house-votes-to-repeal-obama-blacklisting-rule)</sup>
+* Repealed the Extraction Payment Disclosure rule, which requires oil, gas, mining, and other extraction companies to disclose their payments to foreign governments.<sup>[[89.1]](http://www.politico.com/story/2017/02/senate-votes-to-kill-sec-disclosure-rule-234590)</sup>
+* Repealed the Stream Protection Rule, which prevents coal companies from dumping their waste products into rivers and other effluence.<sup>[[90.1]](http://www.vox.com/2017/2/2/14488448/stream-protection-rule)</sup>
+* Repealed a rule which limits the ability of people with mental illnesses to purchase guns.<sup>[[91.1]](http://www.cnn.com/2017/02/02/politics/house-vote-guns-mental-illnesses/)</sup>
+* Proposed new rules to make special enrollments under Obamacare more difficult.<sup>[[92.1]](http://www.cnbc.com/2017/02/02/proposed-new-obamacare-regulation-could-restrict-special-enrollments.html)</sup>
+* Wiped pages on Civil Rights, Climate Change, and LGBT Rights from the White House website after taking office<sup>[[93.1]](http://www.thedailybeast.com/articles/2017/01/20/trump-s-whitehouse-gov-disappears-civil-rights-climate-change-lgbt-rights.html)</sup>
+* Attempted to justify the Muslim Ban by alluding to a fictitious “Bowling Green Massacre”.<sup>[[94.1]](http://abcnews.go.com/US/bowling-green-massacre-happened/story?id=45258634)</sup>
+* Blocked 9 companies from providing affordable internet to the poor.<sup>[[95.1]](http://www.chicagotribune.com/bluesky/technology/ct-fcc-chair-internet-poor-20170203-story.html)</sup>
+* Encouraged more aggressive civil assets forfeiture.<sup>[[96.1]](http://www.huffingtonpost.com/entry/trump-asset-forfeiture_us_589a16bce4b0c1284f28be3c?b9p9nzxoft21emi&)</sup>
+* Questioned legitimacy of judges who blocked his travel ban, an attack on judicial independence which even Trump’s own supreme court nominee found demoralizing.<sup>[[97.1]](https://www.washingtonpost.com/news/the-fix/wp/2017/02/04/trump-lashes-out-at-federal-judge-who-temporarily-blocked-travel-ban/?utm_term=.68fc81d2c67d)[[97.2]](http://www.nbcnews.com/politics/politics-news/neil-gorsuch-trump-s-own-supreme-court-pick-calls-president-n718566)</sup>
+* Delayed listing bumblebees as endangered.<sup>[[98.1]](https://www.washingtonpost.com/news/energy-environment/wp/2017/02/09/trump-administration-puts-off-listing-bumble-bee-as-endangered/?utm_term=.e18d770c258b)</sup>
+* Issued tough on crime executive orders that reverse course on police reform with the excuse of confronting a non-existent crime wave.<sup>[[99.1]](https://qz.com/906982/the-aclu-says-trumps-executive-order-on-crime-aims-to-stop-national-trends-that-dont-exist/)</sup>
+* Wiped references to the Affordable Care Act from government websites.<sup>[[100.1]](http://www.wtae.com/article/trump-administration-starts-deleting-obamacare-references-from-sites/8700627)</sup>
+* Has apparently nixed extending the New START Treaty on nuclear arm’s control.<sup>[[101.1]](http://www.reuters.com/article/us-usa-trump-putin-idUSKBN15O2A5)</sup>
+* Ordered the USDA to remove inspection reports and other  animal welfare safeguards, enabling animal abuse.<sup>[[102.1]](http://bipartisanreport.com/2017/02/04/trump-administration-strips-animal-rights-safeguards-pets-now-at-risk/)</sup>
+* Apparently deleted a Department of Labor website that allowed Wells Fargo employees to report abusive labor and employment practices carried out by the bank.<sup>[[103.1]](http://www.insidecounsel.com/2017/01/31/5-trump-administration-labor-moves-you-may-have-mi)</sup>
+* Launched a mass deportation drive that has put countless immigrants who have built their lives in the US in the crosshairs. It’s estimated that 700 were arrested in the first week of the drive.<sup>[[104.1]](http://www.huffingtonpost.com/entry/trump-immigration-raids-deportation_us_589e1eb0e4b094a129eb03b0?2t8f9pbl78u22ihpvi&&)[[104.2]](https://theintercept.com/2017/02/14/ice-arrested-nearly-700-people-last-week-advocates-are-bracing-for-more-to-come/)</sup>
+* As President-Elect undermined Obama’s foreign policy and possibly broke the Logan Law when Michael Flynn called Russian Ambassador and suggesting that the Trump Administration would roll back sanctions. Flynn was eventually forced to resign as questions emerged as to whether or not he had misled the White House and received money from the Russian government.<sup>[[105.1]](http://www.vox.com/world/2017/2/10/14575456/michael-flynn-phone-call-russia-explained)[[105.2]](https://www.nytimes.com/2017/02/13/us/politics/donald-trump-national-security-adviser-michael-flynn.html?_r=0)</sup>
+* Issued a list of “under reported” terrorists attacks which omitted domestic terrorist attacks committed by white nationalists/right wing terrorist.<sup>[[106.1]](https://www.salon.com/2017/02/08/white-terrorism-is-different-says-white-congressman-and-unfortunately-hes-right/)</sup>
+* Attempted to block Salam Fayyad from acting as UN envoy to Libya, complicating attempts to mediate a peaceful resolution to the country’s ongoing civil war, essentially just to spite Palestine.<sup>[[107.1]](http://www.reuters.com/article/us-libya-un-us-idUSKBN15Q04D)</sup>
+* Acted irresponsibly by reviewing sensitive intelligence on open patios and allowing members of his private club at Mar-A-Lago to take pictures with the “nuclear football”.<sup>[[108.1]](http://www.huffingtonpost.com/entry/trump-mar-a-lago-intelligence_us_58a20838e4b03df370d9007e)</sup>
+* After learning of Michael Flynn’s potentially illegal activities, did nothing for 18 days.<sup>[[109.1]](http://www.huffingtonpost.com/entry/donald-trump-michael-flynn-timeline_us_58a38663e4b094a129f02498?section=politics&)</sup>
+* He and the Republican Congress have also rejected investigating potentially serious misconduct by administration officials related to the Russian scandal, and instead have indicated their desire to go in the opposite direction by cracking down on whistle blowers
+<sup>[[110.1]](http://www.huffingtonpost.com/entry/jason-chaffetz-michael-flynn_us_58a31aa2e4b03df370da45b9)[[110.2]](http://time.com/4670450/donald-trump-michael-flynn-leaks/)</sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
 * <sup></sup>
 * <sup></sup>
 * <sup></sup>
