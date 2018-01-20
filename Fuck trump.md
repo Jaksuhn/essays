@@ -2,8 +2,6 @@
 
 ## Trump
 
-### Acts
-
 * Tax evasion.<sup>[[1.1]](http://www.investopedia.com/articles/markets/061516/new-evidence-trump-didnt-pay-taxes.asp)[[1.2]](http://www.theguardian.com/us-news/2016/mar/12/donald-trump-briarcliff-manor-golf-course-tax)[[1.3]](http://www.lohud.com/story/news/2015/09/03/trump-seeks-90-percent-tax-cut-briarcliff-golf-club/71520582/)[[1.4]](http://www.redstate.com/sweetie15/2016/05/19/trumps-long-list-tax-troubles/)[[1.5]](http://abcnews.go.com/Politics/time-donald-trump-undersells-tax-time/story?id=39133709)[[1.6]](http://anonhq.com/breaking-abc-news-fingers-donald-trump-massive-tax-evasion-scandal/)[[1.7]](http://www.forbes.com/sites/ryanellis/2016/03/08/donald-trump-and-the-empty-jewelry-box-tax-scam/#720f5d106aa7)[[1.8]](http://www.telegraph.co.uk/news/2016/05/25/exclusive-donald-trump-signed-off-deal-designed-to-deprive-us-of/)[[1.9]](http://www.mediaite.com/print/old-donald-trump-tax-returns-show-he-paid-zero-taxes-for-at-least-two-years/)</sup>
 * Felony obstruction of justice by destroying thousands of emails subpoenaed by a federal judge during legal hearings against him.<sup>[[2.1]](http://www.usatoday.com/story/news/politics/elections/2016/06/13/trump-accused-destroying-email-evidence-lawsuit-10-years-ago-republican-hillary-president/85795082/)</sup>
 * Committed felony and lied to the Securities and Exchange Commission about company earnings.<sup>[[3.1]](http://money.cnn.com/2002/01/16/news/sec_trump/)[[3.2]](http://www.sec.gov/news/headlines/trumphotels.htm)[[3.3]](http://fortune.com/2016/03/14/donald-trump-sec/)</sup>
@@ -22,7 +20,7 @@
 * Trump brand used to swindles buyers out of life savings through fraud in failed Condo project.<sup>[[16.1]](http://www.tampabay.com/news/business/realestate/buyers-still-feel-burned-by-donald-trump-after-tampa-condo-tower-failure/2239499)[[16.2]](http://www.nytimes.com/2011/05/13/nyregion/feeling-deceived-over-homes-that-were-trump-in-name-only.html)</sup>
 * Tried to violate Antitrust regulations through purgery and identity theft to steal two separate companies.<sup>[[17.1]](http://articles.philly.com/1986-12-06/news/26071103_1_bally-stock-bally-manufacturing-marvin-roffman)[[17.2]](http://www.apnewsarchive.com/1988/Trump-Agrees-To-Pay-$750-000-Penalty-To-Settle-Antitrust-Lawsuit/id-54ea0dc590fc97d9e9e86c65336649a1)</sup>
 * Hires illegal immigrants and defrauds them of pay.<sup>[[18.1]](http://www.nytimes.com/2014/10/05/realestate/fifth-avenue-bonwit-teller-opulence-lost.html)[[18.2]](http://www.nbcnews.com/news/us-news/donald-says-controversy-over-his-tower-was-trumped-n397821)[[18.3]](http://www.slate.com/blogs/the_slatest/2016/02/25/details_on_the_donald_trump_polish_worker_lawsuit.html)[[18.4]](http://nymag.com/daily/intelligencer/2016/02/rubio-google-trump-and-polish-workers.html)</sup>
-* Violates immigration laws by sneaking Illegal Immigrants into the U.S for modeling jobs then refuses to pay them. (This is a separate incident then the one mentioned above by the way.)<sup>[[19.1]](http://money.cnn.com/2016/03/10/news/trump-model-visas/)[[19.2]](http://pix11.com/2015/09/11/as-his-popularity-over-immigration-issues-grows-donald-trumps-court-case-involving-immigration-and-fashion-models-lingers/)</sup>
+* Violates immigration laws by sneaking Illegal Immigrants into the U.S for modeling jobs then refuses to pay them. (This is a separate incident than the one mentioned above by the way.)<sup>[[19.1]](http://money.cnn.com/2016/03/10/news/trump-model-visas/)[[19.2]](http://pix11.com/2015/09/11/as-his-popularity-over-immigration-issues-grows-donald-trumps-court-case-involving-immigration-and-fashion-models-lingers/)</sup>
 * Uses bribery and secret financing to circumvent state law and stop competitors.<sup>[[20.1]](http://www.nytimes.com/2000/10/06/nyregion/trump-and-others-accept-fines-for-ads-in-opposition-to-casinos.html)[[20.2]](http://www.nydailynews.com/archives/news/trump-250g-fine-lobbying-article-1.885295)</sup>
 * Court case implicated Trump in fraud, money-laundering, conspiracy, perjury and the theft of trade secrets.<sup>[[21.1]](http://articles.philly.com/2000-03-12/news/25604405_1_donald-trump-trump-hotel-private-investigator)</sup>
 * Violates federal gambling laws.<sup>[[22.1]](http://articles.philly.com/1991-04-09/news/25780577_1_casino-control-act-donald-trump-casino-owners)</sup>
@@ -81,6 +79,21 @@
 * Ignored orders by Federal Courts to temporarily halt the deportation of people with valid visas as a consequence of the Muslim Ban. Customs and Border Patrol agents working under the Department of Homeland Security continued to attempt to deport people, possibly creating a constitutional crisis.<sup>[[75.1]](https://www.theguardian.com/us-news/2017/jan/29/customs-border-protection-agents-trump-muslim-country-travel-ban)</sup>
 * Filed for reelection on the day of his inauguration. This action, which is highly unusual, allows Trump to immediately begin accepting campaign contributions, prompting further fears of conflicts of interest and corruption.<sup>[[76.1]](http://theweek.com/speedreads/676391/president-trump-already-filed-reelection-thats-not-normal)</sup>
 * Authorized a military strike in Yemen which killed at least 15 women and children, including the 8-year-old daughter of US citizen and terrorist Anwar al-Awlaki. This incident, which at the very least displays a callous disregard for those killed as collateral damage, is particularly disturbing given Trump’s previous claim that he’d “take out” the families of terrorists.<sup>[[77.1]](https://theintercept.com/2017/01/30/obama-killed-a-16-year-old-american-in-yemen-trump-just-killed-his-8-year-old-sister/)[[77.2]](http://www.cnn.com/2015/12/02/politics/donald-trump-terrorists-families/)</sup>
+* Signed an executive order demanding that, for every new regulation enacted, 2 must be revoked, and mandated that net spending on regulations must be zero for. The order has been called “arbitrary” and “impossible to implement” and will undermine effective government.<sup>[[78.1]](http://www.politico.com/story/2017/01/trump-signs-executive-order-requiring-that-for-every-one-new-regulation-two-must-be-revoked-234365)[[78.2]](http://www.vox.com/science-and-health/2017/1/30/14441430/trump-executive-order-regulations)</sup>
+* Used congressional staffers to create the Muslim Ban Executive Order. Had staffers sign non-disclosure agreements so that their employers (congress) would not know about it, thus circumventing the division between the executive branch and the congressional branch.<sup>[[79.1]](http://www.politico.com/story/2017/01/trump-immigration-congress-order-234392)</sup>
+* Weakened the Obama Administration’s lobbying ban.<sup>[[80.1]](http://www.politico.com/story/2017/01/trump-lobbying-ban-weakens-obama-ethics-rules-234318)</sup>
+* “Iced out” CNN in attempt to punish it for unfavorable coverage.<sup>[[81.1]](http://www.politico.com/story/2017/01/trump-cnn-press-234455)</sup>
+* Reneged on his campaign promise to negotiate drug prices.<sup>[[82.1]](http://www.vox.com/policy-and-politics/2017/1/31/14453740/trump-medicare-prescription-drugs)</sup>
+* Maintained much of his private security after assuming office, which has previously been accused of using excessive, racial profiling, and trampling free speech.<sup>[[83.1]](http://www.politico.com/story/2017/02/trump-securitys-use-of-force-questioned-234396)</sup>
+* Froze implementation of new overtime pay rules.<sup>[[84.1]](https://www.bna.com/trump-freezes-overtime-n73014450151/)</sup>
+* Vowed to “destroy the Johnson Amendment” which prohibits churches from engaging in politics at the risk of losing their tax exempt status, blurring the line between church and state.<sup>[[85.1]](https://www.nytimes.com/2017/02/02/us/politics/trump-johnson-amendment-political-activity-churches.html?smid=fb-share)</sup>
+* Threatened to cut federal funding to UC Berkley after student protests.<sup>[[86.1]](http://abcnews.go.com/Politics/stake-berkeley-trump-warns-university-canceled-speech/story?id=45227163)</sup>
+* Rolled back financial regulations implemented under the Dodd-Frank Act which prevent financial institutions from investing retirement savings into risky products for their own benefit, without disclosing the information to the investors. This move is expected to cost retirees $17 billion a year<sup></sup>
+* Repealed the “blacklisting rule”, which requires companies bidding for federal contracts to disclose labor law violations.<sup></sup>
+* Repealed the Extraction Payment Disclosure rule, which requires oil, gas, mining, and other extraction companies to disclose their payments to foreign governments<sup></sup>
+* Repealed the Stream Protection Rule, which prevents coal companies from dumping their waste products into rivers and other effluence<sup></sup>
+* Repealed a rule which limits the ability of people with mental illnesses to purchase guns<sup></sup>
+* Proposed new rules to make special enrollments under Obamacare more difficult<sup></sup>
 * <sup></sup>
 * <sup></sup>
 * <sup></sup>
@@ -89,12 +102,12 @@
 * <sup></sup>
 * <sup></sup>
 * <sup></sup>
-
-### Lies
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
 
 ## Supporters
-
-### Acts
 
 * [Man yells, "Make America Great Again!" Before shooting 6 people dead.](http://www.dailymail.co.uk/news/article-3521583/Uber-driver-repeated-Trump-s-Make-America-Great-slogan-shooting-dead-six-people-Kalamazoo.html)
 * [Man wearing, "Make America Great Again" hat murders 2 strangers for no reason.](http://www.dailymail.co.uk/news/article-3748428/Cannibal-killer-Austin-Harrouff-19-wearing-Make-America-Great-Trump-hat-stormed-murdered-random-couple.html)
