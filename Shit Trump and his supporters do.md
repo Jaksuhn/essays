@@ -157,6 +157,44 @@
 * Shut out the public and scientific information from discussions on public land use.<sup>[[152.1]](http://www.salon.com/2017/03/09/public-land-debate-without-the-public-gop-congress-votes-to-shut-out-citizens-from-discussion-of-federal-land-use/)</sup>
 * Expanded CIA authority to launch drone strikes.<sup>[[153.1]](http://www.reuters.com/article/us-usa-trump-cia-drones-idUSKBN16K2SE)</sup>
 * Dropped Climate Change as a factor in government decision making.<sup>[[154.1]](http://thehill.com/policy/energy-environment/323945-trump-dropping-climate-change-impact-from-government-reviews-report)</sup>
+* Broke numerous campaign promises on healthcare by introducing and promoting the American Health Care Act (AHCA) which, among other things, slashes $880 billion from Medicaid and substantially reduces coverage.<sup>[[155.1]](http://www.nbcnews.com/politics/white-house/trump-s-backing-healthcare-plan-breaks-his-promises-n733031)[[155.2]](http://www.vox.com/2017/3/13/14914812/trump-ahca-medicaid-cuts)</sup>
+* Spent several times what the Obama Administration cost in vacations.<sup>[[156.1]](https://www.forbes.com/sites/niallmccarthy/2017/02/22/trumps-family-trips-cost-taxpayers-nearly-as-much-in-a-month-as-obamas-cost-in-a-whole-year/#4c51e03e36e4)</sup>
+* After ostentatiously pledging to donate both his Presidential salary and profits from the patronage of foreign governments at his businesses, refused to provide any actual proof that he is doing either of those things.<sup>[[157.1]](http://www.nbcnews.com/politics/donald-trump/after-pledging-donate-salary-trump-declines-release-proof-n732466)</sup>
+* Moved to undo Obama era emissions standards.<sup>[[158.1](http://www.politico.com/story/2017/03/donald-trump-auto-emissions-236070)</sup>
+* Killed a rule limiting drug testing requirements for unemployment benefits.<sup>[[159.1]](http://www.politico.com/story/2017/03/drug-testing-unemployment-senate-236049)</sup>
+* Restricted media access and limited transparency of diplomatic trips.<sup>[[160.1]](http://www.voanews.com/a/tillerson-media-access/3764853.html)</sup>
+* Possibly divulged classified information.<sup>[[161.1]](http://www.politico.com/story/2017/03/trump-classified-information-adam-schiff-236130)</sup>
+* Allowed debt collectors to charge usurious rates on past due student loans.<sup>[[162.1]](https://www.washingtonpost.com/news/grade-point/wp/2017/03/17/trump-administration-rolls-back-protections-for-people-in-default-on-student-loans/?utm_term=.4fc756825c30)</sup>
+* Betrayed his base and jeopardized the future of the American economy by pushing a budget which slashes programs poor, elderly and rural voters rely on while also slashing funding for scientific research and education, among other things.<sup>[[163.1]](https://www.bostonglobe.com/news/politics/2017/03/16/trump-budget-slashes-billions-from-rural-programs/bP8BKIdo5uSG5UkwD2ylOO/story.html)[[163.2]](http://www.vox.com/policy-and-politics/2017/3/16/14940712/trump-budget-science-education-health)</sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
+* <sup></sup>
 * <sup></sup>
 * <sup></sup>
 
