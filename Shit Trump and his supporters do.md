@@ -113,28 +113,50 @@
 * After learning of Michael Flynn’s potentially illegal activities, did nothing for 18 days.<sup>[[109.1]](http://www.huffingtonpost.com/entry/donald-trump-michael-flynn-timeline_us_58a38663e4b094a129f02498?section=politics&)</sup>
 * He and the Republican Congress have also rejected investigating potentially serious misconduct by administration officials related to the Russian scandal, and instead have indicated their desire to go in the opposite direction by cracking down on whistle blowers
 <sup>[[110.1]](http://www.huffingtonpost.com/entry/jason-chaffetz-michael-flynn_us_58a31aa2e4b03df370da45b9)[[110.2]](http://time.com/4670450/donald-trump-michael-flynn-leaks/)</sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
+* Caught lying about communicating with Russian intelligence officials during the 2016 campaign. In fact, the Trump campaign maintained regular contact with Russian intelligence officials.<sup>[[111.1]](http://www.huffingtonpost.com/entry/trump-campaign-russia_us_58a3ca36e4b03df370dba994)</sup>
+* Broke from decades of US foreign policy by abandoning a 2 state solution for the Israel/Palestine conflict.<sup>[[112.1]](https://www.wsj.com/articles/u-s-drops-insistence-on-two-state-solution-to-israeli-palestinian-conflict-1487140809)</sup>
+* Shortened the enrollment period for the ACA by one and a half months, making it increasingly difficult for people to gain access to affordable healthcare.<sup>[[113.1]](http://www.modernhealthcare.com/article/20170215/NEWS/170219975)</sup>
+* Lowered the quality standards for healthcare plans listed on the ACA marketplace.<sup>[[114.1]](https://www.aol.com/article/news/2017/02/15/the-trump-administration-just-proposed-massive-changes-to-obamac/21714655/)</sup>
+* Began to arrest “dreamers” (i.e. people who had been brought to the US as children) who were living in the US legally under DACA.<sup>[[115.1]](http://abcnews.go.com/Politics/arrest-dreamer-immigrant-trump-defy-daca/story?id=45499878)</sup>
+* Ordered government economists to cook up rosy economic forecasts. Also appears poised to tamper with the way economic statistics are calculated to advance his policy goals.<sup>[[116.1]](http://www.vox.com/2017/2/17/14651208/trump-budget-forecast)</sup>
+* Nixed $674 million in spending to electrify California’s rail system, effectively killing hopes for a high speed rail in the state.<sup>[[117.1]](http://www.sfgate.com/bayarea/article/Trump-administration-deals-a-big-setback-to-10941880.php)</sup>
+* Revived the “Secure Communities” program which had been previously shut down for endemic racial profiling.<sup>[[118.1]](http://www.salon.com/2017/02/17/the-trump-administration-is-giving-cops-unprecedented-power_partner/)</sup>
+* Began firing staff who criticized Trump before his election. Also firing staff who complained about him in private.<sup>[[119.1]](http://www.cnn.com/2017/02/17/politics/singleton-hud-fired-trump/index.html)[[119.2]](http://www.politico.com/story/2017/02/white-house-nsc-aide-craig-deare-dismissed-235175)</sup>
+* Declared the media to be the “enemy of the American people”.<sup>[[120.1]](http://thehill.com/homenews/administration/320168-trump-the-media-is-the-enemy-of-the-american-people)</sup>
+* Instructed ICE agents to deport migrants who have been charged, but not convicted, of crimes while also stating immigrants will not be afforded rights under U.S. privacy laws.<sup>[[121.1]](http://www.huffingtonpost.com/entry/trump-immigrants-deported_us_58a9162ce4b07602ad557114?b98b1aa81ysnhfr&)</sup>
+* Laid the groundwork for a humanitarian crisis in Yemen.<sup>[[122.1]](https://theintercept.com/2017/02/10/trump-intends-to-follow-up-botched-yemen-military-raid-by-helping-saudis-target-civilians/)[[122.2]](http://www.huffingtonpost.com/entry/trump-hodeidah-yemen-famine_us_58a88970e4b037d17d28610b?)</sup>
+* Proposed using background checks on Chinese immigrant’s social media profiles in a move civil rights advocates fear will be used to discriminate against Chinese immigrants. Later tweaked visa the visa application process to require mandatory social media background checks for immigrants from several countries.<sup>[[123.1]](http://www.huffingtonpost.com/entry/trump-chinese-social-media-checks_us_58ab0863e4b037d17d29bad7)[[123.2]](http://www.fox4news.com/news/243935239-story)</sup>
+* Decided to treat transgender rights as a “states rights issue”, presumably knowing full well what “states rights” tends to mean for civil rights issues.<sup>[[124.1]](http://www.huffingtonpost.com/entry/trump-lgbtq-discrimination_us_58ac9309e4b0e784faa22d69?section=us_politics)</sup>
+* Scuttled a CEO pay regulation requiring transparency between what a CEO is paid versus the regular workers.<sup>[[125.1]](https://www.huffingtonpost.com/entry/dodd-frank-pay-ratio-rule-piwowar_us_589cc0ede4b0c1284f2b4be0)</sup>
+* Reversed an Obama era policy curtailing private prison use.<sup>[[126.1]](http://www.huffingtonpost.com/entry/doj-private-prisons-sessions_us_58af529ce4b0a8a9b780669a?2hq0n9sbn3n0fi529&)</sup>
+* Meddled in the FBI by trying to direct the agency to dispute reports of Trump’s ties with Russia.<sup>[[127.1]](http://www.huffingtonpost.com/entry/fbi-white-house-russia_us_58af73c1e4b0a8a9b780a067?)</sup>
+* Caused numerous abuses through the immigration crackdown. Notably, they detained a hospitalized woman with a brain tumor, attempted to deport a US citizen, and searched the ID’s of people on domestic flights.<sup>[[128.1]](http://www.huffingtonpost.com/entry/amnesty-international-starts-campaign-to-free-undocumented-mom-with-brain-tumor-from-ice_us_58b04c92e4b0780bac288dae?)[[128.2]](http://www.nbcchicago.com/news/local/eduardo-caraballo-puerto-rico-deportion-94795779.html)[[128.3]](https://www.washingtonpost.com/news/post-nation/wp/2017/02/23/federal-agents-ask-domestic-flight-passengers-to-show-ids-in-search-for-undocumented-immigrant/?utm_term=.4ba18fb98e3e)</sup>
+* In stark contrast to the Obama Administration, burned the standing rock protest camp to the ground and evicted protesters.<sup>[[129.1]](https://mic.com/articles/169376/barack-obama-gave-standing-rock-protesters-a-victory-donald-trump-rounded-them-up#.TybTEAWKI)</sup>
+* Barred the New York Times, CNN, and Huffington Post from participating in White House press briefings.<sup>[[130.1]](http://www.huffingtonpost.com/entry/white-house-bars-news-organizations_us_58b08a76e4b0a8a9b78213ae?)</sup>
+* Vowed crack down on states over marijuana.<sup>[[131.1]](http://www.latimes.com/politics/la-na-pol-trump-marijuana-20170223-story.html)</sup>
+* Gave away millions in royalties on coal extracted on public lands to coal companies.<sup>[[132.1]](http://www.10tv.com/article/trump-administration-blocks-changes-coal-mining-royalties)</sup>
+* Dropped support for allowing Transgender students to use locker rooms of their choice.<sup>[[133.1]](http://www.nbcchicago.com/news/local/trump-administration-drops-support-palatine-transgender-student-414789163.html)</sup>
+* Dropped an Obama era guideline mandating safety regulations for self-driving cars.<sup>[[134.1]](http://www.reuters.com/article/us-usa-trump-selfdriving-idUSKBN1650WA)</sup>
+* Undermined net neutrality by ending a rule that required small and medium Internet Service Providers to provide information to their customers on broadband prices, services, and fees.<sup>[[135.1]](https://motherboard.vice.com/en_us/article/it-begins-trumps-fcc-launches-attack-on-net-neutrality-transparency-rules)</sup>
+* Had the DoJ officially drop the case against Texas’s discriminatory voter ID law.<sup>[[136.1]](http://www.huffingtonpost.com/entry/texas-voting-id-trump-doj_us_58b454ffe4b0780bac2bd043?section=us_politics)</sup>
+* Refused to participate in ethics training prior to assuming office.<sup>[[137.1]](https://www.aol.com/article/news/2017/03/02/trump-administration-reportedly-passed-on-ethics-training-program/21871965/)</sup>
+* Jeff Sessions failed to disclose ties with Russian officials, possibly lying under under oath.<sup>[[138.1]](http://www.huffingtonpost.com/entry/house-intelligence-committee-trump-russia_us_58b779c8e4b023018c6cf744)</sup>
+* Trump’s advisor and son-in-law, Jarod Kushner, also attended A meeting with Russian envoys in December with Michael Flynn, potentially breaking the Logan Law. Kushner was also likely paid $50,000 by a Kremlin linked Foreign Policy Group.<sup>[[139.1]](http://www.independent.co.uk/news/world/americas/jared-kushner-donald-trump-russia-ambassador-sergey-kislyak-meeting-michael-flynn-white-house-jeff-a7609166.html)</sup>
+* Signed an executive order to dismantle the Clean Water Rule.<sup>[[140.1]](http://www.huffingtonpost.com/entry/trump-clean-water-rule-executive-order_us_58b5add8e4b0a8a9b78681b9)</sup>
+* Deregulation czar, Carl Icahn, apparently used his position to strong-arm the ethanol lobby to save his own company millions.<sup>[[141.1]](https://theintercept.com/2017/03/02/crony-capitalism-at-work-trump-adviser-carl-icahn-strong-arms-ethanol-lobby-to-save-his-company-millions/)</sup>
+* Repealed ban on lead ammunition in national parks. It’s estimated 20 million birds and other animals die of lead poisoning each year from led munitions used by hunters, even though the cost of non-lead munitions are no more expensive.<sup>[[142.1]](http://www.huffingtonpost.com/entry/interior-secretary-ryan-zinke-lead-ammunition_us_58b881d9e4b02a4e8ddb710f)</sup>
+* Suspended consumer protections for airline passengers.<sup>[[143.1]](https://www.bloomberg.com/politics/articles/2017-03-03/trump-administration-suspends-obama-airline-consumer-protection)</sup>
+* Skipped the release of the annual Human Rights Report.<sup>[[144.1]](http://www.cnn.com/2017/03/03/politics/rex-tillerson-state-department-human-rights-report/index.html)</sup>
+* Appears to have silenced reports of penalties and other enforcement actions from the Labor Department.<sup>[[145.1]](http://www.huffingtonpost.com/entry/cone-of-silence-on-enforcement-news-from-us-labor_us_58b8a20ce4b0fa65b844b153)</sup>
+* Skirted its own ethics rules by hiring lobbyists to serve in areas where they had lobbied while in the private sector.<sup>[[146.1]](https://www.propublica.org/article/how-the-trump-administration-may-be-skirting-its-own-ethics-rules)</sup>
+* Generally quiet on wave of anti-Semitic and Islamophobic attacks since his election, and instead suggested that they may be “false flag” operations.<sup>[[147.1]](http://www.haaretz.com/us-news/1.774524)</sup>
+* Reissued the Travel Ban after the previous version had been halted by court order.<sup>[[148.1]](http://www.huffingtonpost.com/entry/trump-travel-ban-delay_us_58bd96b1e4b033be14670704?k3siwpvf3s628olxr&)</sup>
+* Ben Carson, member of Trump's cabinet, referred to slaves as merely being “immigrants” who “worked hard for less”.<sup>[[149.1]](http://www.huffingtonpost.com/entry/ben-carson-slaves-immigrants_us_58bdbf1fe4b033be1467634f?dyi5ynuc15gclerk9&)</sup>
+* Ended regulation that mandated telecommunications companies take reasonable measures to protect their customer’s Social Security Numbers and other private information.<sup>[[150.1]](https://www.nytimes.com/2017/03/05/us/politics/trump-deregulation-guns-wall-st-climate.html)</sup>
+* Attempted to blame Obama for releasing 122 people from Guantanamo bay who returned to terrorist activities, when in fact the vast majority (115 or so) were released under Bush.<sup>[[151.1]](http://www.politico.com/blogs/under-the-radar/2017/03/trump-spicer-guantanamo-lawyers-235848)</sup>
+* Shut out the public and scientific information from discussions on public land use.<sup>[[152.1]](http://www.salon.com/2017/03/09/public-land-debate-without-the-public-gop-congress-votes-to-shut-out-citizens-from-discussion-of-federal-land-use/)</sup>
+* Expanded CIA authority to launch drone strikes.<sup>[[153.1]](http://www.reuters.com/article/us-usa-trump-cia-drones-idUSKBN16K2SE)</sup>
+* Dropped Climate Change as a factor in government decision making.<sup>[[154.1]](http://thehill.com/policy/energy-environment/323945-trump-dropping-climate-change-impact-from-government-reviews-report)</sup>
 * <sup></sup>
 * <sup></sup>
 
