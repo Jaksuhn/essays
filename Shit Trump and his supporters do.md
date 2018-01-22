@@ -1,5 +1,9 @@
 # Shit Trump and his supporters do
 
+## Contents
+* [Trump](#trump)
+  * [Shit he says](#shit-he-says)
+* [Supporters](#supporters)
 ## Trump
 
 * Tax evasion.<sup>[[1.1]](http://www.investopedia.com/articles/markets/061516/new-evidence-trump-didnt-pay-taxes.asp)[[1.2]](http://www.theguardian.com/us-news/2016/mar/12/donald-trump-briarcliff-manor-golf-course-tax)[[1.3]](http://www.lohud.com/story/news/2015/09/03/trump-seeks-90-percent-tax-cut-briarcliff-golf-club/71520582/)[[1.4]](http://www.redstate.com/sweetie15/2016/05/19/trumps-long-list-tax-troubles/)[[1.5]](http://abcnews.go.com/Politics/time-donald-trump-undersells-tax-time/story?id=39133709)[[1.6]](http://anonhq.com/breaking-abc-news-fingers-donald-trump-massive-tax-evasion-scandal/)[[1.7]](http://www.forbes.com/sites/ryanellis/2016/03/08/donald-trump-and-the-empty-jewelry-box-tax-scam/#720f5d106aa7)[[1.8]](http://www.telegraph.co.uk/news/2016/05/25/exclusive-donald-trump-signed-off-deal-designed-to-deprive-us-of/)[[1.9]](http://www.mediaite.com/print/old-donald-trump-tax-returns-show-he-paid-zero-taxes-for-at-least-two-years/)</sup>
