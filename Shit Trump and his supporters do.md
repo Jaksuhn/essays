@@ -175,6 +175,7 @@
 * <sup></sup>
 
 ### Shit he says
+*Every twitter link will have an <sup>[alt]</sup> tag that is an archive of the tweet in case of deletion."  
 
 * "[Thank you to the LGBT community! I will fight for you while Hillary brings in more people that will threaten your freedoms and beliefs.](https://twitter.com/realDonaldTrump/status/742771576039460864)"<sup>[[alt]](https://web.archive.org/web/20180107000815/https://twitter.com/realDonaldTrump/status/742771576039460864)</sup>
 * "['Don't take vacations.  What's the point?  If you're not enjoying your work, you're in the wrong job.'  -- Think Like A Billionaire"](https://twitter.com/realDonaldTrump/status/270609412480192513)<sup>[[alt]](https://web.archive.org/web/20170803180144/https://twitter.com/realDonaldTrump/status/270609412480192513)</sup>
@@ -185,20 +186,20 @@
 * "[Peaceful protests are a hallmark of our democracy. Even if I don't always agree, I recognize the rights of people to express their views.](https://twitter.com/realdonaldtrump/status/823174199036542980)"<sup>[[alt]](https://web.archive.org/web/20180106203444/https://twitter.com/realdonaldtrump/status/823174199036542980)</sup>
 * "[The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive.](https://twitter.com/realdonaldtrump/status/265895292191248385)"<sup>[[alt]](https://web.archive.org/web/20180107015627/https://twitter.com/realdonaldtrump/status/265895292191248385)</sup>
 * "[Look, having nuclear-my uncle was a great professor and scientist and engineer, Dr. John Trump at MIT; good genes, very good genes, OK, very smart, the Wharton School of Finance, very good, very smart-you know, if you're a conservative Republican, if I were a liberal, if, like, OK, if I ran as a liberal Democrat, they would say I'm one of the smartest people anywhere in the world-it's true!-but when you're a conservative Republica they try-oh, do they do a number-that's why I always start off: Went to Wharton, was a good student, went there, went there, did this, built a fortune-you know I have to give my credentials all the time, because we're a little disadvantaged-but you look at the nuclear deal, the thing that really bothers me-it would have been so easy, and it's not as important as these lives are (nuclear is powerfull my uncle explained that to me many, many years ago, the power and that was 35 years ago; he would explain the power of what's going to happen and he was right-who would have thought?), but when you look at what's going on with the four prisoners-now it used to be three, now it's four-but when it was three and even now, I would have said it's all in the messenger; fellas, and it is fellas because, you know, they don't, they haven't figured that the women are smarter right now than the men, so, you know, it's gonna take them about another 150 years-but the Persians are great negotiators, the Iranians are great negotiators, so, and they, they just killed, they just killed us.](https://www.c-span.org/video/?c4546796/donald-trump-sentence)"<sup>[[alt]](https://www.snopes.com/donald-trump-sentence/)</sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
-* <sup></sup>
+* "[You know what uranium is, right? This thing called nuclear weapons - like lots of things - are done with uranium including some bad things.](https://www.independent.ie/world-news/north-america/president-trump/watch-you-know-what-uranium-is-right-donald-trumps-definition-of-chemical-goes-viral-for-wrong-reasons-35459557.html)"
+* "[I would like to extend my best wishes to all, even the haters and losers, on this special date, September 11th.](https://twitter.com/realDonaldTrump/status/377947866641485824)”<sup>[[alt]](https://web.archive.org/web/20180110052527/https://twitter.com/realDonaldTrump/status/377947866641485824)</sup>
+* "[An 'extremely credible source' has called my office and told me that @BarackObama's birth certificate is a fraud.](https://twitter.com/realDonaldTrump/status/232572505238433794)"<sup>[[alt]](https://web.archive.org/web/20180111064420/https://twitter.com/realDonaldTrump/status/232572505238433794)</sup>
+* "[....to President of the United States (on my first try) *\[not his first try - ran in 2000\]*. I think that would qualify as not smart, but genius....and a very stable genius at that!](https://twitter.com/realDonaldTrump/status/949619270631256064)<sup>[[alt]](https://web.archive.org/web/20180111091821/https://twitter.com/realDonaldTrump/status/949619270631256064)</sup>
+* "[Wishing everyone a very Happy Holiday season!"](https://twitter.com/realDonaldTrump/status/17979321264115714)<sup>[[alt]](https://web.archive.org/web/20170709000848/https://twitter.com/realDonaldTrump/status/17979321264115714)</sup>
+* “[When Mexico sends its people, they’re not sending their best,” \[...\] “They’re not sending you. They’re not sending you. They’re sending people that have lots of problems, and they’re bringing those problems with us. They’re bringing drugs. They’re bringing crime. They’re rapists. And some, I assume, are good people.](http://time.com/4473972/donald-trump-mexico-meeting-insult/)”
+* "[If Ivanka weren't my daughter, perhaps I'd be dating her.](http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-ivanka-trump-creepiest-most-unsettling-comments-a-roundup-a7353876.html)"
+* “[Don’t you think my daughter’s hot? She’s hot, right?](http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-ivanka-trump-creepiest-most-unsettling-comments-a-roundup-a7353876.html)”
+* "[Remember, new "environment friendly"  lightbulbs can cause cancer. Be careful-- the idiots who came up with this stuff don't care.](https://twitter.com/realdonaldtrump/status/258593090107998208)"<sup>[[alt]](https://web.archive.org/web/20170221070632/https://twitter.com/realdonaldtrump/status/258593090107998208)</sup>
+* "[I moved on her like a bitch, but I couldn't get there, and she was married. Then all of a sudden I see her, she's now got the big phony tits and everything.](http://www.slate.com/blogs/the_slatest/2016/10/07/donald_trump_2005_tape_i_grab_women_by_the_pussy.html)"
+* "["I'm automatically attracted to beautiful \[women\]—I just start kissing them. It's like a magnet. Just kiss. I don't even wait. And when you're a star they let you do it. You can do anything ... Grab them by the pussy. You can do anything.](http://www.slate.com/blogs/the_slatest/2016/10/07/donald_trump_2005_tape_i_grab_women_by_the_pussy.html)"
+* "[For those that don’t think a wall (fence) works, why don’t they suggest taking down the fence around the White House? Foolish people!](https://twitter.com/realDonaldTrump/status/638367095424712704)"<sup>[[alt]](https://web.archive.org/web/20170802083856/https://twitter.com/realDonaldTrump/status/638367095424712704)</sup>
+* "[If I am elected President I will immediately approve the Keystone XL pipeline.  No impact on environment & lots of jobs for U.S.](https://twitter.com/realDonaldTrump/status/633739970985897984)"<sup>[[alt]](https://web.archive.org/web/20170419045734/https://twitter.com/realDonaldTrump/status/633739970985897984)</sup>
+* "[I have the world's greatest memory. It's one thing everyone agrees on.](http://www.nbcnews.com/politics/2016-election/amid-latest-controversy-trump-claims-worlds-greatest-memory-n468621)"
 * <sup></sup>
 
 ## Supporters
