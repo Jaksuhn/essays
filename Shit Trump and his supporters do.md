@@ -175,7 +175,7 @@
 * <sup></sup>
 
 ### Shit he says
-*Every twitter link will have an <sup>[alt]</sup> tag that is an archive of the tweet in case of deletion."  
+*Every twitter link will have an <sup>[alt]</sup> tag that is an archive of the tweet in case of deletion.*  
 
 * "[Thank you to the LGBT community! I will fight for you while Hillary brings in more people that will threaten your freedoms and beliefs.](https://twitter.com/realDonaldTrump/status/742771576039460864)"<sup>[[alt]](https://web.archive.org/web/20180107000815/https://twitter.com/realDonaldTrump/status/742771576039460864)</sup>
 * "['Don't take vacations.  What's the point?  If you're not enjoying your work, you're in the wrong job.'  -- Think Like A Billionaire"](https://twitter.com/realDonaldTrump/status/270609412480192513)<sup>[[alt]](https://web.archive.org/web/20170803180144/https://twitter.com/realDonaldTrump/status/270609412480192513)</sup>
@@ -189,6 +189,7 @@
 * "[You know what uranium is, right? This thing called nuclear weapons - like lots of things - are done with uranium including some bad things.](https://www.independent.ie/world-news/north-america/president-trump/watch-you-know-what-uranium-is-right-donald-trumps-definition-of-chemical-goes-viral-for-wrong-reasons-35459557.html)"
 * "[I would like to extend my best wishes to all, even the haters and losers, on this special date, September 11th.](https://twitter.com/realDonaldTrump/status/377947866641485824)”<sup>[[alt]](https://web.archive.org/web/20180110052527/https://twitter.com/realDonaldTrump/status/377947866641485824)</sup>
 * "[An 'extremely credible source' has called my office and told me that @BarackObama's birth certificate is a fraud.](https://twitter.com/realDonaldTrump/status/232572505238433794)"<sup>[[alt]](https://web.archive.org/web/20180111064420/https://twitter.com/realDonaldTrump/status/232572505238433794)</sup>
+* "[He doesn’t have a birth certificate or, if he does, there’s something on that certificate that is very bad for him. Now somebody told me, and I have no idea whether this is bad for him or not but perhaps it would be, that where it says ‘religion’ it might have ‘Muslim,’ and if you’re a Muslim, you don’t change your religion by the way, but somebody said, ‘Maybe that’s the reason he doesn’t want to show it.’ I don’t think so. I just don’t think he has a birth certificate and everybody has a birth certificate.](https://www.youtube.com/watch?v=hUKvoA-DbA4)"
 * "[....to President of the United States (on my first try) *\[not his first try - ran in 2000\]*. I think that would qualify as not smart, but genius....and a very stable genius at that!](https://twitter.com/realDonaldTrump/status/949619270631256064)<sup>[[alt]](https://web.archive.org/web/20180111091821/https://twitter.com/realDonaldTrump/status/949619270631256064)</sup>
 * "[Wishing everyone a very Happy Holiday season!"](https://twitter.com/realDonaldTrump/status/17979321264115714)<sup>[[alt]](https://web.archive.org/web/20170709000848/https://twitter.com/realDonaldTrump/status/17979321264115714)</sup>
 * “[When Mexico sends its people, they’re not sending their best,” \[...\] “They’re not sending you. They’re not sending you. They’re sending people that have lots of problems, and they’re bringing those problems with us. They’re bringing drugs. They’re bringing crime. They’re rapists. And some, I assume, are good people.](http://time.com/4473972/donald-trump-mexico-meeting-insult/)”
@@ -200,7 +201,37 @@
 * "[For those that don’t think a wall (fence) works, why don’t they suggest taking down the fence around the White House? Foolish people!](https://twitter.com/realDonaldTrump/status/638367095424712704)"<sup>[[alt]](https://web.archive.org/web/20170802083856/https://twitter.com/realDonaldTrump/status/638367095424712704)</sup>
 * "[If I am elected President I will immediately approve the Keystone XL pipeline.  No impact on environment & lots of jobs for U.S.](https://twitter.com/realDonaldTrump/status/633739970985897984)"<sup>[[alt]](https://web.archive.org/web/20170419045734/https://twitter.com/realDonaldTrump/status/633739970985897984)</sup>
 * "[I have the world's greatest memory. It's one thing everyone agrees on.](http://www.nbcnews.com/politics/2016-election/amid-latest-controversy-trump-claims-worlds-greatest-memory-n468621)"
-* <sup></sup>
+* "[I don't remember saying that [I have the world’s greatest memory]. As good as my memory is, I don't remember that, but I have a good memory.](http://thehill.com/blogs/blog-briefing-room/news/284716-trump-doesnt-recall-claim-of-having-worlds-greatest-memory)"
+* "[I think I’m much more humble than you would understand.](https://www.youtube.com/watch?v=1R42mFx3_ss)"
+* "[Sorry losers and haters, but my IQ is one of the highest — and you all know it! Please don't feel so stupid or insecure; it's not your fault.](https://twitter.com/realdonaldtrump/status/332308211321425920)"<sup>[[alt]](https://web.archive.org/web/20180110210015/https://twitter.com/realdonaldtrump/status/332308211321425920?lang=en)</sup>
+* "[Now I just call them stupid. I went to an Ivy League school. I’m very highly educated. I know words, I have the best words. I have the best, but there is no better word than stupid. Right? There is none, there is none. There’s no, there’s no, there’s no word like that.](http://conservativetribune.com/donald-trump-best-at-words/)"
+* "[I could stand in the middle of 5th Avenue and shoot somebody and I wouldn't lose voters.](http://www.cnn.com/2016/01/23/politics/donald-trump-shoot-somebody-support/)"
+* "[If Hillary Clinton can’t satisfy her husband what makes her think she can satisfy America?](https://twitter.com/Lennyjacobson/status/588867303908868096)"<sup>[[alt]](https://web.archive.org/web/20170310173408/https://twitter.com/Lennyjacobson/status/588867303908868096)</sup>
+* "[I know Hillary and I think she’d make a great president or vice-president.](https://www.buzzfeed.com/andrewkaczynski/donald-trump-once-blogged-that-hillary-clinton-would-make-a?utm_term=.kibe7azx7#.baR780M68)"
+* "[I’d look at her right in that fat, ugly face of hers, I’d say ‘Rosie, you’re fired.](https://www.youtube.com/watch?v=d32577Hom08)"
+* "[And if I decide to run for office, I’ll produce my tax returns, absolutely and I would love to do that.](https://www.youtube.com/watch?v=Hg-5KEt1Abg)"
+* "[Let’s say the wall costs $4 billion. You know they say $10 billion. That means $4 billion if you know what you’re doing.](http://www.cnn.com/TRANSCRIPTS/1509/14/acd.01.html)"
+* "[The wall is gonna cost six or seven billion.](https://youtu.be/vU8dCYocuyI?t=2m14s)"
+* "[The wall is probably eight billion dollars.](http://www.cnn.com/2016/02/09/politics/donald-trump-border-wall-cost-8-billion/)"
+* "[The wall gets built - it’s going to cost ten billion to build. Ok. A lot of money. It’s a wall.](https://youtu.be/vU8dCYocuyI?t=2m18s)"
+* "[The wall’s gonna cost ten billion dollars. Maybe twelve.](https://youtu.be/vU8dCYocuyI?t=2m24s)"
+* "[The Mexican government forces many bad people into our country because they're smart. They're smarter than our leaders, and their negotiators are far better than what we have, to a degree that you wouldn’t believe. They're forcing people into our country. … And they are drug dealers and they are criminals of all kinds. We are taking Mexico’s problems.](http://www.politifact.com/truth-o-meter/statements/2015/jul/09/donald-trump/donald-trump-says-mexican-government-forces-many-b/)"
+* "[The best taco bowls are made in Trump Tower Grill. I love Hispanics!](https://twitter.com/realdonaldtrump/status/728297587418247168?lang=en)"<sup>[[alt]](https://web.archive.org/web/20180111053840/https://twitter.com/realdonaldtrump/status/728297587418247168?lang=en)</sup>
+* "[I have a great relationship with the blacks. I’ve always had a great relationship with the blacks.](http://www.theatlantic.com/politics/archive/2011/04/donald-trump-i-have-a-great-relationship-with-the-blacks/237332/)"
+* "[Black guys counting my money! I hate it. The only kind of people I want counting my money are short guys that wear yarmulkes every day.](http://www.nytimes.com/1991/07/14/books/the-down-side-of-the-donald.html)"
+* "[I don’t have a racist bone in my body.](http://www.etonline.com/news/167197_exclusive_donald_trump_addresses_anti_immigration_comments_i_don_t_have_a_racist_bone_my_body/)"
+* "[Gaddafi in Libya is killing thousands of people, nobody knows how bad it is, and we’re sitting around we have soldiers all have the Middle East, and we’re not bringing them in to stop this horrible carnage and that’s what it is: It’s a carnage.](http://www.cbsnews.com/news/donald-trump-i-was-never-for-strong-intervention-in-libya/)"
+* "[He said I was in favor in Libya. I never discussed that subject. I was in favor of Libya? We would be so much better off if Gaddafi would be in charge right now.](http://www.politifact.com/truth-o-meter/statements/2016/feb/25/donald-trump/donald-trumps-pants-fire-claim-he-never-discussed-/)"
+* "[We can’t continue to allow China to rape our country, and that’s what they’re doing. It’s the greatest theft in the history of the world.](http://www.cnn.com/2016/05/01/politics/donald-trump-china-rape/)"
+* "[I know more about ISIS than the generals do. Believe me.](https://www.washingtonpost.com/news/the-fix/wp/2015/11/13/the-remarkably-unappealling-anger-of-donald-trump/)"
+* "[I would bomb the shit out of 'em. I would just bomb those suckers. That's right. I'd blow up the pipes. … I'd blow up every single inch. There would be nothing left. And you know what, you'll get Exxon to come in there and in two months, you ever see these guys, how good they are, the great oil companies? They'll rebuild that sucker, brand new – it'll be beautiful.](https://www.youtube.com/watch?v=aWejiXvd-P8)"
+* "[I don’t know who Putin is. He said one nice thing about me. … I never met Putin.](http://www.politico.com/story/2016/07/trump-putin-no-relationship-226282#ixzz4FdPKOvXs)"
+* "[Why do I have to get involved with Putin? I have nothing to do with Putin. I’ve never spoken to him. I don’t know anything about him other than he will respect me…](http://www.breitbart.com/2016-presidential-race/2016/07/27/emails-trump-putin-hackers/)"
+* "[I spoke directly and indirectly with President Putin who could not have been nicer.](http://www.press.org/events/npc-luncheon-donald-trump-chairman-and-president-trump-organization)"
+* "[Hussein throws a little gas, everyone goes crazy, 'oh he's using gas’!](https://www.c-span.org/video/?c4609938/trump-saddam-throws-little-gas)"
+* "[Absolutely fine, but we should go much stronger than waterboarding. That's the way I feel.](http://www.cbsnews.com/news/donald-trump-torture-works/)"
+* "[The other thing with the terrorists is you have to take out their families, when you get these terrorists, you have to take out their families. They care about their lives, don't kid yourself. When they say they don't care about their lives, you have to take out their families.](http://www.cnn.com/2015/12/02/politics/donald-trump-terrorists-families/)"
+
 
 ## Supporters
 
