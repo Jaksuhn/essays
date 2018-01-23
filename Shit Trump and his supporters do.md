@@ -370,108 +370,108 @@
 362. Trump declared that he has “complete power to pardon” in reaction to the unfolding Russian scandal, implying that he would pardon Trump Jr, his associates, and possibly himself were they implicated in criminal activity by the ongoing investigation into their dealings with Russia. This would not only impede the investigation, but would seriously undermine the Constitution if acted upon.<sup>[[362.1]](http://www.reuters.com/article/us-usa-trump-idUSKBN1A70FG)</sup>
 363. Encouraged a judge to throw out a lawsuit protester’s concerning violence he himself instigated.<sup>[[363.1]](http://www.politico.com/story/2017/07/24/trump-protesters-lawsuit-assault-kentucky-appeals-court-240895)</sup>
 364. Cut off grants to local governments that do not allow notify federal immigration agents advanced notice when illegal immigrants being held in custody so that they can round them up afterwards.<sup>[[364.1]](http://www.latimes.com/politics/washington/la-na-essential-washington-updates-sanctuary-1501017073-htmlstory.html)</sup>
-365. Following up from item #40, moved to end the overtime pay rule.<sup>[[365.1]]()</sup>
-366. Made overt political overtures in addresses to the boy scouts and the military, which are typically apolitical for obvious reasons. He then lied by saying that the boy scouts top leader had called him to praise him for the speech, which the boy scouts later publicly refuted.<sup>[[366.1]]()</sup>
-367. With Mike Pence providing the deciding vote, Republicans continued to push through their plan to repeal the Affordable Care Act in favor of their own healthcare bill which will deprive healthcare from millions, despite the fact that the bill is deeply unpopular and most don’t even know what was in the bill.<sup>[[367.1]]()</sup>
-368. Revealed a covert operation on twitter.<sup>[[368.1]]()</sup>
-369. To highlight the generally corrupt and somewhat alarming nature of the first family’s business dealings, it was revealed that Kushner bought real estate from an oligarch cited in a money laundering case, while firms linked to his family business have used his white house connections to lure in Chinese investors.<sup>[[369.1]]()</sup>
-370. Banned transgendered people from serving in the military.<sup>[[370.1]]()</sup>
-371. Said that the Equal Employment Opportunity Commission will no longer protect people based on sexual orientation, allowing a return of employment discrimination against gay and lesbian employees.<sup>[[371.1]]()</sup>
-372. Ended a low income retirement savings plan which currently helps some 30,000 people.<sup>[[372.1]]()</sup>
-373. Encouraged police brutality.<sup>[[373.1]]()</sup>
-374. Began the process of repealing Obama era fuel economy standards.<sup>[[374.1]]()</sup>
-375. Began the process of repealing  Obama era fracking restrictions.<sup>[[375.1]]()</sup>
-376. Helped his son write his misleading statement on his 2016 meeting with Russians.<sup>[[376.1]]()</sup>
-377. Apparently collaborated with Fox News to propagate a spurious conspiracy theory to deflect attention away from the Russian scandal.<sup>[[377.1]]()</sup>
-378. Moved to divert resources in the Civil Rights division of towards undermining affirmative action.<sup>[[378.1]]()</sup>
-379. Moved to make tougher immigration vetting permanent.<sup>[[379.1]]()</sup>
-380. Threatened to cut off grants to four cities if they did not violate constitutional law by kicking out immigrants.<sup>[[380.1]]()</sup>
-381. Backed a plan to cut legal immigration by half.<sup>[[381.1]]()</sup>
-382. Cut dozens of Native American tribes out of a land buy-back program.<sup>[[382.1]]()</sup>
-383. Allowed Winchester to circumvent a federal order to end its discriminatory zoning practices.<sup>[[383.1]]()</sup>
-384. Issued a 53 page report from the department of interior with plans to undermine numerous Obama era conservation policies, including undermining the Obama Administrations sage grouse conservation strategy.<sup>[[384.1]]()</sup>
-385. The Trump administration’s FCC allowed the conservative Sinclair Broadcast Group to circumvent numerous media rules regarding market concentration and political content requirements.<sup>[[385.1]]()</sup>
-386. Reversed the DoJ’s position in a supreme court case, backing Ohio’s voter purge.<sup>[[386.1]]()</sup>
-387. Ended rule testing large vehicle operators for sleep disorders.<sup>[[387.1]]()</sup>
-388. Impulsively threatened nuclear apocalypse.<sup>[[388.1]]()</sup>
-389. Moved to further delay the fiduciary rule.<sup>[[389.1]]()</sup>
-390. Began looking for ways to force journalists to reveal their sources.<sup>[[390.1]]()</sup>
-391. A non-partisan report revealed that the Trump Administration’s actions are raising insurance premiums.<sup>[[391.1]]()</sup>
-392. Abandoned Latino outreach for Obamacare sign-ups.<sup>[[392.1]]()</sup>
-393. Falsely accused immigrant teens of gang ties to deport them.<sup>[[393.1]]()</sup>
-394. Thanked Russia for expelling diplomats.<sup>[[394.1]]()</sup>
-395. After far right groups he himself had emboldened rioted in Charlottesville, gave a luke warm response blaming “many sides”. Then, when criticized on the false equivalence, doubled down on it.<sup>[[395.1]]()</sup>
-396. Sabotaged the future quality of the civil service by undermining recruiting programs.<sup>[[396.1]]()</sup>
-397. In a massive breach of privacy and first amendment rights, the DOJ demanded the IP addresses of over 13 million people who had visited an anti-Trump website.<sup>[[397.1]]()</sup>
-398. Ended an Obama era protection program for Central American minors.<sup>[[398.1]]()</sup>
-399. Removed the white house bikeshare station.<sup>[[399.1]]()</sup>
-400. Killed a plan to ban plastic bottles from national parks.<sup>[[400.1]]()</sup>
-401. In addition to blocking the implementation of the Federal calorie labeling law, tried to use the existence of that labeling law to block New York’s calorie labeling law.<sup>[[401.1]]()</sup>
-402. Watered down toxic chemical rules.<sup>[[402.1]]()</sup>
-403. Ended a DoJ effort to crack down on predatory lenders.<sup>[[403.1]]()</sup>
-404. Moved to undermine emissions standard rules for cars and light trucks, as well as heavy duty trucks.<sup>[[404.1]]()</sup>
-405. Disbanded the federal advisory panel for National Climate Assessment.<sup>[[405.1]]()</sup>
-406. Halted research on the public health impact of mountaintop removal coal mining.<sup>[[406.1]]()</sup>
-407. Tapped out the Secret Service’s annual budget within 7 months.<sup>[[407.1]]()</sup>
-408. Threatened a government shutdown if congress does not agree to fund his border wall.<sup>[[408.1]]()</sup>
-409. Moved to downsize four national monuments.<sup>[[409.1]]()</sup>
-410. Tried to kill a bill that would have prevented him from firing Robert Mueller.<sup>[[410.1]]()</sup>
-411. Released his plan for public research priorities, indicating a withdrawal of government support for research in numerous fields such as climate change.<sup>[[411.1]]()</sup>
-412. Pardoned Joe Arpaio.<sup>[[412.1]]()</sup>
-413. Introduced new hurdles to people who want to transition from Visas to green cards.<sup>[[413.1]]()</sup>
-414. Following up from #362, issued an executive order banning transgender people from the military.<sup>[[414.1]]()</sup>
-415. Encouraged the militarization of the police by lifting restrictions on transferring military hardware to police departments.<sup>[[415.1]]()</sup>
-416. In the weeks before hurricane Harvey, reversed rules to make infrastructure more resistant to natural disasters like flooding and hurricanes.<sup>[[416.1]]()</sup>
-417. It was revealed Trump’s business continued to carry out shady business deals in Russia during the Presidential campaign, including emailing Putin about a project in Moscow.<sup>[[417.1]]()</sup>
-418. Refused to turn over documents in an investigation into Scott Pruitt’s conflicts of interest.<sup>[[418.1]]()</sup>
-419. It was revealed Trump’s hotel in Washington has generally been profiting off his status as President.<sup>[[419.1]]()</sup>
-420. Prevented Mexico from providing hurricane relief.<sup>[[420.1]]()</sup>
-421. Removed a report on sexual violence from the White House website.<sup>[[421.1]]()</sup>
-422. Slashed Obamacare outreach funding again, this time by 90%.<sup>[[422.1]]()</sup>
-423. After numerous historically black colleges cancelled their plans to attend an annual conference at the White House, the Trump administration downsized the conference.<sup>[[423.1]]()</sup>
-424. Ended an Obama era policy to reduce pay discrimination.<sup>[[424.1]]()</sup>
-425. Brashly threatened to end trade with anyone who trades with North Korea.<sup>[[425.1]]()</sup>
-426. Ended the Deferred Action for Childhood Arrivals program, which protects more than 800,000 immigrants who have lived productively in the United States since they were children from deportation.<sup>[[426.1]]()</sup>
-427. Issued a strange warning to Sweden over its support for a UN treaty banning nuclear weapons.<sup>[[427.1]]()</sup>
-428. Moved to overhaul how colleges investigate sexual assault.<sup>[[428.1]]()</sup>
-429. Filed papers with the Supreme Court backing a baker who broke Colorado’s anti-discrimination laws by discriminating against gay couples.<sup>[[429.1]]()</sup>
-430. Degraded the regulatory system by implementing an unworkable blanket straight jacket on the regulatory costs of Federal Agencies.<sup>[[430.1]]()</sup>
-431. Ended an Obama era plan to strengthen houses in flood zones.<sup>[[431.1]]()</sup>
-432. Halted pollution controls at Utah coal plants.<sup>[[432.1]]()</sup>
-433. Conducted warantless cell phone searches at the border.<sup>[[433.1]]()</sup>
-434. Appointed one woman for US attorney out of a total of 42, a horribly lopsided figure generally suggesting discrimination.<sup>[[434.1]]()</sup>
-435. Blocked the Senate from interviewing FBI agents over the firing of James Comey.<sup>[[435.1]]()</sup>
-436. Punished countries who refuse to cooperate with his deportation plans.<sup>[[436.1]]()</sup>
-437. Refused to make public documents to provide the legal basis for the strike in Syria.<sup>[[437.1]]()</sup>
-438. Launched a crackdown against leakers.<sup>[[438.1]]()</sup>
-439. Moved to lift ban on oil assessments in wildlife refuges.<sup>[[439.1]]()</sup>
-440. Used the London terrorist attack as pretext to have a tirade about his travel ban.<sup>[[440.1]]()</sup>
-441. Once again attempted to repeal Obamacare.<sup>[[441.1]]()</sup>
-442. Moved to ease rules on the export of US guns.<sup>[[442.1]]()</sup>
-443. Rejected a government study that showed the positive impact of refugees.<sup>[[443.1]]()</sup>
-444. Spent his travel budget recklessly, with administration staff spending money on charter flights which were obviously not necessary.<sup>[[444.1]]()</sup>
-445. Doubled the denial rate for the DACA program.<sup>[[445.1]]()</sup>
-446. Gave political appointments to inept individuals with no meaningful experience apparently because they had worked on his campaign.<sup>[[446.1]]()</sup>
-447. Praised Turkey’s increasingly autocratic President Recep Tayyip Erdogan.<sup>[[447.1]]()</sup>
-448. Used campaign funds to pay his legal fees.<sup>[[448.1]]()</sup>
-449. Cited a fictitious country numerous times in his speech to the UN.<sup>[[449.1]]()</sup>
-450. Expanded the travel ban and made it permanent.<sup>[[450.1]]()</sup>
-451. Made it more difficult to track the number of drug arrests.<sup>[[451.1]]()</sup>
-452. Picked an asinine fight with football players protesting during the national anthem.<sup>[[452.1]]()</sup>
-453. Neglected the devastation in Puerto Rico in the aftermath of hurricane Maria.<sup>[[453.1]]()</sup>
-454. Once again stalled a key worker safety regulation on silica dust.<sup>[[454.1]]()</sup>
-455. Dramatically scaled back admissions of refugees.<sup>[[455.1]]()</sup>
-456. It was revealed Jared Kushner and Ivanka Trump used her personal email for government work.<sup>[[456.1]]()</sup>
-457. Unveiled a budget that basically no one wants which cuts taxes for corporations and the rich and horribly undermines government funding.<sup>[[457.1]]()</sup>
-458. Argued, in court, that employers can fire people for being gay.<sup>[[458.1]]()</sup>
-459. Tom Price used a military jet for his travels, at a staggering cost of $500k to tax payers.<sup>[[459.1]]()</sup>
-460. Demanded facebook give them with personal info on anti-Trump activists.<sup>[[460.1]]()</sup>
-461. Refused to acknowledge the role of climate change in forest fires, and instead tried to blame “radical environmentalists”.<sup>[[461.1]]()</sup>
-462. Dropped out of Obamacare events in Mississippi, sabotaging months of work and creating addition obstacles for people trying to obtain health insurance.<sup>[[462.1]]()</sup>
-463. After seeming to endorse legislating a path to citizenship for Dreamers, immediately backpedaled.<sup>[[463.1]]()</sup>
-464. Backed a 20 week abortion ban.<sup>[[464.1]]()</sup>
-465. Reversed a detente with Cuba by expelling Cuban diplomats and recalling several American diplomats from Cuba.<sup>[[465.1]]()</sup>
-466. Complained that disaster relief for Puerto Rico was throwing his budget out of whack.<sup>[[466.1]]()</sup>
+365. [Follow up to #84] Moved to end the overtime pay rule.<sup>[[365.1]](http://www.reuters.com/article/us-usa-labor-overtime-idUSKBN1AA2DZ)</sup>
+366. Made overt political overtures in addresses to the boy scouts and the military, which are typically apolitical for obvious reasons. He then lied by saying that the boy scouts top leader had called him to praise him for the speech, which the boy scouts later publicly refuted.<sup>[[366.1]](http://www.bbc.com/news/world-us-canada-40715185)[[366.2]](http://www.slate.com/articles/news_and_politics/jurisprudence/2017/07/trump_is_ordering_service_members_to_support_the_republican_agenda.html)[[366.3]](http://www.seattletimes.com/nation-world/nation-politics/boy-scouts-top-leaders-didnt-call-trump-to-praise-speech-2/)</sup>
+367. With Mike Pence providing the deciding vote, Republicans continued to push through their plan to repeal the Affordable Care Act in favor of their own healthcare bill which will deprive healthcare from millions, despite the fact that the bill is deeply unpopular and most don’t even know what was in the bill.<sup>[[367.1]](http://www.cnn.com/2017/07/25/politics/senate-health-care-vote/index.html)</sup>
+368. Revealed a covert operation on twitter.<sup>[[368.1]](https://www.vox.com/world/2017/7/25/16025136/trump-syria-cia-twitter-program-end-covert)</sup>
+369. To highlight the generally corrupt and somewhat alarming nature of the first family’s business dealings, it was revealed that Kushner bought real estate from an oligarch cited in a money laundering case, while firms linked to his family business have used his white house connections to lure in Chinese investors.<sup>[[369.1]](http://www.scmp.com/news/world/united-states-canada/article/2103914/jared-kushner-sealed-manhattan-real-estate-deal)[[369.2]](http://thehill.com/homenews/administration/343060-kushners-white-house-status-being-used-to-lure-chinese-real-estate)</sup>
+370. Banned transgendered people from serving in the military.<sup>[[370.1]](http://thehill.com/homenews/administration/343847-trump-calls-for-ban-on-transgender-individuals-in-military)</sup>
+371. Said that the Equal Employment Opportunity Commission will no longer protect people based on sexual orientation, allowing a return of employment discrimination against gay and lesbian employees.<sup>[[371.1]](http://www.nbcnews.com/news/us-news/trump-administration-no-civil-rights-protection-gays-lesbians-n787261)</sup>
+372. Ended a low income retirement savings plan which currently helps some 30,000 people.<sup>[[372.1]](https://www.usatoday.com/story/money/2017/07/28/trump-administration-ends-low-income-retirement-savings-plan/519761001/)</sup>
+373. Encouraged police brutality.<sup>[[373.1]](http://www.chicagotribune.com/news/nationworld/ct-trump-ms-13-street-gang-20170728-story.html)</sup>
+374. Began the process of repealing Obama era fuel economy standards.<sup>[[374.1]](https://s3.amazonaws.com/public-inspection.federalregister.gov/2017-15701.pdf)</sup>
+375. Began the process of repealing  Obama era fracking restrictions.<sup>[[375.1]](https://www.federalregister.gov/documents/2017/07/25/2017-15696/oil-and-gas-hydraulic-fracturing-on-federal-and-indian-lands-rescission-of-a-2015-rule)</sup>
+376. Helped his son write his misleading statement on his 2016 meeting with Russians.<sup>[[376.1]](http://www.latimes.com/politics/la-na-pol-trump-son-russia-20170801-story.html)</sup>
+377. Apparently collaborated with Fox News to propagate a spurious conspiracy theory to deflect attention away from the Russian scandal.<sup>[[377.1]](http://www.npr.org/2017/08/01/540783715/lawsuit-alleges-fox-news-and-trump-supporter-created-fake-news-story)</sup>
+378. Moved to divert resources in the Civil Rights division of towards undermining affirmative action.<sup>[[378.1]](https://www.nytimes.com/2017/08/01/us/politics/trump-affirmative-action-universities.html)</sup>
+379. Moved to make tougher immigration vetting permanent.<sup>[[379.1]](https://www.reuters.com/article/us-usa-immigration-visa-idUSKBN1AJ2UC)</sup>
+380. Threatened to cut off grants to four cities if they did not violate constitutional law by kicking out immigrants.<sup>[[380.1]](http://www.newsweek.com/donald-trump-crime-rates-sanctuary-cities-merit-based-program-funding-646156)</sup>
+381. Backed a plan to cut legal immigration by half.<sup>[[381.1]](https://www.nytimes.com/2017/08/02/us/politics/trump-immigration.html)</sup>
+382. Cut dozens of Native American tribes out of a land buy-back program.<sup>[[382.1]](http://www.huffingtonpost.com/entry/ryan-zinke-interior-tribal-land-program_us_5985042ee4b08b75dcc7043a?ncid=inblnkushpmg00000009)</sup>
+383. Allowed Winchester to circumvent a federal order to end its discriminatory zoning practices.<sup>[[383.1]](http://www.motherjones.com/politics/2017/08/the-trump-administration-just-dealt-a-big-setback-to-affordable-housing/)</sup>
+384. Issued a 53 page report from the department of interior with plans to undermine numerous Obama era conservation policies, including undermining the Obama Administrations sage grouse conservation strategy.<sup>[[384.1]](http://thehill.com/policy/energy-environment/345615-trump-administration-overhauls-sage-grouse-conservation-strategy)</sup>
+385. The Trump administration’s FCC allowed the conservative Sinclair Broadcast Group to circumvent numerous media rules regarding market concentration and political content requirements.<sup>[[385.1]](http://www.politico.com/story/2017/08/06/trump-fcc-sinclair-broadcast-expansion-241337)</sup>
+386. Reversed the DoJ’s position in a supreme court case, backing Ohio’s voter purge.<sup>[[386.1]](http://thehill.com/homenews/administration/345779-in-reversal-trump-administration-backing-ohio-voter-purge)</sup>
+387. Ended rule testing large vehicle operators for sleep disorders.<sup>[[387.1]](https://www.washingtonpost.com/local/trafficandcommuting/trump-administration-withdraws-plan-to-test-truck-bus-and-train-operators-for-sleep-disorder/2017/08/08/c3c2ce3a-7b8e-11e7-9d08-b79f191668ed_story.html?utm_term=.e9b73321c221)</sup>
+388. Impulsively threatened nuclear apocalypse.<sup>[[388.1]](http://www.huffingtonpost.com/entry/trump-fire-and-fury_us_598b2fa8e4b0d793738c0859?ncid=inblnkushpmg00000009)</sup>
+389. Moved to further delay the fiduciary rule.<sup>[[389.1]](https://www.bloomberg.com/news/articles/2017-08-09/trump-administration-seeks-further-delay-in-labor-fiduciary-rule)</sup>
+390. Began looking for ways to force journalists to reveal their sources.<sup>[[390.1]](http://www.reuters.com/article/us-usa-trump-sessions-leaks-idUSKBN1AK1UR)</sup>
+391. A non-partisan report revealed that the Trump Administration’s actions are raising insurance premiums.<sup>[[391.1]](http://www.pbs.org/newshour/rundown/trump-administrations-actions-raise-health-insurance-premiums-study-says/)</sup>
+392. Abandoned Latino outreach for Obamacare sign-ups.<sup>[[392.1]](http://talkingpointsmemo.com/dc/trump-hhs-abandons-latino-outreach-on-obamacare)</sup>
+393. Falsely accused immigrant teens of gang ties to deport them.<sup>[[393.1]](http://www.npr.org/2017/08/11/542960660/trump-administration-accused-of-falsely-accusing-immigrant-teens-of-gang-ties)</sup>
+394. Thanked Russia for expelling diplomats.<sup>[[394.1]](http://www.npr.org/2017/08/10/542685154/president-trump-thanks-putin-for-ordering-expulsion-of-u-s-diplomats-from-russia)</sup>
+395. After far right groups he himself had emboldened rioted in Charlottesville, gave a luke warm response blaming “many sides”. Then, when criticized on the false equivalence, doubled down on it.<sup>[[395.1]](https://www.nytimes.com/2017/08/12/us/trump-charlottesville-protest-nationalist-riot.html)[[395.2]](https://www.usatoday.com/story/news/politics/2017/08/15/donald-trump-returns-new-york-city-first-time-president-wasnt-joyful-homecoming/568752001/)</sup>
+396. Sabotaged the future quality of the civil service by undermining recruiting programs.<sup>[[396.1]](https://www.washingtonpost.com/news/posteverything/wp/2017/08/14/how-president-trumps-state-department-is-sabotaging-americas-future-leadership/?utm_term=.a24088a30736)[[396.2]](https://www.washingtonpost.com/opinions/global-opinions/the-state-department-just-broke-a-promise-to-minority-and-female-recruits/2017/06/18/cd1f9d44-52b9-11e7-b064-828ba60fbb98_story.html?tid=a_inl&utm_term=.2864dd3c3d21)</sup>
+397. In a massive breach of privacy and first amendment rights, the DOJ demanded the IP addresses of over 13 million people who had visited an anti-Trump website.<sup>[[397.1]](https://www.forbes.com/sites/thomasbrewster/2017/08/14/dreamhost-government-order-blasted-as-overreach/#230f101a4d5c)</sup>
+398. Ended an Obama era protection program for Central American minors.<sup>[[398.1]](https://www.washingtonpost.com/politics/trump-administration-ends-obama-era-protection-program-for-central-american-minors/2017/08/16/8101507e-82b6-11e7-ab27-1a21a8e006ab_story.html?utm_term=.6750a51e6117)</sup>
+399. Removed the white house bikeshare station.<sup>[[399.1]](http://www.bicycling.com/news/trump-removes-white-house-bikeshare-station)</sup>
+400. Killed a plan to ban plastic bottles from national parks.<sup>[[400.1]](http://www.sfgate.com/bayarea/article/Trump-administration-kills-push-to-ban-bottled-11824841.php)</sup>
+401. In addition to blocking the implementation of the Federal calorie labeling law, tried to use the existence of that labeling law to block New York’s calorie labeling law.<sup>[[401.1]](http://fortune.com/2017/08/15/trump-administration-food-fight-new-york-city/)</sup>
+402. Watered down toxic chemical rules.<sup>[[402.1]](http://thehill.com/policy/energy-environment/346535-greens-sue-epa-over-toxic-chemical-rules)</sup>
+403. Ended a DoJ effort to crack down on predatory lenders.<sup>[[403.1]](http://alliedprogress.org/wp-content/uploads/2017/08/2017-8-16-Operation-Chokepoint-Goodlatte.pdf)</sup>
+404. Moved to undermine emissions standard rules for cars and light trucks, as well as heavy duty trucks.<sup>[[404.1]](http://www.huffingtonpost.com/entry/the-climate-post-epa-dot-reviewing-fuel-economy-standards_us_599599b1e4b055243ea1363c)[[404.2]](https://www.epa.gov/newsreleases/epa-announces-intent-revisit-provisions-phase-2-heavy-duty-rules)</sup>
+405. Disbanded the federal advisory panel for National Climate Assessment.<sup>[[405.1]](https://www.washingtonpost.com/amphtml/news/energy-environment/wp/2017/08/20/the-trump-administration-just-disbanded-a-federal-advisory-committee-on-climate-change/)</sup>
+406. Halted research on the public health impact of mountaintop removal coal mining.<sup>[[406.1]](http://thehill.com/policy/energy-environment/347374-trump-administration-halts-research-on-mountaintop-removal-coal)</sup>
+407. Tapped out the Secret Service’s annual budget within 7 months.<sup>[[407.1]](http://www.cnn.com/2017/08/21/politics/secret-service-donald-trump-family/index.html)</sup>
+408. Threatened a government shutdown if congress does not agree to fund his border wall.<sup>[[408.1]](https://www.ft.com/content/22735222-87c1-11e7-bf50-e1c239b45787)</sup>
+409. Moved to downsize four national monuments.<sup>[[409.1]](http://www.latimes.com/local/lanow/la-na-pol-national-monuments-20170824-story.html)</sup>
+410. Tried to kill a bill that would have prevented him from firing Robert Mueller.<sup>[[410.1]](https://www.vox.com/policy-and-politics/2017/8/24/16196792/robert-mueller-tillis-trump-russia)</sup>
+411. Released his plan for public research priorities, indicating a withdrawal of government support for research in numerous fields such as climate change.<sup>[[411.1]](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-30.pdf)[[alt]](https://web.archive.org/web/20180117023702/https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/m-17-30.pdf)</sup>
+412. Pardoned Joe Arpaio.<sup>[[412.1]](http://www.huffingtonpost.com/entry/trump-pardon-joe-arpaio_us_599da366e4b0a296083b9758?ncid=inblnkushpmg00000009)</sup>
+413. Introduced new hurdles to people who want to transition from Visas to green cards.<sup>[[413.1]](http://www.politico.com/story/2017/08/25/trump-administration-green-card-hurdle-242050)</sup>
+414. [Follow up to #370] Issued an executive order banning transgender people from the military.<sup>[[414.1]](http://www.cnn.com/2017/08/25/politics/trump-transgender-military/index.html)</sup>
+415. Encouraged the militarization of the police by lifting restrictions on transferring military hardware to police departments.<sup>[[415.1]](http://www.npr.org/2017/08/28/546743742/trump-administration-lifts-limits-on-military-hardware-for-police)</sup>
+416. In the weeks before hurricane Harvey, reversed rules to make infrastructure more resistant to natural disasters like flooding and hurricanes.<sup>[[416.1]](https://www.nytimes.com/2017/08/15/climate/flooding-infrastructure-climate-change-trump-obama.html)</sup>
+417. It was revealed Trump’s business continued to carry out shady business deals in Russia during the Presidential campaign, including emailing Putin about a project in Moscow.<sup>[[417.1]](http://www.newsweek.com/putin-trump-moscow-cohen-656995)</sup>
+418. Refused to turn over documents in an investigation into Scott Pruitt’s conflicts of interest.<sup>[[418.1]](http://ktla.com/2017/08/11/california-sues-epa-for-documents-to-determine-if-administrator-scott-pruitt-has-conflict-of-interest/)</sup>
+419. It was revealed Trump’s hotel in Washington has generally been profiting off his status as President.<sup>[[419.1]](https://www.washingtonpost.com/amphtml/politics/trump-dc-hotel-turns-2-million-profit-in-four-months/2017/08/10/23bd97f0-7e02-11e7-9d08-b79f191668ed_story.html)</sup>
+420. Prevented Mexico from providing hurricane relief.<sup>[[420.1]](http://www.newsweek.com/trump-not-respond-mexico-offer-relief-hurricane-harvey-656711)</sup>
+421. Removed a report on sexual violence from the White House website.<sup>[[421.1]](http://www.huffingtonpost.com/entry/white-house-quietly-removes-sexual-assault-report-from-website_us_59a6c322e4b084581a14ab59?ncid=inblnkushpmg00000009)</sup>
+422. Slashed Obamacare outreach funding again, this time by 90%.<sup>[[422.1]](http://thehill.com/policy/healthcare/348763-trump-administration-to-slash-obamacare-outreach-funding)</sup>
+423. After numerous historically black colleges cancelled their plans to attend an annual conference at the White House, the Trump administration downsized the conference.<sup>[[423.1]](http://www.politico.com/story/2017/09/01/trump-historically-black-colleges-universities-conference-242274)</sup>
+424. Ended an Obama era policy to reduce pay discrimination.<sup>[[424.1]](https://www.reginfo.gov/public/jsp/Utilities/Review_and_Stay_Memo_for_EEOC.pdf)</sup>
+425. Brashly threatened to end trade with anyone who trades with North Korea.<sup>[[425.1]](https://www.vox.com/2017/9/3/16249504/trump-north-korea-trade-tweet)</sup>
+426. Ended the Deferred Action for Childhood Arrivals program, which protects more than 800,000 immigrants who have lived productively in the United States since they were children from deportation.<sup>[[426.1]](http://www.npr.org/2017/09/05/546423550/trump-signals-end-to-daca-calls-on-congress-to-act)</sup>
+427. Issued a strange warning to Sweden over its support for a UN treaty banning nuclear weapons.<sup>[[427.1]](http://www.businessinsider.com/sweden-got-a-strange-warning-from-the-trump-administration-2017-9)</sup>
+428. Moved to overhaul how colleges investigate sexual assault.<sup>[[428.1]](https://www.reuters.com/article/us-usa-education-devos/trump-administration-to-overhaul-how-colleges-investigate-sexual-assault-idUSKCN1BI2ER)</sup>
+429. Filed papers with the Supreme Court backing a baker who broke Colorado’s anti-discrimination laws by discriminating against gay couples.<sup>[[429.1]](https://www.reuters.com/article/us-usa-court-lgbt/trump-administration-backs-baker-who-refused-to-make-cake-for-gay-couple-idUSKCN1BI332)</sup>
+430. Degraded the regulatory system by implementing an unworkable blanket straight jacket on the regulatory costs of Federal Agencies.<sup>[[430.1]](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2017/FY%202018%20Regulatory%20Cost%20Allowances.pdf)</sup>
+431. Ended an Obama era plan to strengthen houses in flood zones.<sup>[[431.1]](https://www.cnbc.com/2017/09/11/trump-administration-ends-plan-to-strengthen-homes-in-flood-zones.html)</sup>
+432. Halted pollution controls at Utah coal plants.<sup>[[432.1]](http://www.foxbusiness.com/markets/2017/09/11/trump-administration-halts-pollution-controls-at-utah-plants.html)</sup>
+433. Conducted warantless cell phone searches at the border.<sup>[[433.1]](https://www.bloomberg.com/news/articles/2017-09-13/trump-administration-sued-over-phone-searches-at-u-s-border)</sup>
+434. Appointed one woman for US attorney out of a total of 42, a horribly lopsided figure generally suggesting discrimination.<sup>[[434.1]](http://www.cnn.com/2017/09/12/politics/us-attorneys-one-women/index.html)</sup>
+435. Blocked the Senate from interviewing FBI agents over the firing of James Comey.<sup>[[435.1]](http://www.independent.co.uk/news/world/americas/us-politics/trump-comey-firing-fbi-interviews-jeff-sessions-doj-declines-a7945311.html)</sup>
+436. Punished countries who refuse to cooperate with his deportation plans.<sup>[[436.1]](https://www.nytimes.com/2017/09/13/us/politics/visa-sanctions-criminal-convicts.html)</sup>
+437. Refused to make public documents to provide the legal basis for the strike in Syria.<sup>[[437.1]](https://theintercept.com/2017/09/13/the-trump-administration-was-ordered-to-disclose-the-legal-basis-for-its-syria-strike-it-handed-over-squat/)</sup>
+438. Launched a crackdown against leakers.<sup>[[438.1]](https://www.vox.com/policy-and-politics/2017/9/14/16305384/mcmaster-memo-leaks)</sup>
+439. Moved to lift ban on oil assessments in wildlife refuges.<sup>[[439.1]](http://www.alaskapublic.org/2017/09/15/trump-administration-moves-to-lift-ban-on-oil-assessment-in-anwr/)</sup>
+440. Used the London terrorist attack as pretext to have a tirade about his travel ban.<sup>[[440.1]](https://www.cbsnews.com/news/trump-speculates-about-london-attack-in-tweets/)</sup>
+441. Once again attempted to repeal Obamacare.<sup>[[441.1]](http://thehill.com/policy/healthcare/overnights/351244-overnight-health-care-new-gop-obamacare-repeal-bill-gains)</sup>
+442. Moved to ease rules on the export of US guns.<sup>[[442.1]](https://www.reuters.com/article/us-usa-trump-weapons-exclusive/exclusive-trump-administration-prepares-to-ease-export-rules-for-u-s-guns-idUSKCN1BU2N8)</sup>
+443. Rejected a government study that showed the positive impact of refugees.<sup>[[443.1]](https://www.nytimes.com/2017/09/18/us/politics/refugees-revenue-cost-report-trump.html)</sup>
+444. Spent his travel budget recklessly, with administration staff spending money on charter flights which were obviously not necessary.<sup>[[444.1]](http://www.chicagotribune.com/news/nationworld/politics/ct-tom-price-charter-plane-trips-20170920-story.html)</sup>
+445. Doubled the denial rate for the DACA program.<sup>[[445.1]](http://www.washingtontimes.com/news/2017/sep/20/daca-denial-rate-doubles-under-donald-trump-admini/)</sup>
+446. Gave political appointments to inept individuals with no meaningful experience apparently because they had worked on his campaign.<sup>[[446.1]](http://www.politico.com/story/2017/09/21/trump-agriculture-department-usda-campaign-workers-242951)</sup>
+447. Praised Turkey’s increasingly autocratic President Recep Tayyip Erdogan.<sup>[[447.1]](http://www.politico.com/story/2017/09/21/trump-erdogan-turkey-praise-242986)</sup>
+448. Used campaign funds to pay his legal fees.<sup>[[448.1]](https://www.reuters.com/article/us-usa-trump-lawyers-exclusive/trump-using-campaign-rnc-funds-to-pay-legal-bills-from-russia-probe-sources-idUSKCN1BU2OS)</sup>
+449. Cited a fictitious country numerous times in his speech to the UN.<sup>[[449.1]](http://www.cnn.com/2017/09/21/africa/trump-nambia-un-africa-trnd/index.html)</sup>
+450. Expanded the travel ban and made it permanent.<sup>[[450.1]](http://www.npr.org/2017/09/24/553353302/trump-administration-revises-travel-ban-expands-beyond-muslim-majority-countries)[[450.2]](https://www.vox.com/policy-and-politics/2017/9/25/16360496/trump-travel-ban-permanent)</sup>
+451. Made it more difficult to track the number of drug arrests.<sup>[[451.1]](https://www.forbes.com/sites/tomangell/2017/09/25/trump-administration-makes-it-harder-to-track-marijuana-arrests-but-i-did-it-anyway/#313e28ef68bc)</sup>
+452. Picked an asinine fight with football players protesting during the national anthem.<sup>[[452.1]](https://www.nbcnews.com/politics/donald-trump/trump-cheers-nfl-fans-who-booed-n804426)</sup>
+453. Neglected the devastation in Puerto Rico in the aftermath of hurricane Maria.<sup>[[453.1]](https://www.vox.com/policy-and-politics/2017/9/26/16349644/puerto-rico-humanitarian-crisis)</sup>
+454. Once again stalled a key worker safety regulation on silica dust.<sup>[[454.1]](https://www.nbcnews.com/politics/white-house/trump-administration-stalls-key-obama-rule-worker-safety-n805011)</sup>
+455. Dramatically scaled back admissions of refugees.<sup>[[455.1]](http://www.cnn.com/2017/09/27/politics/us-trump-refugee-admissions/index.html)</sup>
+456. It was revealed Jared Kushner and Ivanka Trump used her personal email for government work.<sup>[[456.1]](https://www.nytimes.com/2017/09/24/us/politics/kushner-personal-email.html)[[456.2]](http://www.newsweek.com/ivanka-trump-personal-email-account-white-house-670700)</sup>
+457. Unveiled a budget that basically no one wants which cuts taxes for corporations and the rich and horribly undermines government funding.<sup>[[457.1]](https://www.vox.com/the-big-idea/2017/9/27/16376096/republican-tax-plan-deficit-busting-mess)</sup>
+458. Argued, in court, that employers can fire people for being gay.<sup>[[458.1]](http://www.newsweek.com/trump-doj-fired-being-gay-lgbt-issues-jeff-sessions-673398)</sup>
+459. Tom Price used a military jet for his travels, at a staggering cost of $500k to tax payers.<sup>[[459.1]](http://www.politico.com/story/2017/09/28/tom-price-military-jets-europe-asia-hhs-243276)</sup>
+460. Demanded facebook give them with personal info on anti-Trump activists.<sup>[[460.1]](http://fortune.com/2017/09/29/facebook-department-justice-aclu-donald-trump/)</sup>
+461. Refused to acknowledge the role of climate change in forest fires, and instead tried to blame “radical environmentalists”.<sup>[[461.1]](http://www.latimes.com/opinion/op-ed/la-oe-miller-zinke-fire-memo-20171001-story.html)</sup>
+462. Dropped out of Obamacare events in Mississippi, sabotaging months of work and creating addition obstacles for people trying to obtain health insurance.<sup>[[462.1]](https://www.vox.com/policy-and-politics/2017/9/27/16374158/obamacare-mississippi-hhs-events)</sup>
+463. After seeming to endorse legislating a path to citizenship for Dreamers, immediately backpedaled.<sup>[[463.1]](https://www.reuters.com/article/us-usa-immigration-senate/trump-administration-backpedals-on-citizenship-for-dreamers-idUSKCN1C82DV)</sup>
+464. Backed a 20 week abortion ban.<sup>[[464.1]](http://www.chicagotribune.com/news/nationworld/politics/ct-gop-late-term-abortion-ban-20171003-story.html)</sup>
+465. Reversed a detente with Cuba by expelling Cuban diplomats and recalling several American diplomats from Cuba.<sup>[[465.1]](https://www.reuters.com/article/us-usa-cuba-diplomacy/u-s-expels-15-cuban-diplomats-fuelling-tensions-with-havana-idUSKCN1C81UE)</sup>
+466. Complained that disaster relief for Puerto Rico was throwing his budget out of whack.<sup>[[466.1]](https://www.vox.com/2017/10/3/16411488/trump-remarks-puerto-rico)</sup>
 467. Made a vague promise to cancel Puerto Rico’s debt, then immediately backpedaled on it.<sup>[[467.1]]()</sup>
 468. Was called a “moron” by his secretary of state, as bickering within the cabinet reached a boiling point.<sup>[[468.1]]()</sup>
 469. Reversed decades worth of policy on nepotism to appoint family members to cabinet, as indicated by memos released from the Department of Justice.<sup>[[469.1]]()</sup>
@@ -635,7 +635,7 @@
 627. Mick Mulvaney requested $0 to fund the CFPB in the latest effort to undermine the financial watchdog.<sup>[[627.1]]()</sup>
 628. Rescinded guidance from the Obama Administration which prevented states from de-funding planned parenthood.<sup>[[628.1]]()</sup>
 629. After setting the stage for a shutdown by letting DACA expire and sabotaging budget negotiations with demands for hardline immigration policies and ill timed tweets, shutdown the US government. This shutdown not only disrupts many services and programs people rely on, it also wastes billions of dollars and hurts the economy.<sup>[[629.1]]()</sup>
-630. Moved to gut $340 from drug prevention programs.<sup>[[630.1]]()</sup>
+630. Moved to gut $340m from drug prevention programs.<sup>[[630.1]]()</sup>
 
 
 ### Shit he says
