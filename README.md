@@ -8,11 +8,10 @@
 
 * Common arguments against socialism
 * The problems of our world
-* Fuck trump
+* Shit trump and his supporters do
 
 ### Upcoming
 
 * Fascist Rhetoric (and the rise in the first world)
-* Failures of capitalism
 * Corruption in America
 * The ideal and scalable budget
