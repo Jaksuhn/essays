@@ -6,7 +6,6 @@
 
 ### Incomplete
 
-* Common arguments against socialism
 * The problems of our world
 * Shit trump and his supporters do
 
