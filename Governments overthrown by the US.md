@@ -70,7 +70,7 @@
 - **Ecuador**** 1961, CIA-backed military overthrows the democratically elected President [José María Velasco Ibarra](https://en.wikipedia.org/wiki/José_María_Velasco_Ibarra)  
   <ins>WTPLDE:</ins> Yes  
   <ins>Reason:</ins> Political interest
-- **El Salvador** 1980s, during the civil war of El Salvador against a brutal oppressive government, the CIA that funded that goverment was responsible for killing at least 70,000 people with thousands more missing.<sup>[[1]](http://en.wikipedia.org/wiki/Salvadoran_Civil_War)[[2]](http://www.historyisaweapon.com/defcon1/nairnelsalvadorbtds.html)[[3]](http://en.wikipedia.org/wiki/Atlacatl_Battalion)[[4]](http://en.wikipedia.org/wiki/El_Mozote_massacre)</sup>
+- **El Salvador** 1980s, during the civil war of El Salvador against a brutal oppressive government, the CIA that funded that goverment was responsible for killing at least 70,000 people with thousands more missing.<sup>[[1]](http://en.wikipedia.org/wiki/Salvadoran_Civil_War)[[2]](http://www.historyisaweapon.com/defcon1/nairnelsalvadorbtds.html)[[3]](http://en.wikipedia.org/wiki/Atlacatl_Battalion)[[4]](http://en.wikipedia.org/wiki/El_Mozote_massacre)</sup>  
   <ins>WTPLDE:</ins> No  
   <ins>Reason:</ins> Fear of communism
 - **Grenada** 1979, CIA destabilised Grenada after [Maurice Bishop](https://en.wikipedia.org/wiki/Maurice_Bishop) won the presidency, for his marxist, pro-cuba, anti-racism and anti-apartheid stances. Under Bishop, women received equal pay and paid maternity leave, and sex discrimination was made illegal. After CIA destabilisation, Bishop was overthrown and the [invasion of Grenada](https://en.wikipedia.org/wiki/Invasion_of_Grenada) in 1983 resulted in the deaths of 277 people.  
