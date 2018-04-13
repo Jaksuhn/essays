@@ -3,6 +3,8 @@
 ### Complete
 
 * Governments overthrown by the US
+* The history of climate denial  
+* The stories of Donald Carlson, Danielle Smalley & Jason Stone (A tale of libertarianism)
 
 ### Incomplete
 
