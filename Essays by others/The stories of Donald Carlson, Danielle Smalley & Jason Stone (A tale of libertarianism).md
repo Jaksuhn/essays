@@ -1,4 +1,5 @@
-# The Stories of Donald Carlson, Danielle Smalley & Jason Stone (A Tale of Libertarianism)
+# The Stories of Donald Carlson, Danielle Smalley & Jason Stone (A Tale of Libertarianism)  
+*Excerpts from Jane Mayer's Dark Money*
 
 ### Donald Carlson
 
