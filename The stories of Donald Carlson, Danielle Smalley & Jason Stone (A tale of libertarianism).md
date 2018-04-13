@@ -1,4 +1,4 @@
-# The stories of Donald Carlson, Danielle Smalley & Jason Stone (A tale of libertarianism)
+# The Stories of Donald Carlson, Danielle Smalley & Jason Stone (A Tale of Libertarianism)
 
 ### Donald Carlson
 
