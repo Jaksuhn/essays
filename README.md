@@ -3,8 +3,6 @@
 ### Complete
 
 * Governments overthrown by the US
-* The history of climate denial  
-* The stories of Donald Carlson, Danielle Smalley & Jason Stone (A tale of libertarianism)
 
 ### Incomplete
 
@@ -14,5 +12,4 @@
 ### Upcoming
 
 * Fascist Rhetoric (and the rise in the first world)
-* Corruption in America
-* The ideal and scalable budget
+* An ideal and scalable budget
