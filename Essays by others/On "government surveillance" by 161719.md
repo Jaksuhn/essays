@@ -36,7 +36,7 @@ I actually get really upset when people say "I don't have anything to hide. Let 
 
 --- /u/[161719](https://web.archive.org/web/20130610190744/http://www.reddit.com/user/161719) (now deleted)
 
-*In a separate comment*
+\***In a separate comment*\**
 
 You want to know the good side?  The good side is that when the revolution finally happened, it was the single most beautiful and life-affirming experience of my life.  People took over the city completely and managed everything.  It was "anarchy" but anarchy was completely amazing.  With no authority it was like living in a village back in time or something.  It was really amazing and a ton of art and music and dance just...happened.  All of a sudden like it had been stored up all that time.   
 
