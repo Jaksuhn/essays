@@ -1,3 +1,3 @@
 # Essays by others
 
-The "On '...'" series are all reddit comments.
+The "On '...'" series is all reddit comments.
