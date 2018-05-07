@@ -1,7 +1,7 @@
 **NOTES**  
-* Developed countries is the combined list of: OCED member countries, IMF list of advanced economies, World Factbook's list of developed countries.
+* Developed countries is the combined list of: OCED member countries and the World Factbook's modified version of the IMF's list of advanced economies. The total is 51 countries which are: Andorra, Australia, Austria, Belgium, Bermuda, Canada, Chile, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Greece, Guernsey, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Malta, Mexico, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, San Marino, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Taiwan, Turkey, United Kingdom, United States, Vatican City.
 * This list will include every statistic I can find where the US places #5 or higher
-* If a statistic is true in both the world and the developed world it will be repeated in both unless and marked with a <sup>⌆</sup>
+* If a statistic is true in both the world and the developed world it will be repeated in both and marked with a <sup>⌆</sup>
 
 ---
 
