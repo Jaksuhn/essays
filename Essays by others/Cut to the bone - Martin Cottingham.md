@@ -1,0 +1,89 @@
+*The following is the full article by Martin Cottingham for the sole purpose of being a reference for other works here. To view the source, go [here](http://connection.ebscohost.com/c/articles/9303250902/cut-bone) or for the full text I have a copy in the **[Resources](https://github.com/Jaksuhn/essays/blob/master/Essays%20by%20others/Resources/Cut%20to%20the%20Bone%20-%20Martin%20Cottingham%20(GALE_A13563538).html)** folder.*
+
+---
+
+Cut to the bone  
+Martin Cottingham  
+***New Statesman & Society.*** 6.243 (Mar. 12, 1993): p12+.  
+Copyright: COPYRIGHT 1993 New Statesman, Ltd.  
+http://www.newstatesman.com/  
+Abstract:
+
+Competition for foreign investment in free-trade zones of developing countries has led to working conditions that are unsafe and exploitative. Workers who oppose management practices have been abducted and killed.
+
+Full Text: 
+
+Jayanthi Dandeniya last saw her husband alive three and a half years ago at their home near Sri Lanka's Katanayake International Airport. As 30-year-old Ranjith Mudiyanselage left work that evening, he was pulled from his bicycle, bundled into the back of a van and driven away at speed. The next day his battered body was found burning outside a local church.
+
+Ranjith fell victim to a global trade war that was raging long before the United States and the European Community fell out over Gatt. It is a war between third-world countries fighting to attract the foreign investment their economies so desperately need. Its casualties are the workers whose pay and conditions are used as weapons to fight off the competition.
+
+Ranjith had made the mistake of refusing to keep his mouth shut when factory managers cut corners to cut costs. He repeatedly criticised the management of Floral Greens, the Hong Kong-owned factory where he worked in the moulding section, making plastic flowers for export to the Far East. It was a fatal error in a country where foreign investors are lured with the promise of cheap labour and harmonious industrial relations.
+
+Now Jayanthi herself is at risk because she has taken up where Ranjith left off. She works part-time on Da Bindu (Drops of Sweat), a women's Sinhala-language newspaper that highlights abuses of workers' rights by companies like Floral Greens.
+
+The dispute that cost Ranjith his life began when he noticed a dangerous fault on the machine he was operating during the 6am to 2pm shift. He informed his foreman and advised that the machine be shut down until it could be repaired. But the company was not prepared to lose profits by cutting production.
+
+They didn't listen to his warning and made a girl work on the machine during the late shift," says Jayanthi. "Her hand got caught and a small finger had to be cut off. The next day, my husband asked the foreman why he did what he did and the foreman assaulted him. His head was banged on the machine and his nose was bleeding. He had to stay in hospital for four days."
+
+Ranjith was suspended for two months, and summoned to a disciplinary inquiry after he returned to work. It was as he emerged from this inquiry that he was abducted. He was with an adviser from the Amandoluwa-based Legal Advice Centre, Maduruppulige Lionel, who was also seized and killed.
+
+Jayanthi believes an executive of Floral Greens paid the police to dispose of her husband. The men's bodies were found burning on a pile of old tyres at the roadside, the hallmark of many of the thousands of killings carried out by the security forces in recent years. In most cases, the evidence is quickly removed, but not before the stench of burning flesh and rubber have struck fear into the hearts of any other would-be troublemakers. The tactic works: those who witnessed Ranjith's abduction are terrified to give evidence.
+
+"I went to the police station and told them about what happened but the police told me they didn't know anything," Jayanthi recalls. "The officer in charge didn't even allow me to lodge a complaint."
+
+Floral Greens is one of more than 100 companies that have opened factories in Sri Lanka's free-trade zones since the government set up the first zone to attract foreign capital in 1978. Now, three zones each offer investors duty-free import and export and exemption from tax and exchange controls in return for a minimum investment of $250,000.
+
+Around 85,000 jobs have been created, a welcome boost to an economy where over 20 per cent of the workforce is unemployed. Two-thirds of the new jobs are in garment manufacturing, an industry ideal for countries embarking on industrialisation. Investment is low, little technology is required and large numbers of unskilled workers can be employed.
+
+For union leaders and for many workers, however, the price of the new jobs is too high. They accuse the government of bending over backwards to attract investment, giving foreign companies a licence to manipulate their employees in the free-trade zones. "We call them the free exploitation zones," says Bala Tampoe, president of the Ceylon Mercantile Union.
+
+The major problem for the government is that investors can play third-world countries off against one another. Foreigners can choose to invest their money where labour is cheapest and industrial relations least complicated. This cutthroat competition is fuelled by quotas that tightly control garment imports to Europe and North America. The Multi Fibre Arrangement (MFA), a textiles-trade deal struck in 1974, guarantees developed countries over 50 per cent of clothing imports to the UK.
+
+There were high hopes among third-world producers that the phasing out of the MFA would be implemented at the end of 1992, paving the way for a quota-free market in ten years. Instead, the draft agreement drawn up in 1991 remains unsigned, in spite of recent hints from the Clinton administration that it wants to reappraise the textile issue. The agreement could stay in the pending tray for months or even years to come as the Uruguay Round grinds on.
+
+If quotas were removed it would give the third world a bigger slice of the trade cake, but could mean a further deterioration in working conditions. It is estimated that China, the world's biggest garment producer, could supply the entire European market and half of North America by itself. Because production costs in China are the lowest in the world, foreign capital would be switched after the removal of quotas. Other third-world nations would be forced to cut costs further to keep their industries alive.
+
+Neil Kearney, general secretary of the International Textile, Garment and Leather Workers' Federation, is cautious about quotas. "From a workers' point of view, there is much to be gained from having regulated trade instead of a free-for-all in which everybody cuts one another's throats," he says "We need some kind of cooperation between the exporting countries to ensure they apply the internationally negotiated standards for workers." Quotas could then be lifted except where workers are maltreated, Kearney argues.
+
+But such cooperation between third-world countries is unlikely to materialise in the ferocity of the textile trade war. In Sri Lanka, the heat of competition shows in the dramatic difference between the facilities on offer to the investors and those endured by the workforce. Some of the garment factories are little better than industrial-scale sweatshops whose workers are nearly all low-paid women school-leavers. Many have to put up with sleeping ten or 12 to a room on the floor of private homes licensed as boarding houses by the government.
+
+The worst rooms look like car parks - sleeping spaces are marked on the floor in white paint to pack in as many workers as possible by forcing them to sleep virtually shoulder to shoulder. Most have to wash at a well in the backyard and walk miles to and from work along unlit roads. Next to nothing has been spent on transport, street lighting and accommodation.
+
+By contrast, Investment Opportunities in Sri Lanka, a brochure produced by the Greater Colombo Economic Commission (GCEC), lists 24 different financial incentives for foreign companies, offers a register of potential employees vetted by the government and details a wide range of fringe benefits for top executives, from private schools and hospitals to golf courses and sumptuous housing. The brochure boasts of an excellent industrial relations climate", glossing over the strikes organised in protest against low pay and poor conditions.
+
+Gunasiri Weerakoon, the Sri Lanka government's Labour Commissioner, concedes that housing is a major concern, and admits that bank loans to help boarding-house owners improve their properties "have not made much of a dent in the problem". He is less concerned about reports of maltreatment and exploitation in the factories. "All our laws apply 100 per cent to workers in the free-trade zones: the Industrial Disputes Act, the Termination of Employment Act, the Minimum Wages Ordinances. If there is a dispute the workers can always go to a labour tribunal. They can complain to us and we refer the case to compulsory arbitration."
+
+In practice, such safeguards count for little, and reports of maltreatment are splashed across the pages of Da Bindu. Each month 18,000 copies are printed and quickly snapped up. The women in the free-trade zones are keen to read about how other workers are being treated, and many are prepared to risk the sack by passing information about disputes to Da Bindu. Pseudonyms and anonymous quotations are often used to conceal their identity.
+
+Last year the paper reported the case of a woman who underwent a life-saving bladder operation and spent five days in hospital after being denied access to the toilet for much of a gruelling 24-hour shift. The only medicine she was offered at work was a dose of glucose and coconut water, and it was only when a doctor was called to her boarding house after work that her condition was treated seriously.
+
+In many factories, the management issues toilet tokens to maximise the time each woman spends on the production line and prevent meetings between workers that might be used to organise disputes. "The factories are air-conditioned, so we need to drink a lot of water, but we also need a token to go to the toilet," says one worker at North Sails, a joint German/Dutch/Sri Lankan enterprise which makes sails for windsurfers. "Each worker gets a maximum of three tokens a day, so we can't drink much water."
+
+Compulsory overtime to help meet export quotas is commonplace, even though it contravenes Sri Lanka's labour laws. Employers simply require new recruits to sign a contract that allows the imposition of overtime. Workers can then be asked to work overnight at the end of an all-day shift on the basis that they have consented.
+
+There are monthly bonuses for employees who do not miss a day's work, so there is pressure to keep working even when long hours and steep production targets begin to take their toll. Some factories provide sick pay only if workers report to the company doctor, and women live in fear of what will happen if they get pregnant.
+
+"There is an unwritten acceptance that they take unmarried women because they don't want to pay maternity benefits or give maternity leave," explains a Colombo-based researcher, who asked not to be named. Da Bindu reported that one free-trade zone worker drowned her new-born baby in the toilet when her boyfriend walked out.
+
+The root of the employers' power over the work force is the tight security in the free-trade zones and the huge demand for jobs. Management can threaten trouble-makers with dismissal in the knowledge that there are ten people for each job waiting to take their places. Unions and strikes are not illegal, but emergency powers introduced by the government to deal with terrorist intimidation allow businesses to take on black-leg labour to replace strikers.
+
+"You need an identity card to check in," says one former worker. "If they withdraw your card, you can't enter the zone. The way they curb activism is to take away people's cards."
+
+Samarakoan Menike is one of the latest victims of arbitrary sacking. A 21-year-old who looks eight years younger, he was sacked along with 25 other Floral Greens workers after a strike in April. Management had agreed a new-year bonus of a month's salary for every worker, but this was cut to a much smaller single payment restricted to employees who had more than a year's service.
+
+Menike believes those sacked were singled out because they were activists or long-term servants of the company. Two of the 26 dismissed were only days away from becoming eligible for a large bonus for five years' service, while half were members of the joint consultative council which negotiated with management over labour relations issues.
+
+Da Bindu reports some of the numerous attacks on women which take place in and around the free-trade zones. Unlit streets used by thousands of young single women have become a magnet for young men. Women have been attacked by youths hunting in pairs on motorbikes, some using choloroform to drug their victims.
+
+In March last year the body of Irene Indrani, a woman who had been raped and murdered, was found with a knife still protruding from her neck. The ferocity of the attack prompted some women to quit their jobs and return to their home villages.
+
+Given so many pitfalls, it is remarkable that so many women stay in the free-trade zones for so long. They stay, above all, because their jobs release them from the shackles of village life. A survey of 500 workers by the Christian Workers' Fellowship found that 95 per cent did not enjoy their work, but most gave "freedom" as the main reason for sticking it out in the free-trade zones.
+
+In traditional village society, girls and young women are only allowed out to go to school or to the temple, and even then they are likely to be chaperoned. In the free-trade zones they are free to go out with their friends, to go to concerts and the cinema, to meet boyfriends and to come and go as they please.
+
+This liberated lifestyle has stirred up allegations of promiscuity and moral degeneration in the press, and some free-trade zone workers have even been pushed off buses for fear that they might carry Aids. But the right to work for themselves is the one freedom women enjoy in the free-trade zones, and they are not prepared to give it up without a fight.
+
+**Source Citation**   (MLA 8th Edition)  
+Cottingham, Martin. "Cut to the bone." *New Statesman & Society*, 12 Mar. 1993, p. 12+. *Academic OneFile*, http://link.galegroup.com/apps/doc/A13563538/AONE?u=lincclin_ccla&sid=AONE&xid=31f56c6e. Accessed 12 May 2018.
+
+**Gale Document Number:** GALE|A13563538
