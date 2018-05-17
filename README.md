@@ -4,6 +4,7 @@
 
 * Governments overthrown by the US
 * The stories of Donald Carlson, Danielle Smalley & Jason Stone (A tale of libertarianism)
+* [Socialism FAQ] But what about Bill Gates ?.
 
 ### Mostly done
 
