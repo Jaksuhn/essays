@@ -1,4 +1,4 @@
-# Shit Trump and his supporters do
+# Very Fine People
 
 ## Contents
 * [Trump](#trump)
