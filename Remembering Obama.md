@@ -56,3 +56,9 @@ These attacks have been called extrajudicial killings by the UN<sup>[[src]](http
 - Bombed the Haska Meyna Wedding party that lead to the deaths of 47 Afghani civilians<sup>[[src]](https://en.wikipedia.org/wiki/Haska_Meyna_wedding_party_airstrike)</sup>
 
 - Involvment in the 2009 Honduras Coup<sup>[[1]](https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier)[[2]](https://en.wikipedia.org/wiki/2009_Honduran_coup_d%27%C3%A9tat)[[3]](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres)
+
+- Hectored poor blacks for not taking more “personal responsibility.”<sup>[[src]](https://abcnews.go.com/Politics/story?id=5376339&page=1)</sup>
+
+- First president to [turn down public campaign financing](https://www.nytimes.com/2008/06/20/us/politics/20obamacnd.html) and went on to get money from Wall Street funders with deep pockets, like Goldman Sachs, Citigroup, JPMorgan Chase, Skadden Arps, and Morgan Stanley.<sup>[[src]](https://www.opensecrets.org/pres08/contrib.php?cycle=2008&cid=N00009638)</sup>
+
+- Signed into law the Foreign Intelligence Surveillance Act, which gave legal immunity to telecommunications companies complicit in Bush’s wiretapping.<sup>[[src]](https://venturebeat.com/2012/12/31/obama-fisa/)</sup>
