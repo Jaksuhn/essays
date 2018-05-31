@@ -6,6 +6,7 @@
 * The stories of Donald Carlson, Danielle Smalley & Jason Stone (A tale of libertarianism)
 * [Socialism FAQ] But what about Bill Gates ?
 * [Socialism FAQ] Human nature
+* [Socialism FAQ] What were gulags ?
 
 ### Mostly done
 
