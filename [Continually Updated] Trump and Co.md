@@ -813,6 +813,24 @@
 805. Welcomed his own wife home from the hospital by misspelling her name<sup>[[805.1]](https://www.cnn.com/2018/05/19/politics/melania-trump-hospital-release-kidney-procedure/index.html)</sup>
 806. Did not know the difference between HPV and HIV<sup>[[806.1]](https://www.cnbc.com/2018/05/18/bill-gates-trump-asked-me-the-difference-between-hiv-and-hpv.html)</sup>
 807. During the 2016 elections met with Saudi and UAE emissaries promising to help in the election<sup>[[807.1]](https://www.huffingtonpost.com/entry/trump-jr-2016-help-gulf-princes-emissary_us_5b0080c9e4b0a046186c8156)</sup>
+808. With Neil Gorsuch providing the deciding vote, the Supreme Court ruled employers can force employees to sign class action waivers in arbitration agreements<sup>[[808.1]](http://www.latimes.com/politics/la-na-pol-court-workers-20180521-story.html)</sup>
+809. Pushed a conspiracy theory that the FBI infiltrated his campaign and ordered the Department of Justice investigate<sup>[[809.1]](https://www.cnn.com/2018/05/21/politics/trump-fbi-justice/index.html)</sup>
+810. Kicked CNN and AP out of EPA summit<sup>[[810.1]](https://www.nbcnews.com/politics/white-house/pruitt-bars-media-epa-summit-contaminants-guards-push-reporter-out-n876396)</sup>
+811. Botched a planned summit with North Korea<sup>[[811.1]](https://www.washingtonpost.com/politics/trump-cancels-nuclear-summit-with-north-korean-leader-kim-jong-un/2018/05/24/e502d910-5f58-11e8-a4a4-c070ef53f315_story.html?utm_term=.32572f1fa380)</sup>
+812. Signed the biggest rollback of financial regulations since the financial crisis, leaving the economy increasingly vulnerable to a repeat<sup>[[812.1]](https://www.cnbc.com/2018/05/24/trump-signs-bank-bill-rolling-back-some-dodd-frank-regulations.html)</sup>
+813. Sued by conservation groups over migratory bird policy<sup>[[813.1]](https://www.reuters.com/article/us-usa-environment-trump/u-s-conservationists-sue-trump-administration-over-migratory-bird-policy-idUSKCN1IP3VV)</sup>
+814. Donald Trump Jr. lied to the Senate Judiciary committee by saying he was “unaware” of any other foreign governments attempting to collude with the campaign to influence the election, which appears increasingly unlikely due to #808<sup>[[814.1]](https://www.nbcnews.com/politics/congress/democratic-senator-says-don-jr-may-have-lied-congressional-testimony-n877531)</sup>
+815. Issued multiple executive orders curtailing the worker rights of federal employees and unions<sup>[[815.1]](https://www.huffingtonpost.com/entry/trump-signs-executive-orders-making-it-easier-to-fire-federal-workers_us_5b087a5de4b0568a880b6d36)</sup>
+816. Lost track of 1,500 immigrant children<sup>[[816.1]](https://www.cnn.com/2018/05/26/politics/hhs-lost-track-1500-immigrant-children/index.html)</sup>
+817. Announced they were going forward with $50bn in new tariffs on China, reigniting prospects of a trade war<sup>[[817.1]](https://www.washingtonpost.com/business/economy/trump-announces-tariffs-on-china-tech-crackdown-ahead-of-key-trade-meeting/2018/05/29/9b4df54a-633e-11e8-99d2-0d678ec08c2f_story.html?utm_term=.737583503912)</sup>
+818. It was estimated that 4,600 people have died in Puerto Rico largely as a result of the administration’s failure to handle the devastation of Hurricane Maria cited in #453<sup>[[818.1]](https://www.huffingtonpost.com/entry/hurricane-maria-puerto-rico-death-toll_us_5b0d623fe4b0fdb2aa57022c)</sup>
+819. Scott Pruitt spent $3.5mn on security in his first year, more than 110% more than his predecessor<sup>[[819.1]](https://www.politico.com/story/2018/05/25/what-does-scott-pruitt-spend-on-security-609160)</sup>
+820. Tightened restrictions on visas for Chinese students<sup>[[820.1]](http://thehill.com/policy/international/389809-trump-administration-to-tighten-restrictions-on-some-chinese-visas)</sup>
+821. Scaled back the Volker rule, allowing investment banks to make more dangerous bets with their client’s money<sup>[[821.1]](https://www.politico.com/story/2018/05/30/trump-bank-regulations-volcker-rule-577718)</sup>
+822. Pardoned Dinesh D’Souza, who had previously plead guilty to campaign finance fraud<sup>[[822.1]](https://www.npr.org/sections/thetwo-way/2018/05/31/615759943/trump-says-hell-pardon-dinesh-dsouza-who-pleaded-guilty-to-campaign-finance-frau)</sup>
+823. Imposed new tariffs on steel and aluminium imports from Canada and the EU, escalating the trade war<sup>[[823.1]](https://www.cbsnews.com/news/trump-administration-imposes-tariffs-on-steel-aluminum-imports-from-europe-canada-mexico/)</sup>
+824. Pushed the EPA to collaborate with climate change deniers<sup>[[824.1]](https://abcnews.go.com/Health/wireStory/emails-show-cooperation-epa-climate-change-deniers-55456407)</sup>
+825. Threatened the Russian probe not to subpoena Trump<sup>[[825.1]](https://www.politico.com/story/2018/06/03/trump-mueller-subpoena-619054)</sup>
 
 
 ### Shit he says
