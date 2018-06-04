@@ -175,7 +175,7 @@ For more information on Rummel, see: http://www.crappytown.com/2011/12/why-rj-ru
 54: http://onlinelibrary.wiley.com/doi/10.1111/j.1747-7093.1999.tb00330.x/abstract  
 55: http://books.google.com.tr/books/about/The_Cuban_Revolution.html?id=r0GHscf95qQC&redir_esc=y  
 56: http://www.ncbi.nlm.nih.gov/pubmed/9110916  
-57: http://www.medicc.org/resources/documents/embargo/The%20impact%20of%20the%20U.S.%20Embargo%20on%20Health%20&%20Nutrition%20in%20Cuba.pdf
+57: http://www.medicc.org/resources/documents/embargo/The%20impact%20of%20the%20U.S.%20Embargo%20on%20Health%20&%20Nutrition%20in%20Cuba.pdf  
 58: https://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v003/3.4hidalgo.pdf  
 59: https://www2.bc.edu/~kearneyr/pdf_articles/pl86217.pdf  
 60: http://www.informationclearinghouse.info/article4068.htm  
