@@ -1,6 +1,6 @@
 # The History of Climate Denial
 
-### The Following is Chapter Eight from Jane Mayer's *Dark Money*
+#### The Following is Chapter Eight from Jane Mayer's *Dark Money*
 
 In the final months before the 2008 presidential election, Michael Mann, a tenured
 meteorology and geosciences professor at Penn State University who had become a
