@@ -41,7 +41,7 @@ These attacks have been called extrajudicial killings by the UN<sup>[[src]](http
 
 - Said healthcare was a human right, yet signed into law Obamacare - a federally funded system in which money goes to private corporations for profit thought up by the right-wing thinktank (Heritage Foundation)<sup>[[src]](http://www.alternet.org/health/139959)</sup>
 
-- Executed U.S. citizens without charging them with a crime or giving them a trial<sup>[[src]]</sup>
+- Executed U.S. citizens without charging them with a crime or giving them a trial<sup>[[src]](https://www.salon.com/2010/04/07/assassinations_2/)</sup>
 
 - Escalated the war in Yemen<sup>[[src]](https://www.salon.com/2012/04/26/obama_escalates_in_yemen/)</sup>
 
@@ -62,3 +62,7 @@ These attacks have been called extrajudicial killings by the UN<sup>[[src]](http
 - First president to [turn down public campaign financing](https://www.nytimes.com/2008/06/20/us/politics/20obamacnd.html) and went on to get money from Wall Street funders with deep pockets, like Goldman Sachs, Citigroup, JPMorgan Chase, Skadden Arps, and Morgan Stanley.<sup>[[src]](https://www.opensecrets.org/pres08/contrib.php?cycle=2008&cid=N00009638)</sup>
 
 - Signed into law the Foreign Intelligence Surveillance Act, which gave legal immunity to telecommunications companies complicit in Bush’s wiretapping.<sup>[[src]](https://venturebeat.com/2012/12/31/obama-fisa/)</sup>
+
+- [95% of all new jobs created](https://www.investing.com/news/economy-news/nearly-95-of-all-job-growth-during-obama-era-part-time,-contract-work-449057) under Obama were part time or contract
+
+- [Use of night raids on women and children](http://www.politico.com/story/2016/01/immigration-deportation-democrats-obama-217378)
