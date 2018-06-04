@@ -70,7 +70,7 @@ Now that you know what fascism is you'll be able to see through this false equiv
 In fact when the Nazis came to power they banned trade unions and privatised large sections of the economy, so the opposite of socialism. Nazi propaganda sent the message that Marxism is a secret plot by Jews to control the world, and at several points in Mein Kampf Hitler unambiguously condemns socialism. Another crucial difference is that whereas a socialist would analyse society in terms of class, the Nazis analysed it in terms of race, or people, or "volk." All of which is why the Nazis killed so many socialists: you know that famous poem by Martin Niemöller that starts, "First they came for the socialists, and I did not speak out because I wasn't a socialist"? Well the reason it says that is because they did.
 
 
-#### False Equivalencies // "Fascism isn't just Hitler"
+### False Equivalencies // "Fascism isn't just Hitler"
 
 Another sneaky trick that fascists are using at the moment is saying that fascism definitely isn't racist because Mussolini's fascism supposedly wasn't and they support this by selectively quoting Mussolini. This is a lie that's been peddled since at least the 1980s, designed to try and make fascism palatable again by crowbarring Mussolini and Hitler apart. We'll be talking about propaganda shortly. In fact as early as the 1920s Italian fascists were repeating white supremacist ideas. As well as producing Anti-Semitic propaganda, laws restricting the freedom of Jews, and building concentration camps.
 
