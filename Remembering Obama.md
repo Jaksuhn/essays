@@ -66,3 +66,63 @@ These attacks have been called extrajudicial killings by the UN<sup>[[src]](http
 - [95% of all new jobs created](https://www.investing.com/news/economy-news/nearly-95-of-all-job-growth-during-obama-era-part-time,-contract-work-449057) under Obama were part time or contract
 
 - [Use of night raids on women and children](http://www.politico.com/story/2016/01/immigration-deportation-democrats-obama-217378)
+
+- [Deported more undocumented immigrants than any other president](http://www.snopes.com/obama-deported-more-people/)
+
+- [Using detention camps to house yet-to-be-deported immigrants](http://www.nytimes.com/2015/02/08/magazine/the-shame-of-americas-family-detention-camps.html?_r=0)
+
+- [Increasingly militarized border](https://www.theguardian.com/us-news/2016/dec/07/report-us-border-patrol-desert-weapon-immigrants-mexico)
+
+- [Signed indefinite detention bill](https://www.aclu.org/news/president-obama-signs-indefinite-detention-bill-law)
+
+- [Sent his lawyers to defend said bill in front of the Supreme Court](http://www.politico.com/blogs/under-the-radar/2016/11/immigration-supreme-court-obama-administration-hearings-231996)
+
+- [Used the Espionage Act more times than any other president](http://www.politifact.com/punditfact/statements/2014/jan/10/jake-tapper/cnns-tapper-obama-has-used-espionage-act-more-all-/)
+
+- [Lied about it and defended it](http://www.politico.com/blogs/under-the-radar/2016/05/obama-defends-leak-prosecutions-first-amendment-223134)
+
+- [Prosecuted Chelsea Manning, unconstitutionally according to the ACLU](https://www.aclu.org/blog/speak-freely/why-prosecution-chelsea-manning-was-unconstitutional)
+
+- [Stood by while she was tortured via solitary and placed in a men's prison](http://www.rollingstone.com/culture/features/chelsea-manning-latest-way-military-is-violating-her-rights-w432196)
+
+- [Killed hundreds of civilians in seven countries](https://www.thebureauinvestigates.com/2016/07/01/obama-drone-casualty-numbers-fraction-recorded-bureau/)
+
+- [During one six month stretch estimates put civilian deaths at 90% of all deaths](http://www.huffingtonpost.com/entry/civilian-deaths-drone-strikes_us_561fafe2e4b028dd7ea6c4ff)
+
+- [It's probably a war crime by any other standard except the US did it](https://www.theguardian.com/commentisfree/2013/nov/05/obama-administration-drone-strikes-war-crimes)
+
+- [Killed a sixteen year old American citizen who had no solid connection to al-Qaeda two weeks after killing his father](https://en.wikipedia.org/wiki/Abdulrahman_al-Awlaki) His press secretary then said he should have had a more responsible father.
+
+- [Also killed American Warren Weinstein and covered it up](https://www.washingtonpost.com/news/worldviews/wp/2015/04/23/the-u-s-keeps-killing-americans-in-drone-strikes-mostly-by-accident/)
+
+- [Heavy use of double/triple tap strikes](http://www.independent.co.uk/news/world/americas/outrage-at-cias-deadly-double-tap-drone-attacks-8174771.html). That's when they kill a bunch of people, then kill the people sent in to clean it up, then bomb the funeral.
+
+- [Kept his Tuesday kill list/Disposition Matrix](https://en.wikipedia.org/wiki/Disposition_Matrix)
+
+- [Refused to rule out drone strikes on American soil](http://www.cnn.com/2013/03/05/politics/obama-drones-cia)
+
+- [Dropped 26,000 bombs last year](https://www.theguardian.com/commentisfree/2017/jan/09/america-dropped-26171-bombs-2016-obama-legacy)
+
+- [Expanded US efforts in Somalia, post election](http://www.nytimes.com/2016/11/27/us/politics/obama-expands-war-with-al-qaeda-to-include-shabab-in-somalia.html)
+
+- [Brokered more arms sales to countries than any other president since WW2.](https://www.thenation.com/article/the-obama-administration-has-sold-more-weapons-than-any-other-administration-since-world-war-ii/) Saudi Arabia was a large recipient of those weapons and is bombing Yemen indiscriminately.
+
+- [Most likely never really wanted to close Gitmo/end the indefinite detention part of it](http://www.salon.com/2012/07/23/the_obama_gitmo_myth/)
+
+- [Expanded NSA's use of spying on private citizens](https://www.washingtonpost.com/world/national-security/obama-administration-had-restrictions-on-nsa-reversed-in-2011/2013/09/07/c26ef658-0fe5-11e3-85b6-d27422650fd5_story.html)
+
+- [Waited until May 2012 to publicly support gay marriage, after 50% of the country supported it](http://www.gallup.com/poll/169640/sex-marriage-support-reaches-new-high.aspx)
+
+- [No one on Wall Street was prosecuted for the crash](https://www.theguardian.com/commentisfree/2013/jan/23/untouchables-wall-street-prosecutions-obama )
+
+- [No one in Bush administration was prosecuted for torture/war crimes](https://www.washingtonpost.com/posteverything/wp/2017/01/09/obamas-human-rights-failures-could-pave-the-way-for-trumps-excesses/)
+
+- [Stayed silent on a likely innocent man on death row](https://www.washingtonpost.com/blogs/therootdc/post/obama-silent-on-troy-davis/2011/09/21/gIQAH9tIlK_blog.html)
+
+- [Renewed private prison contracts despite their many issues and general lack of accountability](http://www.correctionalnews.com/articles/2016/11/16/bureau-prisons-renews-corecivic-contract-georgia-prison)
+
+- [Destabilizing Libya](http://www.theatlantic.com/international/archive/2016/04/obamas-worst-mistake-libya/478461/)
+
+- [Continued unfair sentencing for crack v cocaine](https://www.theguardian.com/commentisfree/2013/jul/23/us-v-blewett-obama-justice-department-shame)
+
+There's more, but that's a lot of the major ones in my opinion.
