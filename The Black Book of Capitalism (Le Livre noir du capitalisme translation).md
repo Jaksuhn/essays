@@ -8,4 +8,4 @@ First and foremost, this is an amateur translation and will likely contain many 
 
 ## <p align="center">Introduction</p>
 
-The Black Book of Capitalism was published in 1997 in response to the Black Book of Communism by Coutois.
+The Black Book of Capitalism was published by Coutois in 1997 in response to the Black Book of Communism.
