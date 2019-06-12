@@ -6,7 +6,7 @@
 
 <p align="center">TIL in North Korea they force prisoners onto major roadways to pick up trash</p>
 
-![TIL in North Korea they force prisoners onto major roadways to pick up trash😭](https://i.redd.it/4vsjqyyc4n331.jpg "TIL in North Korea they force prisoners onto major roadways to pick up trash")
+![TIL in North Korea they force prisoners onto major roadways to pick up trash](https://i.redd.it/4vsjqyyc4n331.jpg "TIL in North Korea they force prisoners onto major roadways to pick up trash")
 
 **[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bz6yxz/til_in_north_korea_they_force_prisoners_onto/)**
 
@@ -69,3 +69,39 @@
 ![In North Korea even the most mild forms of dissent are suppressed](https://i.redd.it/juoyyahicx331.jpg "In North Korea even the most mild forms of dissent are suppressed")
 
 **[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzqzml/in_north_korea_even_the_most_mild_forms_of/)**
+
+<p align="center">In North Korea, the state hangs things such as free higher education over the heads of its citizens to increase military recruitment. Going so far as to pry on vulnerable children in their places of education</p>
+
+![In North Korea, the state hangs things such as free higher education over the heads of its citizens to increase military recruitment. Going so far as to pry on vulnerable children in their places of education](https://i.redd.it/b7qa0mjfpx331.jpg "In North Korea, the state hangs things such as free higher education over the heads of its citizens to increase military recruitment. Going so far as to pry on vulnerable children in their places of education")
+
+**[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzrsh4/in_north_korea_the_state_hangs_things_such_as/)**
+
+<p align="center">North Korea has 600,000 people who face homelessness on a given night, despite having 18 million empty homes.</p>
+
+![North Korea has 600,000 people who face homelessness on a given night, despite having 18 million empty homes.](https://i.redd.it/hkchngce1w331.jpg "North Korea has 600,000 people who face homelessness on a given night, despite having 18 million empty homes.")
+
+**[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzoovt/north_korea_has_600000_people_who_face/)**
+
+<p align="center">I still can't believe North Korea got away with sending its top diplomat, a former military leader, to the UN to lie to them as pretext to start a war which killed over 100,000 people. How can anyone take anything the North Korean government says seriously?</p>
+
+![I still can't believe North Korea got away with sending its top diplomat, a former military leader, to the UN to lie to them as pretext to start a war which killed over 100,000 people. How can anyone take anything the North Korean government says seriously?](https://i.imgur.com/TRTl8b2.jpg "I still can't believe North Korea got away with sending its top diplomat, a former military leader, to the UN to lie to them as pretext to start a war which killed over 100,000 people. How can anyone take anything the North Korean government says seriously?")
+
+**[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzogzv/i_still_cant_believe_north_korea_got_away_with/)**
+
+<p align="center">North Korea has cult dedicated to these people who committed horrible atrocities. Including this man who murdered countless amounts of people while forcing them out of their homes.</p>
+
+![North Korea has cult dedicated to these people who committed horrible atrocities. Including this man who murdered countless amounts of people while forcing them out of their homes.](https://i.redd.it/zuxpifiu0u331.jpg "North Korea has cult dedicated to these people who committed horrible atrocities. Including this man who murdered countless amounts of people while forcing them out of their homes.")
+
+**[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzl8iy/north_korea_has_cult_dedicated_to_these_people/)**
+
+<p align="center">North Korea’s propaganda is obsessive. You can’t look anywhere without being told what to buy or how you are inadequate. Just disgusting.</p>
+
+![North Korea’s propaganda is obsessive. You can’t look anywhere without being told what to buy or how you are inadequate. Just disgusting.](https://i.redd.it/how8gu4zcs331.jpg "North Korea’s propaganda is obsessive. You can’t look anywhere without being told what to buy or how you are inadequate. Just disgusting.")
+
+**[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzhm4x/north_koreas_propaganda_is_obsessive_you_cant/)**
+
+<p align="center">In North Korea this man exposed how the government was spying on people. He had to flee the country, to escape 30 years of hard labour</p>
+
+![In North Korea this man exposed how the government was spying on people. He had to flee the country, to escape 30 years of hard labour](https://i.redd.it/6hzm9q92ur331.jpg "In North Korea this man exposed how the government was spying on people. He had to flee the country, to escape 30 years of hard labour")
+
+**[src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzgbak/in_north_korea_this_man_exposed_how_the/)**
