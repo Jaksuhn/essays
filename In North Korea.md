@@ -105,3 +105,15 @@
 ![In North Korea this man exposed how the government was spying on people. He had to flee the country, to escape 30 years of hard labour](https://i.redd.it/6hzm9q92ur331.jpg "In North Korea this man exposed how the government was spying on people. He had to flee the country, to escape 30 years of hard labour")
 
 [src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzgbak/in_north_korea_this_man_exposed_how_the/)
+
+# In North Korea the state media scorns those who don’t show dutiful allegiance to their leaders
+
+![In North Korea the state media scorns those who don’t show dutiful allegiance to their leaders](https://i.redd.it/qknvtmd6b4431.jpg "In North Korea the state media scorns those who don’t show dutiful allegiance to their leaders")
+
+[src](https://www.reddit.com/r/ChapoTrapHouse/comments/c0584e/in_north_korea_the_state_media_scorns_those_who/)
+
+# In North Korea Political and Military officials are given cushy jobs in the state media apparatus, repeating the party dogma.
+
+![In North Korea Political and Military officials are given cushy jobs in the state media apparatus, repeating the party dogma.](https://i.redd.it/u1g9r39mi4431.jpg "In North Korea Political and Military officials are given cushy jobs in the state media apparatus, repeating the party dogma.")
+
+[src](https://www.reddit.com/r/ChapoTrapHouse/comments/c05nke/in_north_korea_political_and_military_officials/)
