@@ -1,6 +1,6 @@
 # The cult of personality in North Korea is truly sad. 😭😭😭
 
-![The cult of personality in North Korea is truly sad. 😭😭😭](https://i.redd.it/kieentr3ef331.jpg "The cult of personality in North Korea is truly sad. 😭😭😭")
+<p align="center">![The cult of personality in North Korea is truly sad. 😭😭😭](https://i.redd.it/kieentr3ef331.jpg "The cult of personality in North Korea is truly sad. 😭😭😭")</p>
 
 [src](https://www.reddit.com/r/ChapoTrapHouse/comments/byrd2r/the_cult_of_personality_in_north_korea_is_truly/)
 
@@ -66,7 +66,7 @@
 
 # In North Korea even the most mild forms of dissent are suppressed
 
-![In North Korea even the most mild forms of dissent are suppressed](https://i.redd.it/juoyyahicx331.jpg "In North Korea even the most mild forms of dissent are suppressed")
+![In North Korea even the most mild forms of dissent are suppressed](https://i.imgur.com/80ZzlfY.jpg "In North Korea even the most mild forms of dissent are suppressed")
 
 [src](https://www.reddit.com/r/ChapoTrapHouse/comments/bzqzml/in_north_korea_even_the_most_mild_forms_of/)
 
