@@ -1,4 +1,4 @@
-->The cult of personality in North Korea is truly sad. 😭😭😭<-
+<p align="center">The cult of personality in North Korea is truly sad. 😭😭😭</p>
 
 ![The cult of personality in North Korea is truly sad. 😭😭😭](https://i.redd.it/kieentr3ef331.jpg "The cult of personality in North Korea is truly sad. 😭😭😭")
 
